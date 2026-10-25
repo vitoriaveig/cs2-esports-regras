@@ -12,10 +12,10 @@ procedencia: "Oficial (site da ESIC)"
 acesso: "coletável"
 url: "https://esic.gg/codes/definitions/"
 fonte_original: ""
-sha256: "1976dba61101fc65d17a234510c20c77cfc461ebf7c4ff208698d21a3e615488"
+sha256: "f24712b4d4eefd2ae33c246c3742c0794f0e9948962f18bd741a8a746d551870"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-25T16:01:32Z"
+baixado_em: "2026-10-25T16:03:59Z"
 acervo: "cs2-esports-regras (https://github.com/vitoriaveig/cs2-esports-regras)"
 ---
 

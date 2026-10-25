@@ -15,7 +15,7 @@ fonte_original: "https://github.com/ValveSoftware/counter-strike_rules_and_regs"
 sha256: "5ba14b7b62e74ea0909ca452c5882d09cb334e61af87e97597721d773a06b21d"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-25T16:01:32Z"
+baixado_em: "2026-10-25T16:03:59Z"
 acervo: "cs2-esports-regras (https://github.com/vitoriaveig/cs2-esports-regras)"
 ---
 # The CS Major Supplemental Rulebook

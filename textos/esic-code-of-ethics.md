@@ -12,10 +12,10 @@ procedencia: "Oficial (site da ESIC)"
 acesso: "coletável"
 url: "https://esic.gg/codes/code-of-ethics/"
 fonte_original: ""
-sha256: "c37632b6d457fbd5cd9be9a44747345810b0ce7837a77b0893d51bbc73fdce2b"
+sha256: "093e30df907305d816070324e6c038fb0dea645bbb2cb08d4aed25eb050f11de"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-25T16:01:35Z"
+baixado_em: "2026-10-25T16:04:02Z"
 acervo: "cs2-esports-regras (https://github.com/vitoriaveig/cs2-esports-regras)"
 ---
 

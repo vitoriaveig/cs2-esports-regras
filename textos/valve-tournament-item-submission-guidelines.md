@@ -15,7 +15,7 @@ fonte_original: "https://github.com/ValveSoftware/counter-strike_rules_and_regs"
 sha256: "830ffc6f90bf7497a2e34e01315e89377dfc63a25c5482654bc80406d6e95d30"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-25T16:01:32Z"
+baixado_em: "2026-10-25T16:03:59Z"
 acervo: "cs2-esports-regras (https://github.com/vitoriaveig/cs2-esports-regras)"
 ---
 ## TOURNAMENT ITEMS

@@ -350,6 +350,18 @@ def main():
 
     validos = {Path(d["texto"]).stem for d in docs}
     manifest = {k: v for k, v in manifest.items() if k in validos}  # remove documentos que saíram do catálogo
+    # textos e planilhas de documentos que saíram do catálogo (ver catalogo/excluidos.csv) são removidos
+    for arq in list((raiz / "textos").glob("*.md")) + list((raiz / "dados").glob("*__*.csv")):
+        if arq.name.split("__")[0].removesuffix(".md") not in validos:
+            arq.unlink(); print(f"[removido] {arq.relative_to(raiz)}")
+    # o cabeçalho dos textos já coletados acompanha a curadoria atual do catálogo, sem baixar de novo
+    for d in docs:
+        tid = Path(d["texto"]).stem; arq = raiz / "textos" / f"{tid}.md"; reg = manifest.get(tid)
+        if not reg or reg.get("status") != "ok" or not arq.exists(): continue
+        if d.get("idioma") and d["idioma"] != "a verificar": reg["idioma"] = d["idioma"]
+        atual = arq.read_text(encoding="utf-8")
+        novo = cabecalho(d, reg) + atual.split("\n---\n", 1)[-1].strip() + "\n"
+        if novo != atual: arq.write_text(novo, encoding="utf-8")
     with open(manifest_path, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=CAMPOS_MANIFEST); w.writeheader()
         for k in sorted(manifest): w.writerow({c: manifest[k].get(c, "") for c in CAMPOS_MANIFEST})

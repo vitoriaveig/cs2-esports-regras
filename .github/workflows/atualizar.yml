@@ -63,7 +63,7 @@ jobs:
 
       - name: Gravar no repositório
         run: |
-          git add catalogo textos dados historico manifest.csv secoes.csv
+          git add -f catalogo textos dados historico manifest.csv secoes.csv   # -f: o .gitignore da Valve ignora *.csv e *.json
           git diff --cached --quiet || git commit -m "Corpus atualizado em $(date -u +%Y-%m-%d)"
           git pull --no-rebase --no-edit origin main || true
           git push

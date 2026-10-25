@@ -1,0 +1,69 @@
+name: Sincronizar com a Valve e atualizar corpus
+
+on:
+  workflow_dispatch:
+    inputs:
+      forcar:
+        description: "Baixar todos os documentos de novo (true/false)"
+        default: "false"
+  schedule:
+    - cron: "41 9 * * 1"   # toda segunda-feira, 06:41 (Brasília)
+  push:
+    paths:
+      - "catalogo/fontes.csv"
+      - "scripts/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: corpus
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0   # histórico completo: necessário para o histórico das regras da Valve
+
+      - name: Sincronizar com ValveSoftware/counter-strike_rules_and_regs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote add upstream https://github.com/ValveSoftware/counter-strike_rules_and_regs.git
+          git fetch -q upstream main
+          git merge --no-edit -X theirs upstream/main -m "Sincroniza com as regras da Valve" || echo "Nada a sincronizar"
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dependências
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils ocrmypdf tesseract-ocr-eng tesseract-ocr-por tesseract-ocr-spa
+          pip install -q -r requirements.txt
+
+      - name: Histórico da Valve e base de exceções
+        run: python scripts/historico_valve.py
+
+      - name: Índice do Valve Regional Standings
+        run: python scripts/indice_vrs.py
+
+      - name: Gerar catálogo
+        run: python scripts/gerar_catalogo.py
+
+      - name: Baixar e extrair textos
+        run: |
+          if [ "${{ github.event.inputs.forcar }}" = "true" ]; then F="--forcar"; else F=""; fi
+          python scripts/baixar_e_extrair.py $F
+
+      - name: Gravar no repositório
+        run: |
+          git add catalogo textos dados historico manifest.csv secoes.csv
+          git diff --cached --quiet || git commit -m "Corpus atualizado em $(date -u +%Y-%m-%d)"
+          git pull --no-rebase --no-edit origin main || true
+          git push

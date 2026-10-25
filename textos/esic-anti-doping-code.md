@@ -15,7 +15,7 @@ fonte_original: ""
 sha256: "a2407dbeebf6314634007196dd87073b4c2ce807ac87534cd4cfe98f6c3c2be9"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-25T15:34:50Z"
+baixado_em: "2026-10-25T15:44:00Z"
 acervo: "cs2-esports-regras (https://github.com/vitoriaveig/cs2-esports-regras)"
 ---
 Anti-Doping Code

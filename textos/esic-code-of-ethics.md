@@ -15,7 +15,7 @@ fonte_original: ""
 sha256: "3cbefb099f133da2fd69b0bedec5e4e3acd9be252cebb9d29cabf80782ba5cb5"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-25T15:34:45Z"
+baixado_em: "2026-10-25T15:43:54Z"
 acervo: "cs2-esports-regras (https://github.com/vitoriaveig/cs2-esports-regras)"
 ---
 Code of Ethics

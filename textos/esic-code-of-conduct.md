@@ -15,7 +15,7 @@ fonte_original: ""
 sha256: "b32d8a74316652e6a7f02f956a05a2a646afa7d85cd2898e7414f4d1574c044f"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-25T15:34:47Z"
+baixado_em: "2026-10-25T15:43:56Z"
 acervo: "cs2-esports-regras (https://github.com/vitoriaveig/cs2-esports-regras)"
 ---
 Code of Conduct

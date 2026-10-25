@@ -196,6 +196,8 @@ def main():
     ap.add_argument("--id")
     ap.add_argument("--local", help="pasta com arquivos já baixados (nome do arquivo = id ou chave_arquivo)")
     ap.add_argument("--salvar-originais", action="store_true")
+    ap.add_argument("--max-liquipedia", type=int, default=30,
+                    help="máximo de downloads da Liquipedia por execução (respeita o limite de ritmo do site)")
     a = ap.parse_args()
     raiz = Path(a.raiz)
     for d in ["textos", "dados", "originais"]: (raiz / d).mkdir(exist_ok=True)
@@ -215,6 +217,7 @@ def main():
     manifest = dict(anterior)
 
     feitos = set()
+    n_liquipedia = 0
     for tid, d in unicos.items():
         prev = anterior.get(tid)
         if d.get("acesso", "").startswith("fornecido"):
@@ -239,6 +242,13 @@ def main():
         if (prev and prev["status"] == "ok" and prev["url"] == d["url"] and imutavel and "pouco texto" not in prev.get("detalhe", "")
                 and not a.forcar and not a.local):
             continue
+        if dl and "liquipedia.net" in dl and not a.local:
+            if n_liquipedia >= a.max_liquipedia:
+                manifest[tid] = prev or {**{k: "" for k in CAMPOS_MANIFEST}, "texto_id": tid, "chave_arquivo": d["chave_arquivo"],
+                                         "titulo": d["titulo"], "url": d["url"], "status": "pendente",
+                                         "detalhe": "aguardando a próxima coleta (limite de ritmo da Liquipedia)", "baixado_em": agora()}
+                continue
+            n_liquipedia += 1
         reg = {k: "" for k in CAMPOS_MANIFEST}
         reg.update(texto_id=tid, chave_arquivo=d["chave_arquivo"], titulo=d["titulo"], url=d["url"],
                    url_download=dl or "", baixado_em=agora(), arquivo_texto=f"textos/{tid}.md")
@@ -253,9 +263,13 @@ def main():
             if dados is None and modo == "repo":
                 dados = (raiz / dl).read_bytes(); reg["detalhe"] = "arquivo deste repositório (Valve)"
             if dados is None:
-                r = sess.get(dl, timeout=90, allow_redirects=True); reg["http"] = r.status_code
+                for tentativa in range(4):
+                    r = sess.get(dl, timeout=90, allow_redirects=True); reg["http"] = r.status_code
+                    if r.status_code != 429: break
+                    espera = int(r.headers.get("Retry-After", "60") or 60)
+                    print(f"  429 em {dl[:60]}…; aguardando {espera}s", flush=True); time.sleep(min(espera, 300))
                 r.raise_for_status(); dados = r.content
-                time.sleep(4 if "liquipedia.net" in dl else PAUSA)
+                time.sleep(12 if "liquipedia.net" in dl else PAUSA)
                 tipo_ct = r.headers.get("content-type", "")
                 if modo == "drive" and b"%PDF" not in dados[:1024] and b"confirm=" in dados:
                     m = re.search(rb'href="(/uc\?export=download[^"]+)"', dados) or re.search(rb'action="([^"]+)"', dados)

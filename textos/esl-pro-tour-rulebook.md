@@ -15,7 +15,7 @@ fonte_original: "https://pro.eslgaming.com/tour/2026/07/esl-pro-tour-counter-str
 sha256: "11d6273b2aa523bb6086e384036c03674d73f825dcd7c3bdd5125d0545c16ae1"
 paginas: "72"
 idioma: "en"
-baixado_em: "2026-10-25T15:44:05Z"
+baixado_em: "2026-10-25T15:52:07Z"
 acervo: "cs2-esports-regras (https://github.com/vitoriaveig/cs2-esports-regras)"
 ---
 <!-- página 1 -->

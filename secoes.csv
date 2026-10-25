@@ -1,4 +1,65 @@
 texto_id,secao,titulo_secao,pagina
+1xchallenge-rulebook,1.1,Equipes e jogadoras,2
+1xchallenge-rulebook,1.2,Fuso horário,2
+1xchallenge-rulebook,1.3,Administração do Torneio,2
+1xchallenge-rulebook,2.1,As alterações das regras,2
+1xchallenge-rulebook,2.2,Contato com o Administrador do Torneio,2
+1xchallenge-rulebook,2.3,Código de Conduta,3
+1xchallenge-rulebook,2.4,Transmissão das Partidas,3
+1xchallenge-rulebook,2.5,Conta do Jogo,3
+1xchallenge-rulebook,2.6,Inscrição nos torneios,3
+1xchallenge-rulebook,2.7,Número de jogadoras por time,4
+1xchallenge-rulebook,2.8,Mudança de jogadoras na equipe,4
+1xchallenge-rulebook,2.9,Jogadoras completando para outras equipes,4
+1xchallenge-rulebook,2.11,Calendário e duração dos eventos,5
+1xchallenge-rulebook,2.12,Demos e Replays,5
+1xchallenge-rulebook,2.13,Cheating e Fraude,5
+1xchallenge-rulebook,2.14,Falha no sistema e Servidores,5
+1xchallenge-rulebook,2.15,Atualização de versão do Counter Strike,6
+1xchallenge-rulebook,2.16,Coach no servidor da partida,6
+1xchallenge-rulebook,2.17,Premiação,6
+1xchallenge-rulebook,2.18,Espectadores,7
+1xchallenge-rulebook,3.1,Mapas,7
+1xchallenge-rulebook,3.2,Partidas melhor de um (MD1),7
+1xchallenge-rulebook,3.3,Partidas melhor de três (MD3),7
+1xchallenge-rulebook,3.4,Uso do pause,7
+1xchallenge-rulebook,3.6,POV,8
+allied-esports-odyssey-rulebook,1,VALIDITY,2
+allied-esports-odyssey-rulebook,2,TOURNAMENT STRUCTURE,2
+allied-esports-odyssey-rulebook,2.1,FORMAT,2
+allied-esports-odyssey-rulebook,3,ACCOUNT GUIDELINES,4
+allied-esports-odyssey-rulebook,3.1,TEAM ACCOUNT,4
+allied-esports-odyssey-rulebook,3.2,CHANGES TO PLAYER OR TEAM ACCOUNTS,5
+allied-esports-odyssey-rulebook,4,ELIGIBILITY TO PLAY,6
+allied-esports-odyssey-rulebook,5,GAME SPECIFIC RULES – VALORANT,6
+allied-esports-odyssey-rulebook,5.1,Game/Client: The newest version of the game has to be installed by all players in,6
+allied-esports-odyssey-rulebook,5.2,Anti-Cheat: Riot Games has equipped VALORANT with tools to counter cheating,7
+allied-esports-odyssey-rulebook,6,MATCH SERVER AND SETTINGS,7
+allied-esports-odyssey-rulebook,6.1,"Map: The official VALORANT maps “Haven”, “Bind”, “Split” and “Ascent” will be",7
+allied-esports-odyssey-rulebook,6.2,Limitations in Gameplay: Gameplay restrictions can be added at any time,7
+allied-esports-odyssey-rulebook,7,MATCH PROCEDURE,7
+allied-esports-odyssey-rulebook,7.1,Confirm Participation,7
+allied-esports-odyssey-rulebook,7.1.2,Exactly five (5) members per team must confirm their participation in every match,7
+allied-esports-odyssey-rulebook,7.2,Match start,7
+allied-esports-odyssey-rulebook,7.2.1,Time Zone,8
+allied-esports-odyssey-rulebook,7.2.2,Pausing,8
+allied-esports-odyssey-rulebook,7.2.3,Disconnect,9
+allied-esports-odyssey-rulebook,7.2.4,Rehost,9
+allied-esports-odyssey-rulebook,7.2.5,Match management,9
+allied-esports-odyssey-rulebook,7.3,Lobby Hosting,9
+allied-esports-odyssey-rulebook,7.4,Map veto,10
+allied-esports-odyssey-rulebook,7.5,Report match score,11
+allied-esports-odyssey-rulebook,7.6,Forfeit or leaving during the tournament,12
+allied-esports-odyssey-rulebook,8,Game Coverage,12
+allied-esports-odyssey-rulebook,8.1,Player Responsibility,12
+allied-esports-odyssey-rulebook,8.2,Interviews,13
+allied-esports-odyssey-rulebook,8.3,Photo and Other Media Rights,13
+allied-esports-odyssey-rulebook,9,FRAUD / DECEPTION,13
+allied-esports-odyssey-rulebook,9.2,Exploits & Bugs:,13
+allied-esports-odyssey-rulebook,10,COMMUNICATION AND SUPPORT,14
+allied-esports-odyssey-rulebook,10.1,Admins: Any person authorized by Allied Esports to conduct the Allied Esports,14
+allied-esports-odyssey-rulebook,10.2,Support Channels: To receive assistance or request help from a member of the,14
+allied-esports-odyssey-rulebook,11,REPORTING GUIDELINE,15
 bgs-esports-2023-female-rulebook,1,Definições,5
 bgs-esports-2023-female-rulebook,1.1,Introdução,5
 bgs-esports-2023-female-rulebook,1.2,Documentos Regulatórios,5
@@ -1010,6 +1071,59 @@ blast-tv-austin-major-2025-rulebook,16.6.1,Stage One:,33
 blast-tv-austin-major-2025-rulebook,16.6.2,Stage Two:,33
 blast-tv-austin-major-2025-rulebook,16.6.3,Stage Three:,33
 blast-tv-austin-major-2025-rulebook,16.6.4,Play Off:,33
+blesti-2-0-rulebook,1,A competição de Counter-Strike 2 será realizada de acordo com este Regulamento,1
+blesti-2-0-rulebook,2,AS EQUIPES/ESTUDANTES ATLETAS DEVEM:,1
+blesti-2-0-rulebook,2.1,Estar de acordo com os critérios de elegibilidade estabelecidos no Regulamento,1
+blesti-2-0-rulebook,2.2,Demonstrar comportamento compatível com o código de conduta especificado,1
+blesti-2-0-rulebook,2.3,Ter uma conta Steam válida;,1
+blesti-2-0-rulebook,2.4,Jogar em suas contas não sendo permitido que outras pessoas joguem na conta,1
+blesti-2-0-rulebook,2.5,"Só é permitido que um(a) atleta represente uma única equipe, ou seja, fica",1
+blesti-2-0-rulebook,2.6,Conhecer as regras e configurações de jogo em sua totalidade;,1
+blesti-2-0-rulebook,3,A COMPETIÇÃO SERÁ REALIZADA NA CATEGORIA CONFORME DESCRITO ABAIXO:,1
+blesti-2-0-rulebook,3.1,"Equipe, podendo ser mista ou não;",1
+blesti-2-0-rulebook,3.2,"Cada equipe deverá ter 5 componentes titulares, e no máximo 2 reservas",2
+blesti-2-0-rulebook,3.3,Todos os jogadores participantes devem ter conta válida e estar na mesma equipe,2
+blesti-2-0-rulebook,3.4,A plataforma irá exibir os horários das partidas de acordo com o fuso horário de,2
+blesti-2-0-rulebook,4,DAS FASES E ETAPAS DE COMPETIÇÃO:,2
+blesti-2-0-rulebook,4.1,A competição é dividida em 2 etapas sendo estas: Fase de Grupos e Eliminatórias;,2
+blesti-2-0-rulebook,4.2,Da etapa online:,2
+blesti-2-0-rulebook,4.2.1,Fase de Grupos,2
+blesti-2-0-rulebook,4.2.2,Eliminatórias;,2
+blesti-2-0-rulebook,4.2.3,A escalação oficial (“time base”) de uma equipe são os 5 (cinco) jogadores que,3
+blesti-2-0-rulebook,5,DOS PROCEDIMENTOS DE JOGOS:,3
+blesti-2-0-rulebook,5.1,O horário das partidas será através de marcação em comum acordo entre as,3
+blesti-2-0-rulebook,5.2,Os(as) atletas deverão estar online com ao menos 10 minutos de antecedência,3
+blesti-2-0-rulebook,5.3,Limite de tempo para liberar o servidor:,3
+blesti-2-0-rulebook,5.4,Limite de tempo para entrar no servidor:,3
+blesti-2-0-rulebook,5.5,É permitido que o 5º (quinto) jogador entre no servidor após o início da partida;,4
+blesti-2-0-rulebook,5.6,"Em caso de desconexão de algum jogador, é permitido que um jogador reserva",4
+blesti-2-0-rulebook,5.7,Caso uma equipe não compareça por conta de uma partida do mesmo,4
+blesti-2-0-rulebook,5.8,"O Comitê organizador pode, a seu critério, reordenar a programação das partidas",4
+blesti-2-0-rulebook,5.9,Serão divulgadas as tabelas de pontuações após a finalização das partidas por,4
+blesti-2-0-rulebook,5.10,"Todas as informações, resultados e classificações pertinentes ao",4
+blesti-2-0-rulebook,6,DAS CONFIGURAÇÕES DE JOGO ESPECÍFICAS DA MODALIDADE:,4
+blesti-2-0-rulebook,6.1,Os vetos devem ser realizados dentro do servidor da partida,4
+blesti-2-0-rulebook,6.2,Mapas:,4
+blesti-2-0-rulebook,8.2.2,O Operador de liga deve anunciar a mudança em tempo que considere justo;,5
+blesti-2-0-rulebook,6.3,Partidas melhor-de-1 (MD1):,5
+blesti-2-0-rulebook,6.4,Partidas melhor-de-3 (MD3):,5
+blesti-2-0-rulebook,6.5,Uso do pause:,6
+blesti-2-0-rulebook,6.6,Uso de Bugs e Glitches:,6
+blesti-2-0-rulebook,6.7,Uso de skins de Agentes:,6
+blesti-2-0-rulebook,6.8,POV:,6
+blesti-2-0-rulebook,7,DO CÓDIGO DE CONDUTA:,7
+blesti-2-0-rulebook,7.1,Todos os participantes do evento concordam em se comportar de maneira,7
+blesti-2-0-rulebook,7.2,O administrador deve ser chamado no chat do Discord/TeamSpeak no momento,7
+blesti-2-0-rulebook,7.3,Demos e Replays:,7
+blesti-2-0-rulebook,7.4,Cheating e Fraude:,7
+blesti-2-0-rulebook,7.5,Falha no sistema e servidores:,7
+blesti-2-0-rulebook,7.6,Queda do servidor:,7
+blesti-2-0-rulebook,7.7,Backups durante a partida por motivos externos:,8
+blesti-2-0-rulebook,7.8,Atualização de versão do Counter Strike:,8
+blesti-2-0-rulebook,7.9,Desistência da equipe:,8
+blesti-2-0-rulebook,8,DISPOSIÇÕES GERAIS:,8
+blesti-2-0-rulebook,8.2,A Organização se isenta de quaisquer problemas causados pela conexão na etapa,9
+blesti-2-0-rulebook,9,"Os casos omissos serão resolvidos pela Coordenação da modalidade, com anuência da",9
 cbcs-2022-rulebook,3.9.5,Da cessão dos direitos de imagem dos jogadores e demais profissionais das,4
 cbcs-2022-rulebook,1.1,Eventos,7
 cbcs-2022-rulebook,1.2,Abrangência,7
@@ -1279,6 +1393,45 @@ cbcs-retake-series-season-1-rulebook,5.10.4,Interrupções da partida,22
 cbcs-retake-series-season-1-rulebook,5.10.5,Uso de bugs e falhas,23
 cbcs-retake-series-season-1-rulebook,5.10.5.1,Novas posições,23
 cbcs-retake-series-season-1-rulebook,5.10.6,Juntando-se à equipe errada,23
+cee-champions-streamers-edition-rulebook,1,ChallengerMode Platform,2
+cee-champions-streamers-edition-rulebook,1.1,General,2
+cee-champions-streamers-edition-rulebook,1.2,Anti-cheat,2
+cee-champions-streamers-edition-rulebook,2,Tournament format,2
+cee-champions-streamers-edition-rulebook,2.1,Group Stage,3
+cee-champions-streamers-edition-rulebook,2.2,Play-offs,3
+cee-champions-streamers-edition-rulebook,2.3,Prize pool,3
+cee-champions-streamers-edition-rulebook,2.4,Schedule,3
+cee-champions-streamers-edition-rulebook,3,Matches,4
+cee-champions-streamers-edition-rulebook,3.1,Map pool,4
+cee-champions-streamers-edition-rulebook,3.2,Best-of-One,4
+cee-champions-streamers-edition-rulebook,3.3,Best-of-Three,5
+cee-champions-streamers-edition-rulebook,3.4,Match settings,5
+cee-champions-streamers-edition-rulebook,3.5,After the match,5
+cee-champions-streamers-edition-rulebook,4,Participants,5
+cee-champions-streamers-edition-rulebook,4.1,Team composition,6
+cee-champions-streamers-edition-rulebook,5,Teams and players,6
+cee-champions-streamers-edition-rulebook,5.1,Teams,6
+cee-champions-streamers-edition-rulebook,5.2,Players,6
+cee-champions-streamers-edition-rulebook,6,Streaming,7
+cee-champions-streamers-edition-rulebook,6.1,General,7
+cee-champions-streamers-edition-rulebook,7,Communication,7
+cee-champions-streamers-edition-rulebook,7.1,Discord,7
+cee-champions-streamers-edition-rulebook,7.2,Official communication,7
+cee-champions-streamers-edition-rulebook,8,Pauses,7
+cee-champions-streamers-edition-rulebook,8.1,Technical pause,7
+cee-champions-streamers-edition-rulebook,8.2,Tactical pause,7
+cee-champions-streamers-edition-rulebook,8.3,Admin pause,8
+cee-champions-streamers-edition-rulebook,9,Demos,8
+cee-champions-streamers-edition-rulebook,9.1,General,8
+cee-champions-streamers-edition-rulebook,9.2,Requesting demos,8
+cee-champions-streamers-edition-rulebook,9.3,Recording demos,8
+cee-champions-streamers-edition-rulebook,10,Forbidden actions,8
+cee-champions-streamers-edition-rulebook,10.1,Cheating,8
+cee-champions-streamers-edition-rulebook,10.2,Self-Kills,9
+cee-champions-streamers-edition-rulebook,10.3,Non-default character models,9
+cee-champions-streamers-edition-rulebook,10.4,Bugs and Glitches,9
+cee-champions-streamers-edition-rulebook,1,"The use of any bugs, glitches, or errors in the game intentionally is prohibited",9
+cee-champions-streamers-edition-rulebook,10.5,Movement Binds,9
 cs-summit-8-rulebook,1,General Information,1
 cs-summit-8-rulebook,2,Participants,1
 cs-summit-8-rulebook,3,Tournament Format,1
@@ -1362,6 +1515,77 @@ csppa-world-ranking-rulebook-13-08-2020,7,WePlay!,19
 csppa-world-ranking-rulebook-13-08-2020,1,Valve Corporation,19
 csppa-world-ranking-rulebook-13-08-2020,1,The North American LCS Players Association (NALCSPA),19
 csppa-world-ranking-rulebook-13-08-2020,2,University of Chichester,19
+denmark-national-league-2024-ruleset,I,INTRODUKTION,4
+denmark-national-league-2024-ruleset,1,HOLD REGLER,5
+denmark-national-league-2024-ruleset,1.1,SAMMENSÆTNING,5
+denmark-national-league-2024-ruleset,1.2,HOLDKAPTAJNER,5
+denmark-national-league-2024-ruleset,1.2.2,"Holdkaptajner vil være ansvarlige for den generelle organisering af deres hold,",5
+denmark-national-league-2024-ruleset,1.2.3,I nogle tilfælde kan de administrative opgaver for en holdkaptajn varetages af en,5
+denmark-national-league-2024-ruleset,1.3,TRÆNERE,6
+denmark-national-league-2024-ruleset,1.4,TEAM BRANDING,6
+denmark-national-league-2024-ruleset,1.4.1,Holdnavne må ikke indeholde stødende eller diskriminerende sprogbrug,6
+denmark-national-league-2024-ruleset,1.4.2,Holdlogoer må ikke indeholde stødende eller diskriminerende sprog eller billeder,6
+denmark-national-league-2024-ruleset,2,SPILLER BETINGELSER,7
+denmark-national-league-2024-ruleset,2.1,SPILLEBERETTIGELSE,7
+denmark-national-league-2024-ruleset,2.2,SPILLERREGISTRERING,7
+denmark-national-league-2024-ruleset,2.2.1,Spillere skal have deres egen Valorant-konto for at kunne registrere sig,7
+denmark-national-league-2024-ruleset,2.2.3,"Alle spillere skal være medlem i discorden, da holdene skal sidde i discord og",7
+denmark-national-league-2024-ruleset,2.2.4,"Hvis en spiller har spillet i en ERL i indeværende sæson, kan vedkommende ikke",7
+denmark-national-league-2024-ruleset,2.2.7,Deling af konti mellem spillere er ikke tilladt,8
+denmark-national-league-2024-ruleset,2.2.8,Vulgære eller obskøne navne er ikke tilladt,8
+denmark-national-league-2024-ruleset,3,TURNERINGSSTRUKTUR,8
+denmark-national-league-2024-ruleset,3.1,GRUPPESPIL,8
+denmark-national-league-2024-ruleset,3.1.1,Turneringen er delt op i 3 divisioner,8
+denmark-national-league-2024-ruleset,3.1.2,Alle kampe vil blive spillet som en BO3,8
+denmark-national-league-2024-ruleset,3.1.3,Kampene i alle divisionerne vil som udgangspunkt blive spillet tirsdag kl,8
+denmark-national-league-2024-ruleset,3.1.4,Gruppespillet vil forløbe med sidste gruppekamp i uge 43 (Kan ændres jf,8
+denmark-national-league-2024-ruleset,3.2,FINALER,9
+denmark-national-league-2024-ruleset,3.2.1,Specifikke regler for finalerne vil blive offentliggjort når vi kommer tættere på,9
+denmark-national-league-2024-ruleset,3.2.2,Finalen for 1,9
+denmark-national-league-2024-ruleset,3.2.3,Resterende finaler bliver afholdt i weekenden uge 44,9
+denmark-national-league-2024-ruleset,3.3,SEEDING,9
+denmark-national-league-2024-ruleset,3.4,TIE BREAKER,10
+denmark-national-league-2024-ruleset,3.4.1,"Hvis flere hold har samme antal point i slutningen af gruppespiller, vil følgende",10
+denmark-national-league-2024-ruleset,1,Interne kampe mellem hold på samme point,10
+denmark-national-league-2024-ruleset,2,Højest positive runde forskel,10
+denmark-national-league-2024-ruleset,4,OPERATIONELLE REGLER,11
+denmark-national-league-2024-ruleset,4.1,HOLDKAPTAJNER,11
+denmark-national-league-2024-ruleset,4.1.1,"Alle hold skal have en holdkaptajn, der er ansvarlig for holdet og den generelle",11
+denmark-national-league-2024-ruleset,4.2,TURNERINGENS TIDSPUNKT,11
+denmark-national-league-2024-ruleset,4.2.1,Turneringen forløber fra d,11
+denmark-national-league-2024-ruleset,4.3,Streaming,11
+denmark-national-league-2024-ruleset,4.3.1,Enhver kamp kan blive udvalgt til at blive streamet af turneringens officielle,11
+denmark-national-league-2024-ruleset,4.3.2,"Spillere og hold må IKKE streame deres egne kampe, medmindre de har fået en",11
+denmark-national-league-2024-ruleset,4.4,ÆNDRING AF HOLDET,12
+denmark-national-league-2024-ruleset,4.4.1,I løbet af turneringen kan et hold skifte deres spillere,12
+denmark-national-league-2024-ruleset,4.5,LOBBIES OG HOSTING,12
+denmark-national-league-2024-ruleset,4.5.1,Holdene er selv ansvarlige for at sætte en lobby op,12
+denmark-national-league-2024-ruleset,4.6,PAUSER OG DISCONNECTS,12
+denmark-national-league-2024-ruleset,4.6.1,Holdende må tage timeouts på 60 sekunder,12
+denmark-national-league-2024-ruleset,6.8.1,"Hvis et hold ikke møder op til kampen i rette tid, vil de blive taberdømt",13
+denmark-national-league-2024-ruleset,4.7,KAMP RAPPORTERING,14
+denmark-national-league-2024-ruleset,4.8,TVISTER,14
+denmark-national-league-2024-ruleset,4.8.2,Skærmbilleder af resultat/chatlog mv,14
+denmark-national-league-2024-ruleset,4.9,SUPPORT,14
+denmark-national-league-2024-ruleset,5,REGLER I KAMPENE,15
+denmark-national-league-2024-ruleset,5.1,DESCRIPTION,15
+denmark-national-league-2024-ruleset,5.1.1,"Kampene spilles i Valorant og skal spilles på spillernes egne accounts, der er",15
+denmark-national-league-2024-ruleset,5.2,KRAV OM TILSTEDEVÆRELSE I DISCORD,15
+denmark-national-league-2024-ruleset,5.2.1,Alle hold skal sidde i en voicechat i den officielle ESD discord imens de spiller,15
+denmark-national-league-2024-ruleset,5.3,LOBBY SETTINGS,15
+denmark-national-league-2024-ruleset,5.3.1,"Lobbyen skal, som tidligere nævnt, sættes op med følgende indstillinger:",15
+denmark-national-league-2024-ruleset,5.4,SERVER SETTINGS,16
+denmark-national-league-2024-ruleset,5.5,MAPS OG AGENTS,16
+denmark-national-league-2024-ruleset,5.5.1,"Map poolen består af følgende maps: Bind, Abyss, Sunset, Split, Haven, Ascent og",16
+denmark-national-league-2024-ruleset,5.5.2,"Map pick og ban skal enten laves ingame i chat i lobbyen, eller i discord",16
+denmark-national-league-2024-ruleset,5.5.3,Først stående hold i kampen er hold A,16
+denmark-national-league-2024-ruleset,5.5.4,Nye agents må ikke bruges de første 2 uger efter agent er udkommet,17
+denmark-national-league-2024-ruleset,5.5.5,"Hvis et hold bruger en agent, der ikke må bruges, kan modstanderholdet kræve at",17
+denmark-national-league-2024-ruleset,5.6,BRUG AF BUGS ELLER IN-GAME EXPLOIT,17
+denmark-national-league-2024-ruleset,5.7,BRUG AF CHEATS OG HACK,17
+denmark-national-league-2024-ruleset,5.7.1,"Enhver brug af cheats, hacks mv",17
+denmark-national-league-2024-ruleset,5.8,GOD SPORTSÅND,18
+denmark-national-league-2024-ruleset,5.8.1,"Foruden alle ovenstående regler er der et krav om, at ethvert hold lever op til",18
 dreamhack-masters-spring-2020-rulebook,1,Points amassed between the tied participants (direct match win > direct match,10
 dreamhack-masters-spring-2020-rulebook,2,Map difference between the tied participants (3:2 maps > 3:3 maps),10
 dreamhack-masters-spring-2020-rulebook,3,Number of map wins between the tied participants (3:3 maps > 2:2 maps),10
@@ -1597,6 +1821,215 @@ electronic-sports-world-cup-2010-counter-strike-rulebook-v1-0,4.03,AFTER THE MAT
 electronic-sports-world-cup-2010-counter-strike-rulebook-v1-0,5.01,WARNING,7
 electronic-sports-world-cup-2010-counter-strike-rulebook-v1-0,5.02,SANCTION,8
 electronic-sports-world-cup-2010-counter-strike-rulebook-v1-0,5.03,SENT OFF,9
+esl-benelux-championship-season-15-rulebook,2.16,"Penalties and consequences for leaving, or disqualification from, the ESL Benelux",2
+esl-benelux-championship-season-15-rulebook,1.1,Participants,4
+esl-benelux-championship-season-15-rulebook,1.2,Team/Licence Sheet,4
+esl-benelux-championship-season-15-rulebook,1.3,Team Positions,4
+esl-benelux-championship-season-15-rulebook,1.3.1,Team Manager,4
+esl-benelux-championship-season-15-rulebook,1.3.2,Team Captain,4
+esl-benelux-championship-season-15-rulebook,1.3.3,Player,4
+esl-benelux-championship-season-15-rulebook,1.4,Time Zone,5
+esl-benelux-championship-season-15-rulebook,1.5,The Season,5
+esl-benelux-championship-season-15-rulebook,1.6,Region,5
+esl-benelux-championship-season-15-rulebook,1.7,Live Matches,5
+esl-benelux-championship-season-15-rulebook,2.1,Rule Changes,5
+esl-benelux-championship-season-15-rulebook,2.2,Validity of the Rules,5
+esl-benelux-championship-season-15-rulebook,2.3,Confidentiality,5
+esl-benelux-championship-season-15-rulebook,2.4,Code of Conduct,5
+esl-benelux-championship-season-15-rulebook,2.5,"Betting, Corruption, Inside Information",6
+esl-benelux-championship-season-15-rulebook,2.6,Alcohol and Doping,6
+esl-benelux-championship-season-15-rulebook,2.7,ESIC Codes,6
+esl-benelux-championship-season-15-rulebook,2.8,Additional Agreements,6
+esl-benelux-championship-season-15-rulebook,2.9,Match Broadcasting,6
+esl-benelux-championship-season-15-rulebook,2.9.1,Rights,6
+esl-benelux-championship-season-15-rulebook,2.9.2,Waiving These Rights,6
+esl-benelux-championship-season-15-rulebook,2.9.3,Player Responsibility,7
+esl-benelux-championship-season-15-rulebook,2.10,Communication,7
+esl-benelux-championship-season-15-rulebook,2.11,Conditions of Participation in the ESL Benelux Championship,7
+esl-benelux-championship-season-15-rulebook,2.11.1,Age Restriction,7
+esl-benelux-championship-season-15-rulebook,2.11.2,Regional Limitations for Participants,7
+esl-benelux-championship-season-15-rulebook,2.11.3,ESL National Championship Limitations,7
+esl-benelux-championship-season-15-rulebook,2.12,Nicknames,7
+esl-benelux-championship-season-15-rulebook,2.13,Team Accounts,8
+esl-benelux-championship-season-15-rulebook,2.13.1,Team Names,8
+esl-benelux-championship-season-15-rulebook,2.13.2,Changes on the Team Accounts,8
+esl-benelux-championship-season-15-rulebook,2.14,Player Changes,8
+esl-benelux-championship-season-15-rulebook,2.14.1,Adding a New Player during the ESL Benelux Championship,8
+esl-benelux-championship-season-15-rulebook,2.14.2,Multiple Contracts,9
+esl-benelux-championship-season-15-rulebook,2.15,Prize Money,9
+esl-benelux-championship-season-15-rulebook,2.15.1,Prize Deductions Due to Penalty Points,9
+esl-benelux-championship-season-15-rulebook,2.15.2,Withdrawal of Prize Money,10
+esl-benelux-championship-season-15-rulebook,2.15.3,Transfer of Prize Money,10
+esl-benelux-championship-season-15-rulebook,2.15.4,Prize Money Distribution (Playoffs),10
+esl-benelux-championship-season-15-rulebook,2.16,"Penalties and consequences for leaving, or disqualification from,",10
+esl-benelux-championship-season-15-rulebook,2.16.1,Leaving or disqualification during the ESL Benelux Championship Season,10
+esl-benelux-championship-season-15-rulebook,2.16.2,Deletion of Matches,10
+esl-benelux-championship-season-15-rulebook,2.17,Match Start,10
+esl-benelux-championship-season-15-rulebook,2.18,Match Procedures,11
+esl-benelux-championship-season-15-rulebook,2.18.1,Lineup,11
+esl-benelux-championship-season-15-rulebook,2.18.2,Determining the higher seed,11
+esl-benelux-championship-season-15-rulebook,2.19,Match Protests,11
+esl-benelux-championship-season-15-rulebook,2.20,Results in Rematch,11
+esl-benelux-championship-season-15-rulebook,2.21,Media Obligations,11
+esl-benelux-championship-season-15-rulebook,2.22,"Names, Symbols/Logos and Sponsors",12
+esl-benelux-championship-season-15-rulebook,2.23,Licenses in the ESL Benelux Championship,12
+esl-benelux-championship-season-15-rulebook,2.23.1,Definition,12
+esl-benelux-championship-season-15-rulebook,2.13.2,Duration,12
+esl-benelux-championship-season-15-rulebook,2.13.3,Team License,12
+esl-benelux-championship-season-15-rulebook,2.13.4,Changing the Team License Holder,13
+esl-benelux-championship-season-15-rulebook,2.13.5,Withdrawal of License,13
+esl-benelux-championship-season-15-rulebook,3,Qualifying process,13
+esl-benelux-championship-season-15-rulebook,3.1,Qualifying routes,13
+esl-benelux-championship-season-15-rulebook,3.2,Open Qualifiers (OQ),13
+esl-benelux-championship-season-15-rulebook,3.3,Closed Qualifier (CQ),13
+esl-benelux-championship-season-15-rulebook,3.4,Roster Limitations and changes,14
+esl-benelux-championship-season-15-rulebook,4,Game Specific Rules - Counter-Strike: Global Offensive,14
+esl-benelux-championship-season-15-rulebook,4.1,FACEIT Client,14
+esl-benelux-championship-season-15-rulebook,4.2,Match Procedure,14
+esl-benelux-championship-season-15-rulebook,4.2.1,"Map pool Qualifiers,Group Stages and Finals",14
+esl-benelux-championship-season-15-rulebook,4.2.2,Map choice,14
+esl-benelux-championship-season-15-rulebook,4.2.3,In-Game item’s name tag,15
+esl-benelux-championship-season-15-rulebook,4.2.4,Number of Players,15
+esl-benelux-championship-season-15-rulebook,4.2.5,Dropping of Players,15
+esl-benelux-championship-season-15-rulebook,4.2.6,Change of Players during matches,15
+esl-benelux-championship-season-15-rulebook,4.2.7,Leaving the Server,15
+esl-benelux-championship-season-15-rulebook,4.2.8,Continuing a Disrupted Game,15
+esl-benelux-championship-season-15-rulebook,4.2.9,Draws,16
+esl-benelux-championship-season-15-rulebook,4.2.10,Usage of pause function,16
+esl-benelux-championship-season-15-rulebook,4.3,Player Settings,17
+esl-benelux-championship-season-15-rulebook,4.3.1,Configuration / Startparameters,17
+esl-benelux-championship-season-15-rulebook,4.3.2,Forbidden Scripts,17
+esl-benelux-championship-season-15-rulebook,4.3.3,A3D,17
+esl-benelux-championship-season-15-rulebook,4.3.4,"Graphics drivers, or similar tools",18
+esl-benelux-championship-season-15-rulebook,4.3.5,Color depth,18
+esl-benelux-championship-season-15-rulebook,4.3.6,Custom Data,18
+esl-benelux-championship-season-15-rulebook,4.4,Use of Bugs and Glitches,18
+esl-benelux-championship-season-15-rulebook,4.4.1,Warm-up–map check,18
+esl-benelux-championship-season-15-rulebook,4.4.2,During the match,18
+esl-benelux-championship-season-15-rulebook,4.4.3,General,19
+esl-benelux-championship-season-15-rulebook,4.4.4,New Positions,19
+esl-benelux-championship-season-15-rulebook,4.5,Cheat Accusations,19
+esl-benelux-championship-season-15-rulebook,1,Download link and name of demo,19
+esl-benelux-championship-season-15-rulebook,5,Privacy and Data Protection Policy,19
+esl-challenger-china-2026-rulebook,1.3.1,Online Open Qualifier(线上海选赛),4
+esl-challenger-china-2026-rulebook,1.3.2,ESL Challenger China Playoff(线下预选赛),4
+esl-meisterschaft-2020-rulebook,1.1,Gültigkeit,6
+esl-meisterschaft-2020-rulebook,1.2,Definition ESL Meisterschaft,6
+esl-meisterschaft-2020-rulebook,1.2.2,Definition Teilnehmer,6
+esl-meisterschaft-2020-rulebook,1.3,Ligaleitung,6
+esl-meisterschaft-2020-rulebook,1.4,Regeländerungen,7
+esl-meisterschaft-2020-rulebook,1.5,Diskretion,7
+esl-meisterschaft-2020-rulebook,1.6,Geltungsbereich,7
+esl-meisterschaft-2020-rulebook,1.7,ESIC,7
+esl-meisterschaft-2020-rulebook,1.7.1,Cheating,7
+esl-meisterschaft-2020-rulebook,1.7.2,Ergebnismanipulation,8
+esl-meisterschaft-2020-rulebook,1.7.3,"Doping, Drogen",8
+esl-meisterschaft-2020-rulebook,1.7.4,"Matchabsprachen, Wettbewerbsverzerrung",8
+esl-meisterschaft-2020-rulebook,1.7.5,Verhaltenskodex,8
+esl-meisterschaft-2020-rulebook,1.7.6,Bugabuse,9
+esl-meisterschaft-2020-rulebook,1.8,Strafen,9
+esl-meisterschaft-2020-rulebook,1.8.1,Strafpunkte,9
+esl-meisterschaft-2020-rulebook,1.8.2,Sperren,9
+esl-meisterschaft-2020-rulebook,1.8.3,Disqualifikation,9
+esl-meisterschaft-2020-rulebook,1.9,Altersbeschränkung,9
+esl-meisterschaft-2020-rulebook,1.10,Vereinbarungen zwischen Teilnehmern,9
+esl-meisterschaft-2020-rulebook,1.11,Teilnahme an anderen ESL Wettbewerben,10
+esl-meisterschaft-2020-rulebook,1.11.1,Teilnahme mehrerer Teams einer Organisation,10
+esl-meisterschaft-2020-rulebook,1.12,Spielübertragung,10
+esl-meisterschaft-2020-rulebook,1.12.1,Übertragungsrechte,10
+esl-meisterschaft-2020-rulebook,1.12.2,Verzicht auf diese Rechte,10
+esl-meisterschaft-2020-rulebook,1.12.3,Verantwortung der Spieler,10
+esl-meisterschaft-2020-rulebook,1.12.4,Interviews,10
+esl-meisterschaft-2020-rulebook,1.12.5,Verspätung,11
+esl-meisterschaft-2020-rulebook,1.13,Zeitangaben,11
+esl-meisterschaft-2020-rulebook,1.14,Kommunikation,11
+esl-meisterschaft-2020-rulebook,1.14.1,E-Mail,11
+esl-meisterschaft-2020-rulebook,1.14.2,Discord,11
+esl-meisterschaft-2020-rulebook,1.15,Sponsoren,11
+esl-meisterschaft-2020-rulebook,1.16,Publisher-Sperren,12
+esl-meisterschaft-2020-rulebook,2.1,Lizenzvergabe,12
+esl-meisterschaft-2020-rulebook,2.2,Vollwertige Lizenz,12
+esl-meisterschaft-2020-rulebook,2.3,Lizenz unter Auflagen,12
+esl-meisterschaft-2020-rulebook,2.3.1,Mehrheitslineup,12
+esl-meisterschaft-2020-rulebook,2.4,Teamsheet,13
+esl-meisterschaft-2020-rulebook,2.5,Lizenzhalter,13
+esl-meisterschaft-2020-rulebook,2.5.1,Änderungen des Lizenzhalters,13
+esl-meisterschaft-2020-rulebook,2.6,Lizenzen in der Qualification League,13
+esl-meisterschaft-2020-rulebook,3.1,Qualifikationscups,13
+esl-meisterschaft-2020-rulebook,3.2,Qualification League,13
+esl-meisterschaft-2020-rulebook,3.2.1,"Format, Regelwerk & Termine",14
+esl-meisterschaft-2020-rulebook,3.3,Ligasystem,14
+esl-meisterschaft-2020-rulebook,3.3.1,Wildcard,14
+esl-meisterschaft-2020-rulebook,3.3.2,Ausweichtermine,14
+esl-meisterschaft-2020-rulebook,3.3.3,No-Show,14
+esl-meisterschaft-2020-rulebook,3.3.4,Saisonranking,15
+esl-meisterschaft-2020-rulebook,3.3.5,Playoffs 1,15
+esl-meisterschaft-2020-rulebook,3.4,Relegation,15
+esl-meisterschaft-2020-rulebook,4.1,Basispreisgelder,15
+esl-meisterschaft-2020-rulebook,4.2,Reisekostenunterstützung,16
+esl-meisterschaft-2020-rulebook,4.3,Auszahlung,16
+esl-meisterschaft-2020-rulebook,4.3.1,Auszahlung des Preisgeldes,16
+esl-meisterschaft-2020-rulebook,4.3.2,Überweisung des Preisgeldes,16
+esl-meisterschaft-2020-rulebook,4.4,Preisgeldabzüge und Verteilung,16
+esl-meisterschaft-2020-rulebook,5.1,Spieleraccount,16
+esl-meisterschaft-2020-rulebook,5.1.1,Premium (CS:GO: ESEA; sonst: ESL),16
+esl-meisterschaft-2020-rulebook,5.1.2,Teamaccount,17
+esl-meisterschaft-2020-rulebook,5.2,Teamname,17
+esl-meisterschaft-2020-rulebook,6.1,Wohnort,17
+esl-meisterschaft-2020-rulebook,6.1.2,Team-Disziplin,17
+esl-meisterschaft-2020-rulebook,6.2,Teams: Lineupdeadline: Ligasystem,18
+esl-meisterschaft-2020-rulebook,6.2.1,Lineup,18
+esl-meisterschaft-2020-rulebook,6.2.2,Spielerwechsel / Neuer Spieler,18
+esl-meisterschaft-2020-rulebook,6.2.3,Notfall-Transfers,19
+esl-meisterschaft-2020-rulebook,6.3,Ausstieg aus der Saison,19
+esl-meisterschaft-2020-rulebook,6.4,Einsatz nicht spielberechtigter Spieler,19
+esl-meisterschaft-2020-rulebook,6.5,Ringer/Faker,19
+esl-meisterschaft-2020-rulebook,6.6,Spieltermine,20
+esl-meisterschaft-2020-rulebook,7.1,Verhalten,20
+esl-meisterschaft-2020-rulebook,7.1.1,Gegenstände im Turnierbereich,20
+esl-meisterschaft-2020-rulebook,7.1.2,Benehmen,20
+esl-meisterschaft-2020-rulebook,7.1.3,Kleidungsordnung,21
+esl-meisterschaft-2020-rulebook,7.2,Media Obligations,21
+esl-meisterschaft-2020-rulebook,7.2.1,Interviews,21
+esl-meisterschaft-2020-rulebook,7.2.2,Media Day,21
+esl-meisterschaft-2020-rulebook,7.2.3,Autogrammstunde,21
+esl-meisterschaft-2020-rulebook,7.3,Hardware und Software,21
+esl-meisterschaft-2020-rulebook,7.4,Verspätung,22
+esl-meisterschaft-2020-rulebook,7.5,Player Guide,22
+esl-meisterschaft-2020-rulebook,8.1,Version,22
+esl-meisterschaft-2020-rulebook,8.2,ESEA Client & Anticheat,22
+esl-meisterschaft-2020-rulebook,8.3,Mapwahl,22
+esl-meisterschaft-2020-rulebook,8.3.1,Mappool,22
+esl-meisterschaft-2020-rulebook,8.4,Spielmodus,23
+esl-meisterschaft-2020-rulebook,8.4.1,Overtime,23
+esl-meisterschaft-2020-rulebook,8.5,Spieleranzahl,23
+esl-meisterschaft-2020-rulebook,8.6,Server,23
+esl-meisterschaft-2020-rulebook,8.7,Coaching,23
+esl-meisterschaft-2020-rulebook,8.8,Pause,23
+esl-meisterschaft-2020-rulebook,8.8.1,Taktische Pausen,23
+esl-meisterschaft-2020-rulebook,8.8.2,Technische Pausen,23
+esl-meisterschaft-2020-rulebook,8.9,Player Settings,24
+esl-meisterschaft-2020-rulebook,8.9.1,Config Files,24
+esl-meisterschaft-2020-rulebook,8.9.2,Scripts,24
+esl-meisterschaft-2020-rulebook,8.9.4,Grafikkartentreiber oder ähnliche Tools,24
+esl-meisterschaft-2020-rulebook,8.9.5,Custom Dateien,25
+esl-meisterschaft-2020-rulebook,8.9.6,Custom Character Model,25
+esl-meisterschaft-2020-rulebook,8.9.7,Treiber,25
+esl-meisterschaft-2020-rulebook,8.9.8,In-Game Nicknames,25
+esl-meisterschaft-2020-rulebook,8.9.9,In-Game Item Nametag,25
+esl-meisterschaft-2020-rulebook,8.10,Spielablauf,25
+esl-meisterschaft-2020-rulebook,8.10.1,PoV Demos,25
+esl-meisterschaft-2020-rulebook,8.10.2,Demos und Replays,25
+esl-meisterschaft-2020-rulebook,8.10.3,Demo- und Wiedergaberechte,26
+esl-meisterschaft-2020-rulebook,8.10.4,Speicherung und Aufbewahrung von Match-Media,26
+esl-meisterschaft-2020-rulebook,8.10.5,Spielerdrops,26
+esl-meisterschaft-2020-rulebook,8.10.6,Spielerdrops bei Offline Events,26
+esl-meisterschaft-2020-rulebook,8.10.7,Auswechslungen,26
+esl-meisterschaft-2020-rulebook,8.10.8,Dem falschen Team beitreten,26
+esl-meisterschaft-2020-rulebook,8.10.9,Spielunterbrechungen,26
+esl-meisterschaft-2020-rulebook,8.10.10,Nutzung Bugs und Glitches,27
+esl-meisterschaft-2020-rulebook,8.10.11,Suizide,27
+esl-meisterschaft-2020-rulebook,8.10.12,Neue Positionen,27
 esl-one-cologne-2014-rulebook,1.1,Range of Validity,6
 esl-one-cologne-2014-rulebook,1.2,Participants,6
 esl-one-cologne-2014-rulebook,1.3,Time Zone,6
@@ -4106,6 +4539,23 @@ gamers-club-ultimate-ignition-series-rulebook,6.11,Falha no sistema e Servidores
 gamers-club-ultimate-ignition-series-rulebook,6.12,Problemas externos,16
 gamers-club-ultimate-ignition-series-rulebook,6.13,Remake de partida,16
 gamers-club-ultimate-ignition-series-rulebook,3,Algum jogador tiver problema no carregamento da partida ou na escolha de agentes;,16
+geekay-esports-scouting-tournament-rulebook,1.1,Platform – Account,2
+geekay-esports-scouting-tournament-rulebook,2.1,GAME ACCOUNTS,2
+geekay-esports-scouting-tournament-rulebook,2.2,TEAMS AND ROSTERS,2
+geekay-esports-scouting-tournament-rulebook,2.3,AGE RESTRICTIONS,2
+geekay-esports-scouting-tournament-rulebook,3.1,Before the Match:,2
+geekay-esports-scouting-tournament-rulebook,3.2,During the Match:,3
+geekay-esports-scouting-tournament-rulebook,4,GAME FORMAT,4
+geekay-esports-scouting-tournament-rulebook,5.2,SERVER SETUP,4
+geekay-esports-scouting-tournament-rulebook,1,ESP,5
+geekay-esports-scouting-tournament-rulebook,2,Radar hacks,5
+geekay-esports-scouting-tournament-rulebook,3,Wallhacks,5
+geekay-esports-scouting-tournament-rulebook,4,Speed hacks,5
+geekay-esports-scouting-tournament-rulebook,5,Aim hacks,5
+geekay-esports-scouting-tournament-rulebook,6,Hitbox manipulation,5
+geekay-esports-scouting-tournament-rulebook,7,"Teleportation (any kind of teleportation, which is not possible in the game)",5
+geekay-esports-scouting-tournament-rulebook,8,The usage of a bug/bugs to gain an advantage versus your opponents,5
+geekay-esports-scouting-tournament-rulebook,9,Any other mode of cheats that gives an unfair advantage to the player/team,5
 iem-katowice-2019-major-rulebook,1.1,Range of Validity,7
 iem-katowice-2019-major-rulebook,1.2,Participants,7
 iem-katowice-2019-major-rulebook,1.3,Time Zone,7
@@ -5914,6 +6364,103 @@ jubs-joinville-2023-cs-go-rulebook,9.7,Backups durante a partida por motivos ext
 jubs-joinville-2023-cs-go-rulebook,9.8,Atualização de versão do Counter Strike:,8
 jubs-joinville-2023-cs-go-rulebook,9.9,Desistência da equipe:,8
 jubs-joinville-2023-cs-go-rulebook,10,DISPOSIÇÕES GERAIS:,8
+jubs-rn-2025-cs2-rulebook,1,A competição de Counter Strike 2 será realizada de acordo com este Regulamento,1
+jubs-rn-2025-cs2-rulebook,2,AS EQUIPES/ESTUDANTES ATLETAS DEVEM:,1
+jubs-rn-2025-cs2-rulebook,2.7,A equipe só pode ser formada por jogadores da mesma IES;,1
+jubs-rn-2025-cs2-rulebook,2.8,Conhecer as regras e configurações de jogo em sua totalidade;,1
+jubs-rn-2025-cs2-rulebook,3,A COMPETIÇÃO SERÁ REALIZADA NA CATEGORIA CONFORME DESCRITO ABAIXO:,1
+jubs-rn-2025-cs2-rulebook,3.2,"Equipe, podendo ser mista ou não;",1
+jubs-rn-2025-cs2-rulebook,3.5,É obrigatório o uso do Anti-Cheat da plataforma durante todas as partidas;,1
+jubs-rn-2025-cs2-rulebook,4,DAS FASES E ETAPAS DE COMPETIÇÃO:,1
+jubs-rn-2025-cs2-rulebook,4.1,A competição é dividida em 3 (três) etapas sendo estas:,1
+jubs-rn-2025-cs2-rulebook,4.2,Da etapa online:,2
+jubs-rn-2025-cs2-rulebook,4.3,Etapa Qualify Online;,2
+jubs-rn-2025-cs2-rulebook,4.4,Etapa Playoff Online;,2
+jubs-rn-2025-cs2-rulebook,5,O cronograma da etapa online será conforme descrito na tabela abaixo:,3
+jubs-rn-2025-cs2-rulebook,6,DO JUBs RN 2025 - eSports ELITE EIGHT PRESENCIAL;,3
+jubs-rn-2025-cs2-rulebook,7,DOS PROCEDIMENTOS DE JOGOS:,3
+jubs-rn-2025-cs2-rulebook,8,DAS CONFIGURAÇÕES DE JOGO ESPECÍFICAS,3
+jubs-rn-2025-cs2-rulebook,8.1,Limite de tempo para iniciar os vetos:,3
+jubs-rn-2025-cs2-rulebook,8.2,Limite de tempo para entrar no servidor:,3
+jubs-rn-2025-cs2-rulebook,8.5,Os vetos devem ser realizados dentro da plataforma indicada pelo Operador de liga,4
+jubs-rn-2025-cs2-rulebook,8.6,Os mapas serão anunciados pelo operador de liga na reunião informativa,4
+jubs-rn-2025-cs2-rulebook,8.7,Confronto melhor-de-1 (MD1):,4
+jubs-rn-2025-cs2-rulebook,8.8,Confronto melhor-de-3 (MD3):,4
+jubs-rn-2025-cs2-rulebook,8.9,Uso do pause:,4
+jubs-rn-2025-cs2-rulebook,8.10,Uso de Bugs e Glitches:,4
+jubs-rn-2025-cs2-rulebook,8.11,Falha no sistema e servidores:,4
+jubs-rn-2025-cs2-rulebook,8.12,Queda do servidor:,5
+jubs-rn-2025-cs2-rulebook,8.13,Backups durante a partida por motivos externos:,5
+jubs-rn-2025-cs2-rulebook,8.14,Atualização de versão do Counter-Strike:,5
+jubs-rn-2025-cs2-rulebook,9,DO CÓDIGO DE CONDUTA,5
+jubs-rn-2025-cs2-rulebook,9.3,Cheating e Fraude:,5
+jubs-rn-2025-cs2-rulebook,10,DISPOSIÇÕES GERAIS,5
+jubs-rn-2025-cs2-rulebook,10.1,Desistência da equipe:,5
+kayzr-league-spring-2022-rulebook,1,General rules,1
+kayzr-league-spring-2022-rulebook,1.1,Communication,1
+kayzr-league-spring-2022-rulebook,1.2,Rule changes,1
+kayzr-league-spring-2022-rulebook,1.3,Confidentiality,1
+kayzr-league-spring-2022-rulebook,1.4,Penalties,2
+kayzr-league-spring-2022-rulebook,1.5,Username,2
+kayzr-league-spring-2022-rulebook,1.6,Forfeit,2
+kayzr-league-spring-2022-rulebook,1.7,Disqualification,2
+kayzr-league-spring-2022-rulebook,1.8,Rules of conduct,3
+kayzr-league-spring-2022-rulebook,1.9,Warranty,3
+kayzr-league-spring-2022-rulebook,2,Requirements for participation,4
+kayzr-league-spring-2022-rulebook,2.1,Age Restriction,4
+kayzr-league-spring-2022-rulebook,2.2,Nationality and residence,4
+kayzr-league-spring-2022-rulebook,3,Rosters,4
+kayzr-league-spring-2022-rulebook,3.1,General rules,4
+kayzr-league-spring-2022-rulebook,3.2,Roster Lock,5
+kayzr-league-spring-2022-rulebook,4.1,Qualification by invitation,6
+kayzr-league-spring-2022-rulebook,4.2,Qualification by a qualification tournament,6
+kayzr-league-spring-2022-rulebook,4.3,Game specific rules,7
+kayzr-league-spring-2022-rulebook,4.4,Group Phase (Round Robin),8
+kayzr-league-spring-2022-rulebook,4.5,"Quarter finals, Semi finals & final",9
+knights-challenger-2024-split-3-qualifier-rules,1,Background AND PURPOSE,4
+knights-challenger-2024-split-3-qualifier-rules,2,LEAGUE STRUCTURE,4
+knights-challenger-2024-split-3-qualifier-rules,2.1,Definitions of Terms,4
+knights-challenger-2024-split-3-qualifier-rules,2.2,Qualifiers Format,5
+knights-challenger-2024-split-3-qualifier-rules,2.3,Seeding,5
+knights-challenger-2024-split-3-qualifier-rules,2.4,Competition Schedule,6
+knights-challenger-2024-split-3-qualifier-rules,3,Team MEMBER ELIGIBILITY,7
+knights-challenger-2024-split-3-qualifier-rules,3.1,Player Age,7
+knights-challenger-2024-split-3-qualifier-rules,3.2,Multiple Teams,7
+knights-challenger-2024-split-3-qualifier-rules,3.3,Resident Defined,9
+knights-challenger-2024-split-3-qualifier-rules,3.4,Roster Residency Requirement,9
+knights-challenger-2024-split-3-qualifier-rules,3.5,Proof of Residency,9
+knights-challenger-2024-split-3-qualifier-rules,3.6,Single Residency Status,9
+knights-challenger-2024-split-3-qualifier-rules,3.7,No Riot or Knights Employees,9
+knights-challenger-2024-split-3-qualifier-rules,4,REGISTRATION,9
+knights-challenger-2024-split-3-qualifier-rules,4.1,Online Qualifiers,9
+knights-challenger-2024-split-3-qualifier-rules,5,ROSTER RULES,10
+knights-challenger-2024-split-3-qualifier-rules,5.1,Ringing - Stage 3 Restrictions,10
+knights-challenger-2024-split-3-qualifier-rules,5.2,Admin Discretion,10
+knights-challenger-2024-split-3-qualifier-rules,5.3,Coaches,11
+knights-challenger-2024-split-3-qualifier-rules,5.4,Emergency Substitutions,11
+knights-challenger-2024-split-3-qualifier-rules,5.5,Qualified Team Rules,11
+knights-challenger-2024-split-3-qualifier-rules,6,MATCH PROCESS,11
+knights-challenger-2024-split-3-qualifier-rules,6.1,Changes to Schedule,11
+knights-challenger-2024-split-3-qualifier-rules,6.2,Competitive Patches,11
+knights-challenger-2024-split-3-qualifier-rules,19,Tournament Operators may at their own discretion change the rule for,12
+knights-challenger-2024-split-3-qualifier-rules,6.3,Pre-Match Setup,12
+knights-challenger-2024-split-3-qualifier-rules,6.4,Match Setup and Play Restrictions,13
+knights-challenger-2024-split-3-qualifier-rules,7,PAUSES AND CRASHES,15
+knights-challenger-2024-split-3-qualifier-rules,7.1,Pauses/Timeouts,15
+knights-challenger-2024-split-3-qualifier-rules,7.2,Crashes,15
+knights-challenger-2024-split-3-qualifier-rules,8,POST-MATCH PROCESS,17
+knights-challenger-2024-split-3-qualifier-rules,8.2,Break Time,17
+knights-challenger-2024-split-3-qualifier-rules,8.3,Post-Match Obligations,17
+knights-challenger-2024-split-3-qualifier-rules,8.4,Results of Forfeiture,17
+knights-challenger-2024-split-3-qualifier-rules,9,COMMUNICATION WITH THE TOURNAMENT OPERATOR,18
+knights-challenger-2024-split-3-qualifier-rules,10,INTERPRETATION AND CONSTRUCTION,18
+knights-challenger-2024-split-3-qualifier-rules,10.1,Tournament Operator's Right of interpretation,18
+knights-challenger-2024-split-3-qualifier-rules,10.2,Business Judgment,18
+knights-challenger-2024-split-3-qualifier-rules,10.3,Language,18
+knights-challenger-2024-split-3-qualifier-rules,11,CODE OF CONDUCT,18
+knights-challenger-2024-split-3-qualifier-rules,11.1,Set forth below is a non-exclusive list of examples of unprofessional behavior,18
+knights-challenger-2024-split-3-qualifier-rules,11.2,Collusion and Match-Fixing Policy,20
+knights-challenger-2024-split-3-qualifier-rules,11.3,Sanctions,20
 nomi-cup-cs-go-2021-rulebook,1,Elegibilidad de los jugadores,3
 nomi-cup-cs-go-2021-rulebook,1.1,Aceptación del reglamento,3
 nomi-cup-cs-go-2021-rulebook,1.2,Residencia,3
@@ -5975,6 +6522,155 @@ pgl-antwerp-major-2022-rmr-open-qualifier-rulebook,7,Team B - Ban,17
 pgl-antwerp-major-2022-rmr-open-qualifier-rulebook,8,Remaining map will be played as a decider,17
 pgl-antwerp-major-2022-rmr-open-qualifier-rulebook,9,Starting side is decided by the winner of the knife round for each map,17
 pgl-antwerp-major-2022-rmr-open-qualifier-rulebook,28,Refereeing and controversial situations,17
+razer-invitational-middle-east-rules-and-regulations,1,The Prize Distribution is as follows:,2
+razer-invitational-middle-east-rules-and-regulations,1.1,PUBG Mobile,2
+razer-invitational-middle-east-rules-and-regulations,1.2,Call of Duty: Black Ops Cold War,2
+razer-invitational-middle-east-rules-and-regulations,1.3,League of Legends,2
+razer-invitational-middle-east-rules-and-regulations,1.4,Valorant (GCC Tournament),2
+razer-invitational-middle-east-rules-and-regulations,1.5,Valorant (Egypt Tournament),2
+razer-invitational-middle-east-rules-and-regulations,2,Additional Prizes:,2
+razer-invitational-middle-east-rules-and-regulations,2.1,PUBG Mobile,2
+razer-invitational-middle-east-rules-and-regulations,2.1.1,MVP of the Tournament = 1000 USD,2
+razer-invitational-middle-east-rules-and-regulations,2.2,Call of Duty: Black Ops Cold War,2
+razer-invitational-middle-east-rules-and-regulations,2.2.1,MVP of the Tournament = 1000 USD,2
+razer-invitational-middle-east-rules-and-regulations,2.3,League of Legends,2
+razer-invitational-middle-east-rules-and-regulations,2.3.1,MVP of the Tournament = 1000 USD,2
+razer-invitational-middle-east-rules-and-regulations,2.4,Valorant (GCC Tournament),2
+razer-invitational-middle-east-rules-and-regulations,2.4.1,MVP of the Tournament = 1000 USD,2
+razer-invitational-middle-east-rules-and-regulations,2.5,Valorant (Egypt Tournament),2
+razer-invitational-middle-east-rules-and-regulations,2.5.1,MVP of the Tournament = 1000 USD,2
+razer-invitational-middle-east-rules-and-regulations,1.1,PUBG Mobile,4
+razer-invitational-middle-east-rules-and-regulations,1.2,Game version:,4
+razer-invitational-middle-east-rules-and-regulations,1.3,Map Pool Selection,4
+razer-invitational-middle-east-rules-and-regulations,1.3.1,Erangel - Miramar - Vikendi - Sanhok,4
+razer-invitational-middle-east-rules-and-regulations,1.4,Eligibility,4
+razer-invitational-middle-east-rules-and-regulations,1.4.1,GCC And Egypt Only,4
+razer-invitational-middle-east-rules-and-regulations,1.4.2,"Any Player caught playing from outside GCC and Egypt, that team will be",4
+razer-invitational-middle-east-rules-and-regulations,1.5,Tournament Procedure,4
+razer-invitational-middle-east-rules-and-regulations,1.6,Substitutions,4
+razer-invitational-middle-east-rules-and-regulations,1.6.1,Each team is allowed 2 Substitute Players,4
+razer-invitational-middle-east-rules-and-regulations,1.7,Match Breaks (For Stream only),4
+razer-invitational-middle-east-rules-and-regulations,1.7.1,"There will be at least a 5 minute break between every match, An admin will",4
+razer-invitational-middle-east-rules-and-regulations,1.8,Change of Players,4
+razer-invitational-middle-east-rules-and-regulations,1.8.1,A player cannot have another player filled in their position of the,4
+razer-invitational-middle-east-rules-and-regulations,1.9,Server Location,4
+razer-invitational-middle-east-rules-and-regulations,1.9.1,Middle East or EU,4
+razer-invitational-middle-east-rules-and-regulations,1.10,Player Connections,4
+razer-invitational-middle-east-rules-and-regulations,1.10.1,"If a player gets disconnected in the start/middle/end of the game, the game",4
+razer-invitational-middle-east-rules-and-regulations,1.10.2,If a player faced connection issues before the game and extended the,4
+razer-invitational-middle-east-rules-and-regulations,1.11,Cheating and Scripts,4
+razer-invitational-middle-east-rules-and-regulations,1.11.1,"Any kind of cheating or in-game exploit is forbidden, such as using",4
+razer-invitational-middle-east-rules-and-regulations,1.12,Match Interruptions,4
+razer-invitational-middle-east-rules-and-regulations,1.12.1,If a match was interrupted for reasons beyond the control of the,4
+razer-invitational-middle-east-rules-and-regulations,1.12.2,"If there is no access to the pause system, The game will be restarted",4
+razer-invitational-middle-east-rules-and-regulations,1.13,Use of Bugs and Glitches,4
+razer-invitational-middle-east-rules-and-regulations,1.13.1,"The intentional use of any bugs, glitches, or errors in the game is forbidden",4
+razer-invitational-middle-east-rules-and-regulations,1.14,Player’s recording,5
+razer-invitational-middle-east-rules-and-regulations,1.14.1,The player is required to record their gameplay or POV incase if the admin,5
+razer-invitational-middle-east-rules-and-regulations,1.14.2,"If an admin asked for the demo, A player has a maximum of 2",5
+razer-invitational-middle-east-rules-and-regulations,1.15,Investigations,5
+razer-invitational-middle-east-rules-and-regulations,2,Call of Duty: Black Ops Cold War,5
+razer-invitational-middle-east-rules-and-regulations,2.1,Game version:,5
+razer-invitational-middle-east-rules-and-regulations,2.2,Game Modes,5
+razer-invitational-middle-east-rules-and-regulations,2.2.1,Hardpoint,5
+razer-invitational-middle-east-rules-and-regulations,2.2.2,Search and Destroy,5
+razer-invitational-middle-east-rules-and-regulations,2.2.3,Control,5
+razer-invitational-middle-east-rules-and-regulations,2.3,Map Pool,5
+razer-invitational-middle-east-rules-and-regulations,2.3.1,Hardpoint,5
+razer-invitational-middle-east-rules-and-regulations,2.3.2,Search and Destroy,5
+razer-invitational-middle-east-rules-and-regulations,2.3.3,Control,5
+razer-invitational-middle-east-rules-and-regulations,2.4,Eligibility,5
+razer-invitational-middle-east-rules-and-regulations,2.4.1,GCC And Egypt Only,5
+razer-invitational-middle-east-rules-and-regulations,2.4.2,"Any Player caught playing from outside GCC and Egypt, that team will be",5
+razer-invitational-middle-east-rules-and-regulations,2.5,Tournament Procedure,5
+razer-invitational-middle-east-rules-and-regulations,2.6,Substitutions,5
+razer-invitational-middle-east-rules-and-regulations,2.6.1,Each team is allowed 2 Substitute Players,5
+razer-invitational-middle-east-rules-and-regulations,2.7,Match Breaks (For Stream only),5
+razer-invitational-middle-east-rules-and-regulations,2.7.1,"There will be at least a 5 minute break between every match, An admin will",5
+razer-invitational-middle-east-rules-and-regulations,2.8,Change of Players,6
+razer-invitational-middle-east-rules-and-regulations,2.8.1,A player cannot have another player filled in their position of the,6
+razer-invitational-middle-east-rules-and-regulations,2.9,Server Location,6
+razer-invitational-middle-east-rules-and-regulations,2.9.1,Middle East or EU,6
+razer-invitational-middle-east-rules-and-regulations,2.10,Player Connections,6
+razer-invitational-middle-east-rules-and-regulations,2.10.1,"If a player gets disconnected in the start/middle/end of the game, the game",6
+razer-invitational-middle-east-rules-and-regulations,2.10.2,If a player faced connection issues before the game and extended the,6
+razer-invitational-middle-east-rules-and-regulations,2.11,Cheating and Scripts,6
+razer-invitational-middle-east-rules-and-regulations,2.11.1,"Any kind of cheating or in-game exploit is forbidden, such as using",6
+razer-invitational-middle-east-rules-and-regulations,2.12,Match Interruptions,6
+razer-invitational-middle-east-rules-and-regulations,2.12.1,If a match was interrupted for reasons beyond the control of the,6
+razer-invitational-middle-east-rules-and-regulations,2.12.2,"If there is no access to the pause system, The game will be restarted",6
+razer-invitational-middle-east-rules-and-regulations,2.13,Use of Bugs and Glitches,6
+razer-invitational-middle-east-rules-and-regulations,2.13.1,"The intentional use of any bugs, glitches, or errors in the game is forbidden",6
+razer-invitational-middle-east-rules-and-regulations,2.14,Ingame Ruleset,6
+razer-invitational-middle-east-rules-and-regulations,2.14.1,The tournament is using the CDL Competitive Ruleset,6
+razer-invitational-middle-east-rules-and-regulations,3,League of Legends,6
+razer-invitational-middle-east-rules-and-regulations,3.1,Game version:,6
+razer-invitational-middle-east-rules-and-regulations,3.1.1,The players must use the latest update for the game,6
+razer-invitational-middle-east-rules-and-regulations,3.2,Eligibility,6
+razer-invitational-middle-east-rules-and-regulations,3.2.1,GCC And Egypt Only,6
+razer-invitational-middle-east-rules-and-regulations,3.2.2,"Any Player caught playing from outside GCC and Egypt, that team will be",6
+razer-invitational-middle-east-rules-and-regulations,3.3,Tournament Procedure,6
+razer-invitational-middle-east-rules-and-regulations,3.4,Substitutions,6
+razer-invitational-middle-east-rules-and-regulations,3.4.1,Each team is allowed 2 Substitute Players,6
+razer-invitational-middle-east-rules-and-regulations,3.5,Match Breaks (For Stream only),6
+razer-invitational-middle-east-rules-and-regulations,3.5.1,"There will be at least a 5 minute break between every match, An admin will",6
+razer-invitational-middle-east-rules-and-regulations,3.6,Change of Players,7
+razer-invitational-middle-east-rules-and-regulations,3.6.1,A player cannot have another player filled in their position of the,7
+razer-invitational-middle-east-rules-and-regulations,3.7,Server Location,7
+razer-invitational-middle-east-rules-and-regulations,3.7.1,EU West,7
+razer-invitational-middle-east-rules-and-regulations,3.8,Player Connections,7
+razer-invitational-middle-east-rules-and-regulations,3.8.1,"If a player gets disconnected in the start/middle/end of the game, the game",7
+razer-invitational-middle-east-rules-and-regulations,3.8.2,If a player faced connection issues before the game and extended the,7
+razer-invitational-middle-east-rules-and-regulations,3.9,Cheating and Scripts,7
+razer-invitational-middle-east-rules-and-regulations,3.9.1,"Any kind of cheating or in-game exploit is forbidden, such as using",7
+razer-invitational-middle-east-rules-and-regulations,3.10,Match Interruptions,7
+razer-invitational-middle-east-rules-and-regulations,3.10.1,If a match was interrupted for reasons beyond the control of the,7
+razer-invitational-middle-east-rules-and-regulations,3.10.2,"If there is no access to the pause system, The game will be restarted",7
+razer-invitational-middle-east-rules-and-regulations,3.11,Use of Bugs and Glitches,7
+razer-invitational-middle-east-rules-and-regulations,3.11.1,"The intentional use of any bugs, glitches, or errors in the game is forbidden",7
+razer-invitational-middle-east-rules-and-regulations,3.12,Player’s recording,7
+razer-invitational-middle-east-rules-and-regulations,3.12.1,The player is required to record their gameplay or POV incase if the admin,7
+razer-invitational-middle-east-rules-and-regulations,3.12.2,"If an admin asked for the demo, A player has a maximum of 2",7
+razer-invitational-middle-east-rules-and-regulations,3.13,Investigations,7
+razer-invitational-middle-east-rules-and-regulations,3.14,Player’s recording,7
+razer-invitational-middle-east-rules-and-regulations,3.14.1,The player is required to record their gameplay or POV incase if the admin,7
+razer-invitational-middle-east-rules-and-regulations,3.14.2,"If an admin asked for the demo, A player has a maximum of 2",7
+razer-invitational-middle-east-rules-and-regulations,3.15,Investigations,7
+razer-invitational-middle-east-rules-and-regulations,4,Valorant (GCC Tournament and Egypt,7
+razer-invitational-middle-east-rules-and-regulations,4.1,Game version:,8
+razer-invitational-middle-east-rules-and-regulations,4.1.1,The players must use the latest update for the game,8
+razer-invitational-middle-east-rules-and-regulations,4.2,Eligibility,8
+razer-invitational-middle-east-rules-and-regulations,4.2.1,GCC Players for the GCC Tournament And Egypt Players for Egypt,8
+razer-invitational-middle-east-rules-and-regulations,4.2.2,Any Player caught playing from outside GCC in the GCC Tournament will,8
+razer-invitational-middle-east-rules-and-regulations,4.2.3,"Any Player caught playing from outside Egypt in the Egypt Tournament,",8
+razer-invitational-middle-east-rules-and-regulations,4.3,Tournament Procedure,8
+razer-invitational-middle-east-rules-and-regulations,4.4,Substitutions,8
+razer-invitational-middle-east-rules-and-regulations,4.4.1,Each team is allowed 2 Substitute Players,8
+razer-invitational-middle-east-rules-and-regulations,4.5,Match Breaks (For Stream only),8
+razer-invitational-middle-east-rules-and-regulations,4.5.1,"There will be at least a 5 minute break between every match, An admin will",8
+razer-invitational-middle-east-rules-and-regulations,4.6,Change of Players,8
+razer-invitational-middle-east-rules-and-regulations,4.6.1,A player cannot have another player filled in their position of the,8
+razer-invitational-middle-east-rules-and-regulations,4.7,Server Location,8
+razer-invitational-middle-east-rules-and-regulations,4.7.1,EU West,8
+razer-invitational-middle-east-rules-and-regulations,4.8,Player Connections,8
+razer-invitational-middle-east-rules-and-regulations,4.8.1,"If a player gets disconnected in the start/middle/end of the game, the game",8
+razer-invitational-middle-east-rules-and-regulations,4.8.2,If a player faced connection issues before the game and extended the,8
+razer-invitational-middle-east-rules-and-regulations,4.9,Cheating and Scripts,8
+razer-invitational-middle-east-rules-and-regulations,4.9.1,"Any kind of cheating or in-game exploit is forbidden, such as using",8
+razer-invitational-middle-east-rules-and-regulations,4.10,Match Interruptions,8
+razer-invitational-middle-east-rules-and-regulations,4.10.1,If a match was interrupted for reasons beyond the control of the,8
+razer-invitational-middle-east-rules-and-regulations,4.10.2,"If there is no access to the pause system, The game will be restarted",8
+razer-invitational-middle-east-rules-and-regulations,4.11,Use of Bugs and Glitches,8
+razer-invitational-middle-east-rules-and-regulations,4.11.1,"The intentional use of any bugs, glitches, or errors in the game is forbidden",8
+razer-invitational-middle-east-rules-and-regulations,4.12,Player’s recording,9
+razer-invitational-middle-east-rules-and-regulations,4.12.1,The player is required to record their gameplay or POV incase if the admin,9
+razer-invitational-middle-east-rules-and-regulations,4.12.2,"If an admin asked for the demo, A player has a maximum of 2",9
+razer-invitational-middle-east-rules-and-regulations,4.13,Investigations,9
+razer-invitational-middle-east-rules-and-regulations,4.14,Player’s recording,9
+razer-invitational-middle-east-rules-and-regulations,4.14.1,The player is required to record their gameplay or POV incase if the admin,9
+razer-invitational-middle-east-rules-and-regulations,4.14.2,"If an admin asked for the demo, A player has a maximum of 2",9
+razer-invitational-middle-east-rules-and-regulations,4.15,Investigations,9
+razer-invitational-middle-east-rules-and-regulations,2.0,Further Support,9
 starladder-cis-rmr-2021-rulebook,I,Introduction,2
 starladder-cis-rmr-2021-rulebook,1,Acceptance of the Rules,2
 starladder-cis-rmr-2021-rulebook,2,Tournament participants,2
@@ -6427,3 +7123,76 @@ ueb-league-cs-go-2021-rulebook,3,Número de WOs cedidos;,22
 ueb-league-cs-go-2021-rulebook,4,Saldo total de rounds (23/21 > 23/22);,22
 ueb-league-cs-go-2021-rulebook,5,Menor número de rounds perdidos;,22
 ueb-league-cs-go-2021-rulebook,6,Menor número de mortes do time todo,22
+w7masters-rulebook,2.1,Incrição,2
+w7masters-rulebook,2.4,Semifinal,2
+w7masters-rulebook,1.2,Elegibilidade dos jogadores,4
+w7masters-rulebook,1.2.1,Idade,4
+w7masters-rulebook,1.2.2,Documentos Oficiais,4
+w7masters-rulebook,1.2.3,Confirmação,4
+w7masters-rulebook,1.2.4,Funcionários da Organização,4
+w7masters-rulebook,1.2.5,Identificação,5
+w7masters-rulebook,1.2.6,Troca de Nickname,5
+w7masters-rulebook,1.2.7,Termos de Uso e Contas Pessoais,5
+w7masters-rulebook,1.3,Elegibilidade de Equipes,5
+w7masters-rulebook,1.3.1,Formação,5
+w7masters-rulebook,1.3.2,Inscrições adicionais,5
+w7masters-rulebook,1.3.2.1,Substituições e Inscrições Extraordinárias,5
+w7masters-rulebook,1.3.2.2,Empréstimos,5
+w7masters-rulebook,1.4,Publicação de Informações,5
+w7masters-rulebook,1.5,Plataforma Oficial: Gamers Club,6
+w7masters-rulebook,2,Formato da competição,6
+w7masters-rulebook,2.1,Inscrição,6
+w7masters-rulebook,2.2,Fases,6
+w7masters-rulebook,2.3,Qualificatória,6
+w7masters-rulebook,2.4,Semifinal,6
+w7masters-rulebook,2.5,Final,6
+w7masters-rulebook,3.1,Uma Equipe por Organização,6
+w7masters-rulebook,4,Equipamentos,7
+w7masters-rulebook,5,Pontualidade,7
+w7masters-rulebook,6.1,Início da Partida - Entrada no Lobby,7
+w7masters-rulebook,6.2,Durante a Partida,7
+w7masters-rulebook,7,Pausa de Jogo,7
+w7masters-rulebook,8,Postura dos Membros da Equipe,8
+w7masters-rulebook,8.1,Conspirar,8
+w7masters-rulebook,8.2,Compartilhar Conta,8
+w7masters-rulebook,8.3,Abuso de Bug,8
+w7masters-rulebook,8.4,Hacking,8
+w7masters-rulebook,8.5,Desrespeito,8
+w7masters-rulebook,8.6,Declarações Indevidas,9
+w7masters-rulebook,8.7,Comportamentos não tolerados,9
+w7masters-rulebook,8.8,Confidencialidade,9
+w7masters-rulebook,8.9,Resistência ao Cumprimento,9
+w7masters-rulebook,8.10,Proibição de streaming de jogadores em dias de competição,9
+w7masters-rulebook,8.11,Canais Oficiais,10
+w7masters-rulebook,9,Interpretação e Atualização do Regulamento,10
+w7masters-rulebook,9.1,Decisões Finais,10
+w7masters-rulebook,9.2,Imprevistos,10
+w7masters-rulebook,10,Abrangência,10
+w7masters-rulebook,10.1,Termo de concordância,10
+w7masters-rulebook,10.2,Espírito das regras - Finalidade das Decisões,10
+w7masters-rulebook,10.3,Alterações das regras,10
+w7masters-rulebook,10.4,Administração do torneio,10
+w7masters-rulebook,1.1,Premiação,11
+w7masters-rulebook,12,Sistema de vetos,11
+w7masters-rulebook,12.1,Mapas Disponíveis,11
+w7masters-rulebook,12.2,Sequência dos vetos para MD1,12
+w7masters-rulebook,1,A veta o primeiro mapa;,12
+w7masters-rulebook,2,B veta o segundo mapa;,12
+w7masters-rulebook,3,A veta o terceiro mapa;,12
+w7masters-rulebook,4,B veta o quarto mapa;,12
+w7masters-rulebook,5,A veta o quinto mapa;,12
+w7masters-rulebook,6,"B veta o sexto mapa,",12
+w7masters-rulebook,7,O mapa que sobrar será jogado,12
+w7masters-rulebook,12.3,Sequência de vetos para partidas MD3,12
+w7masters-rulebook,1,A veta o primeiro mapa;,12
+w7masters-rulebook,2,B veta o segundo mapa;,12
+w7masters-rulebook,3,A Escolhe o primeiro mapa a ser jogado;,12
+w7masters-rulebook,4,B Escolhe o segundo mapa a ser jogado;,12
+w7masters-rulebook,5,B veta o quarto mapa;,12
+w7masters-rulebook,6,A veta o quinto mapa;,12
+w7masters-rulebook,7,"Em caso de empate, o mapa restante será jogado na terceira partida",12
+w7masters-rulebook,12.4,Agentes e cosméticos,12
+w7masters-rulebook,12.4.1,Cosméticos,12
+w7masters-rulebook,13,AntiCheat,12
+w7masters-rulebook,14,Compromisso com a LGPD,12
+w7masters-rulebook,15,Compartilhamento de dados,13

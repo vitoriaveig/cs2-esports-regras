@@ -1,9 +1,9 @@
 ---
 titulo: "ESL Meisterschaft 2020 Rulebook"
 id: "esl-meisterschaft-2020-rulebook"
-jogo: "a verificar"
+jogo: "Counter-Strike: Global Offensive"
 competicao: "ESL Meisterschaft"
-regiao: "a verificar"
+regiao: "DACH (Alemanha, Áustria, Suíça)"
 temporada: "2020"
 versao: ""
 tipo_documento: "Regulamento de liga"

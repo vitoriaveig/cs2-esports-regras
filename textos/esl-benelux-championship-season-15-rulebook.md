@@ -1,9 +1,9 @@
 ---
 titulo: "ESL Benelux Championship Season 15 Rulebook"
 id: "esl-benelux-championship-season-15-rulebook"
-jogo: "a verificar"
+jogo: "Counter-Strike: Global Offensive"
 competicao: "ESL Benelux Championship"
-regiao: "a verificar"
+regiao: "Benelux"
 temporada: "a verificar"
 versao: ""
 tipo_documento: "Regulamento de liga"

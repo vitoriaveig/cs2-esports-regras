@@ -14,7 +14,7 @@ url: "https://liquipedia.net/commons/images/4/41/ESIC_Coach_Bug_Annexure_A_Sanct
 fonte_original: ""
 sha256: "545d4e864055d36f02dc76a56dd57b9215f99351e5ef6c683fb8bb5fda429cd9"
 paginas: "4"
-idioma: ""
+idioma: "en"
 baixado_em: "2026-10-25T15:34:56Z"
 acervo: "cs2-esports-regras (https://github.com/vitoriaveig/cs2-esports-regras)"
 ---

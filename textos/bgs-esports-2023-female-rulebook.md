@@ -1,9 +1,9 @@
 ---
 titulo: "BGS Esports 2023 Female Rulebook"
 id: "bgs-esports-2023-female-rulebook"
-jogo: "a verificar"
+jogo: "Counter-Strike: Global Offensive"
 competicao: "BGS Esports"
-regiao: "a verificar"
+regiao: "Brasil"
 temporada: "2023"
 versao: ""
 tipo_documento: "Regulamento de torneio"

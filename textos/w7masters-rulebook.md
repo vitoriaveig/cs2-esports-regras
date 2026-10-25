@@ -1,9 +1,9 @@
 ---
 titulo: "W7Masters Rulebook"
 id: "w7masters-rulebook"
-jogo: "a verificar"
+jogo: "Counter-Strike: Global Offensive"
 competicao: "W7Masters"
-regiao: "a verificar"
+regiao: "Brasil"
 temporada: "2023"
 versao: ""
 tipo_documento: "Regulamento de torneio"

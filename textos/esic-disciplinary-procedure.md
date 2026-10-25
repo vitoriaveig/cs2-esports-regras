@@ -15,7 +15,7 @@ fonte_original: ""
 sha256: "ddd3853d810ea8e1bec86d0ffbdccbc89dbf4d3e6de0fa01f87222b23414916c"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-25T15:25:25Z"
+baixado_em: "2026-10-25T15:34:52Z"
 acervo: "cs2-esports-regras (https://github.com/vitoriaveig/cs2-esports-regras)"
 ---
 Disciplinary Procedure

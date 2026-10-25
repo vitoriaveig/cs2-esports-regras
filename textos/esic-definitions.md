@@ -15,7 +15,7 @@ fonte_original: ""
 sha256: "e455776b033023169cb19b891c50300905a8e664acffa116dd9f8881d489891b"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-25T15:25:15Z"
+baixado_em: "2026-10-25T15:34:42Z"
 acervo: "cs2-esports-regras (https://github.com/vitoriaveig/cs2-esports-regras)"
 ---
 Definitions

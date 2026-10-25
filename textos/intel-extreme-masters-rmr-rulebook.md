@@ -1,0 +1,1895 @@
+---
+titulo: "Intel Extreme Masters RMR Rulebook"
+id: "intel-extreme-masters-rmr-rulebook"
+jogo: "Counter-Strike: Global Offensive"
+competicao: "RMR / qualificatória"
+regiao: "a verificar"
+temporada: "2020"
+versao: ""
+tipo_documento: "Regulamento de qualificatória"
+organizador: "ESL"
+procedencia: "Cópia comunitária (Liquipedia Commons)"
+acesso: "coletável"
+url: "https://liquipedia.net/commons/images/7/79/Intel_Extreme_Masters_RMR_Rulebook.pdf"
+fonte_original: ""
+sha256: "d926665be5f97778738f217077d7a727d416165d577bcc019868970ddb03aa58"
+paginas: "39"
+idioma: "en"
+baixado_em: "2026-10-25T15:37:27Z"
+acervo: "cs2-esports-regras (https://github.com/vitoriaveig/cs2-esports-regras)"
+---
+<!-- página 1 -->
+Intel Extreme Masters CSGO
+
+      RMR Rulebook
+
+<!-- página 2 -->
+Foreword
+
+This document outlines the rules that should at all times be followed when
+participating in an Intel Extreme Masters competition. Failure to adhere to these
+rules may be penalized as outlined.
+
+It should be remembered that it is always the administration of the tournament
+that has the last word, and that decisions that are not specifically supported, or
+detailed in this rulebook, or even go against this rulebook may be taken in
+extreme cases, to preserve fair play and sportsmanship.
+
+We at ESL hope that you as a participant, spectator, or press will have an
+enjoyable competition to partake in and we will do our utmost to make it a fair,
+fun, and exciting competition for everyone involved.
+
+Yours sincerely
+The Intel Extreme Masters Admin Staff
+
+<!-- página 3 -->
+Table of Contents
+Definitions                                                               8
+   Range of Validity                                                       8
+   Participants                                                           8
+   Time Zone                                                               8
+   Region                                                                 8
+   Punishments                                                             8
+       Definitions and Scope of Punishments                                8
+              Minor Penalty Points                                         8
+              Major Penalty Points                                         8
+              Monetary Fines                                               8
+              Bans/Barrages                                                8
+              Disqualification                                             9
+              Additional Methods of Punishment                             9
+       Combination of Punishments                                         9
+       Punishments for Repeat Offences                                     9
+       League Bans and Penalty Points Outside the Intel Extreme Masters   9
+   Live Matches                                                            9
+   Disciplines                                                            9
+   Tournament Organization                                                9
+       Administration List                                                 9
+
+General                                                                   10
+   Rule Changes                                                           10
+   Validity of the Rules                                                  10
+       Local Laws                                                         10
+   Confidentiality                                                        10
+   Additional Agreements                                                  10
+   Match Broadcasting                                                     10
+       Rights                                                             10
+       Waiving These Rights                                               10
+       Player Responsibility                                              10
+   Communication                                                          10
+       E-Mail                                                             10
+   Conditions of Participation in the Intel Extreme Masters               10
+       Age Restriction                                                    10
+       Regional Limitations for Participants                              10
+       Home Country/Region                                                11
+       Residence/Nationality and Number of Players in a Team              11
+       Country/Region of Qualifiers                                       11
+       Home Country/Region on Team Matches                                11
+       Physical location during online matches                            11
+   Player Details                                                         11
+       Nicknames                                                          11
+       Game Accounts                                                      11
+              Playing with Wrong Game Accounts                            12
+   Team Accounts                                                          12
+
+<!-- página 4 -->
+   Standards                                                       12
+   Team Names                                                      12
+   Changes on the Team Accounts                                    12
+Licenses in the Intel Extreme Masters                              12
+   Definition                                                      12
+   Duration                                                        12
+   1on1 License                                                    12
+   Team License                                                    12
+       Multiple Squads                                             12
+   Changing the Team License Holder                                13
+   Withdrawal of License                                           13
+   Review of License                                               13
+Sponsor Restrictions                                               13
+   Mature Content                                                  13
+Player Changes                                                     13
+   Adding a New Player                                             13
+       Restrictions for Adding New Players                         13
+       Formal Requirements                                         14
+       Player Addition Deadline                                    14
+   Multiple Contracts                                              14
+   Line-up Restriction during an Event                             14
+   Line-up Changes during an Event                                 14
+   Emergency Transfers                                             14
+Prize Money                                                        14
+   Prize Deductions Due to Penalty Points                          15
+   Prize Deductions Due to Monetary Fines                          15
+   Withdrawal of Prize Money                                       15
+   Transfer of Prize Money                                         15
+Penalties and consequences for leaving the Intel Extreme Masters   15
+   Leaving During an Event                                         15
+   Deletion of Matches                                             15
+Match Start                                                        15
+   Punctuality                                                     15
+   Not being Punctual for an online Match                          15
+   Participants Not Showing                                        16
+Match Procedures                                                   16
+   Line-up                                                         16
+   Determining the „better seed“                                   16
+   Match Result                                                    16
+   Storage and keeping of Match Media                              16
+Match Protests                                                     16
+   Definition                                                      16
+   Match Protest Rules                                             16
+       Deadline for Match Protests                                 16
+       Contents of a Match Protest                                 16
+       People in a Match Protest                                   17
+       Behaviour in Match Protests                                 17
+
+<!-- página 5 -->
+   Results in Rematch                                                  17
+   Interviews                                                          17
+   Video Presentation                                                  17
+   Voice Communication & Recording Team
+   Camera obligations
+
+
+Qualification                                                          17
+   Qualification for Intel Extreme Masters Events                      18
+       Counter-Strike: Global Offensive                                18
+   Replacements                                                        18
+       Replacement Tiebreaker                                          18
+       Replacement Deadline                                            18
+       Qualified or Invited Event Group Stage or Playoff Participant   18
+
+Event Rules                                                            18
+   Tournament Stages                                                   19
+       Group Stage                                                     19
+       Playoffs                                                        19
+              Playoffs after Groups of Four                            19
+              Playoffs after Groups of Six                             19
+              Playoffs after Swiss System of Eight                     19
+              Playoffs after Swiss System of 16                        19
+   Punctuality                                                         19
+   Causing Delay                                                       19
+   Equipment                                                           19
+   Config and Drivers                                                  20
+   Clothing                                                            20
+   Administrators                                                      20
+   Player Brief                                                        20
+   Technical Checklist                                                 20
+   Team Communication Tool                                             20
+   Media Obligations                                                   20
+       Missing Media Obligations                                       20
+   Stage Matches                                                       21
+   Gaming Areas                                                        21
+       Food, Drinks, Smoking and Behaviour                             21
+       Removable Media                                                 21
+       Mobile phones, tablets, cameras or similar devices              21
+       Unused items                                                    21
+       Internet access                                                 21
+   Warm-up Period                                                      21
+   Demos and Replays                                                   21
+   Demo and Replay Rights                                              21
+   Photo and Other Media Rights                                        21
+   Winners Ceremony                                                    21
+   ESL-provided Areas                                                  22
+
+<!-- página 6 -->
+Rule Violations, Punishments and ESIC                  23
+   Code of Conduct                                     23
+   First-time and repeat offences                      23
+   Cheating                                            23
+       Cheat Software                                  23
+       Information Abuse                               23
+       Punishments for Cheating                        23
+       Methods to Detect Cheating                      23
+   Doping                                              23
+       Refusing to be tested                           23
+       List of Prohibited Substances and Methods       23
+       Prescribed medication                           24
+       Punishments for Doping                          24
+   Using Alcohol or Other Psychoactive Drugs           24
+   Betting                                             24
+   Competition Manipulation                            24
+       Punishments for Competition Manipulation        24
+   Match Fixing                                        24
+       Punishments for Match Fixing                    24
+   Limitations for issuing punishments                 24
+   Publisher or ESIC Bans                              24
+   Breach of Netiquette                                25
+       Public Behaviour                                25
+       Insults                                         25
+       Spamming                                        25
+       Spamming In-game                                25
+       Damaging or Soiling                             25
+   Unsportsmanlike Behaviour                           25
+       Faking Match results                            25
+       Faking Match media                              25
+             Cheat Suspicion                           25
+       Ringer/Faker                                    25
+       Playing with Disallowed Player                  26
+       Misleading admins or players                    26
+
+Game Specific Rules Counter-Strike: Global Offensive   27
+   Game version                                        27
+   Anti-Cheat                                          27
+   Map selection procedures                            27
+       Map pool                                        27
+       Online Open Qualifiers                          27
+       Online Closed Qualifiers                        27
+       Offline Stage                                   27
+       Best-of-One (Bo1) Matches                       27
+       Best-of-Three (Bo3) Matches                     28
+       Best-of-Five (Bo5) Matches                      28
+   Match settings                                      28
+
+<!-- página 7 -->
+       Overtimes                                                                    28
+   Match server                                                                     28
+   In-Game chat                                                                     28
+   Coaching                                                                         28
+       Online Competition                                                           28
+       Offline Competition                                                          29
+   Usage of pause function                                                          29
+       Online Qualifiers                                                            29
+       Offline Stage                                                                29
+           Technical Pause                                                          29
+           Timeout                                                                  29
+       Admin Pause                                                                  29
+   Player Settings                                                                  29
+       Configuration Files                                                          29
+       Scripts                                                                      29
+       Graphics drivers                                                             29
+       Overlays                                                                     29
+       Custom Data                                                                  30
+       Device Drivers                                                               30
+       In-Game nickname                                                             30
+       In-Game item’s nametag                                                       30
+   Match Procedures                                                                 30
+       Match Breaks                                                                 30
+       Number of Players                                                            30
+       Change of Players                                                            30
+           Changes in online competition                                            30
+           Changes in offline competition                                           30
+       Match Interruptions                                                          30
+       Use of Bugs and Glitches                                                     31
+           New Positions                                                            31
+       Joining the wrong team                                                       31
+
+Appendix                                                                            31
+   List of countries/territories and their assigned Intel Extreme Masters regions   32
+
+Copyright Notice                                                                    39
+
+<!-- página 8 -->
+1 Definitions
+
+1.1 Range of Validity
+The Intel Extreme Masters is operated as part of ESL by ESL Gaming GmbH.
+
+This is the only rulebook which is valid for the Intel Extreme Masters, its participants and all matches played
+within the scope of the Intel Extreme Masters. With his participation the participant states that he understands
+and accepts all rules.
+
+1.2 Participants
+An Intel Extreme Masters participant is a team or a player that is participating in an Intel Extreme Masters
+competition. Any member of an Intel Extreme Masters team is a participant of that team and locked to it
+regardless of whether or not the person has played for said team. No participant can at the same time be part of
+more than one organization taking part in overlapping seasons of ESL professional gaming competitions,
+including but not limited to Intel Extreme Masters, Intel Extreme Masters, ESL Pro League, ESL
+National/Regional Championship or any of those leagues' qualifiers. If in doubt, please contact an admin if the
+league in question poses a conflict.
+
+1.3 Time Zone
+The ESL website (www.intelextrememasters.com) will display the times of matches according to the time zone
+each user has specified in the account settings. Not logged in users will have times displayed in the time zone
+assigned to them from their Geo-IP location. To be sure, it is recommended to login and enter the correct time
+zone in the account settings.
+
+1.4 Region
+For Intel Extreme Masters, the world is divided into three main regions which are as follows:
+    ● Americas (& Antarctica)
+    ● Asia & Australia (& Oceania)
+    ● Europe & Africa
+The regions can be further divided into sub-regions for qualifiers or invitations, as ESL sees fit.
+For a list of all countries and their assigned region, see 7.1.
+
+1.5 Punishments
+1.5.1            Definitions and Scope of Punishments
+Punishments are given for rule violations within the Intel Extreme Masters. They may be either minor or major
+penalty points, monetary fines, default losses, player/team barrages or disqualification, dependent on the incident
+in question and often combinations of two or more of those. Participants will be informed about the punishment by
+mail and will be given a time until which they can appeal the decision. Only the license-holder or his designated
+spokesperson are eligible to make appeals.
+
+1.5.1.1          Minor Penalty Points
+Minor penalty points are given for minor incidents such as not uploading required match media, insufficient match
+statements, insufficient information on a team account or other related material, and so on. Every minor penalty
+point deducts one percent (1%) of the overall prize money received by the team or player in the competition it is
+given.
+
+1.5.1.2          Major Penalty Points
+Major penalty points are given for major incidents such as deliberately deceiving admins, failing to show up for
+matches, repeated rule breaking, and so on. Every major penalty point deducts ten percent (10%) of the overall
+prize money for that competition.
+
+1.5.1.3          Monetary Fines
+Monetary fines are given for failure to fulfil obligations that are not directly related to the tournament, like
+press/media appointments, or planned sessions for fan interaction.
+
+<!-- página 9 -->
+1.5.1.4          Bans/Barrages
+Bans or barrages are given for very severe incidents like ringing or use of an unallowed player. They can be
+awarded either to a player or an organization.
+
+1.5.1.5          Disqualification
+A disqualification will happen in the most severe cases of rule violations. The disqualified participant forfeits all
+prize money accumulated for the competition in question and gets banned until the end of that competition. In
+team competitions, the organization and all its members get banned until the end of that competition.
+
+1.5.1.6          Additional Methods of Punishment
+In special cases, the tournament administration can define and come up with other methods of punishment.
+
+1.5.2            Combination of Punishments
+The listed methods of punishment are not mutually exclusive and may be given in combination as seen fit by the
+tournament administration.
+
+1.5.3            Punishments for Repeat Offences
+All punishments outlined in this rulebook are applicable for first-time offences. Repeat offences will usually be
+punished more severely than listed in the appropriate section of these rules, in proportion to the punishment listed
+there.
+
+1.5.4            League Bans and Penalty Points Outside the Intel Extreme Masters
+League bans and penalty points outside the Intel Extreme Masters do normally not apply towards the Intel
+Extreme Masters except when the punishment has been awarded for cheating. Some other misbehaviours like
+ringing/faking or insults can also be punished, depending on the severity.
+
+1.6 Live Matches
+The term “Live Matches” refers to matches that take place in a public location, during events, matches in a studio,
+or matches broadcast by ESL TV or an official partner.
+
+1.7 Disciplines
+Games currently played in the Intel Extreme Masters are:
+       Counter-Strike: Global Offensive by Valve Corporation
+       StarCraft II: Legacy of the Void by Blizzard Entertainment
+       Warcraft III - Reforged by Blizzard Entertainment
+There may be side games or new games added at any point.
+
+1.8 Tournament Organization
+The Intel Extreme Masters is organized by ESL. ESL is operated by ESL Gaming GmbH.
+
+   ESL Gaming GmbH
+   Schanzenstr. 23
+   51063 Köln
+   Germany
+   https://www.eslgaming.com/
+
+1.8.1            Administration List
+                   Name                                                       Role
+          Alexander 'crtmN' Nehr                                      Tournament Director
+          Carsten 'Storch' Kramer                                  Director League Operations
+          Michael 'Cynil' Parsons                                     Head Referee CSGO
+         Markus 'Olodyn' Koskivirta                                   Head Referee CSGO
+
+<!-- página 10 -->
+2 General
+
+2.1 Rule Changes
+ESL reserves the right to amend, remove, or otherwise change the rules, without further notice. ESL also
+reserves the right to make judgment on cases not specifically covered by the rulebook in order to preserve the
+spirit of fair competition and sportsmanship.
+
+2.2 Validity of the Rules
+If a provision of this rulebook is or becomes illegal, invalid or unenforceable in any jurisdiction, that shall not affect
+the validity or enforceability in that jurisdiction of any other provision of this rulebook or the validity or
+enforceability in other jurisdictions of that or any other provision of this rulebook.
+
+2.2.1            Local Laws
+If any rules or procedures are in conflict with local laws, they will be adjusted to be aligned with the laws in a way
+to stay as close as possible to the originally intended effect.
+
+2.3 Confidentiality
+The content of protests, support tickets, discussions or any other correspondence with tournament officials and
+administrators are deemed strictly confidential. The publication of such material is prohibited without a written
+consent from the Intel Extreme Masters tournament directors.
+
+2.4 Additional Agreements
+The Intel Extreme Masters administration is not responsible for any additional agreements, nor do they agree to
+enforce any such agreements made between individual players or teams. The Intel Extreme Masters highly
+discourages such agreements taking place, and such agreements that are contradicting the Intel Extreme
+Masters rulebook are under no circumstances allowed.
+
+2.5 Match Broadcasting
+2.5.1            Rights
+All broadcasting rights of Intel Extreme Masters are owned by ESL Gaming GmbH. This includes but is not
+limited to: IRC bots, shoutcast streams, video streams (e.g. PoV-streams), GOTV, replays, demos or TV
+broadcasts.
+
+2.5.2            Waiving These Rights
+ESL Gaming GmbH has the right to award broadcasting rights for one or multiple matches to a third party or the
+participants themselves. In such cases the broadcasts must have been arranged with a head admin before the
+start of the match. For the necessary contact details please look at point 1.8.1 and make sure any additional
+broadcast has been approved before the match in question starts.
+
+2.5.3            Player Responsibility
+Players cannot refuse to have their matches broadcast by ESL-authorized broadcasts, nor can they choose in
+what manner the match will be broadcast. The broadcast can only be rejected by an admin. The player agrees to
+make sufficient accommodation so that broadcasting of matches can take place.
+
+2.6 Communication
+2.6.1            E-Mail
+The main official communication method of the Intel Extreme Masters is email, the Intel Extreme Masters may
+use the email that has been registered in the users profile on ESL, and therefore this email address should
+always be kept updated and checked regularly so that no important announcements from the league are missed.
+
+2.7 Conditions of Participation in the Intel Extreme Masters
+The following conditions must be met in order to participate in the Intel Extreme Masters
+
+2.7.1            Age Restriction
+All participants of Intel Extreme Masters have to be over 16 years of age.
+
+<!-- página 11 -->
+2.7.2            Regional Limitations for Participants
+Any team or any 1on1 player may not try to qualify for the same event from more than one country or region.
+Single players as part of a team can do that under the restrictions of rule 2.12.1.1.
+
+2.7.3            Home Country/Region
+A team player's home country is the country where his main place of residence (proven by legal registration or
+long-term visa in connection with evidence of long-time habitation - 90-day visas are not enough) is or the country
+he holds a valid passport from. This decision can be made anew for every Intel Extreme Masters event, but once
+made it will be final and irreversible for that event and its qualifiers. The home region is the region that this
+country belongs to (see 9.1). For a team, this is determined by the majority of the used line-ups. If there is no
+such majority, a team may have no home country or even no home region. In that case, the team cannot take
+part in qualifiers restricted to a country or region.
+For 1on1 players, the home country/region is determined either by his residence or his citizenship. The
+participant has to decide on either of the two before each Intel Extreme Masters event, this choice remains valid
+for the entirety of that event.
+
+2.7.4            Residence/Nationality and Number of Players in a Team
+The team roster can hold an unlimited amount of members from any country or nationality, only the line-up
+composition in a match may be restricted, see 2.7.5 and 2.7.6.
+
+2.7.5            Country/Region of Qualifiers
+Qualifiers for Intel Extreme Masters, including invitations, are usually restricted to a country, a region or a
+sub-region (we will call it region for the rest of the paragraph). A 1on1 player or team is only allowed to take part
+in qualifiers for their respective home region.
+Exceptions from this rule are possible, if ESL can be convinced that there is a valid reason why the team would
+be unable to attend all required parts of the qualifier in their home region and why the team should be allowed to
+play the qualifier in the region suggested by the team.
+This has to be requested actively by the team, and separately for each individual case.
+Examples for such reasons are
+    i) There are no qualifiers in the home region(s) for the team and the team is willing to travel to the region of
+          the qualifier to play it.
+    ii) The team is taking part in (a) competition(s) in a region other than their home region(s) and has matches
+          to play there before and after and in such close timely proximity to the qualifier(s) in their home region(s)
+          that travelling back for that qualifier(s) would be unreasonable.
+    iii) The team is staying in another region for good reason (esports-related) for a prolonged time that spans
+          over the time of the qualifier for their home region and it can be clearly shown that this condition has not
+          been created to be able to take part in a qualifier that might be easier to qualify from.
+For all rule purposes, if such an exception has been granted, the respective region will be considered that team's
+home region for the entire event or (if that happens before the end of the event) until the conditions for the
+exception expire.
+
+2.7.6            Home Country/Region on Team Matches
+The majority of the line-up present in a team match must have the home country (for qualifiers that are restricted
+to a country) or region (for qualifiers that are restricted to a region) from which the team qualified for the Intel
+Extreme Masters. As many of the players with the wrong home country/region as would have to be replaced to
+achieve an allowed line-up will be considered disallowed players (see 5.12.4). Which exact players those are is
+up to the team.
+
+2.7.7            Physical location during online matches
+Online matches have to be played from the region of the competition or qualifier they belong to. An exception to
+this rule is only possible by written consent from ESL. It can only be granted if the participant can explain and
+prove having a valid reason to play from elsewhere. Valid reasons could be similar to the ones from (2.7.5).
+
+2.8 Player Details
+When requested, players are required to send us all needed information including but not limited to full name,
+contact details, date of birth, address and photo.
+
+2.8.1            Nicknames
+A change in nickname must first be notified to the administration for approval before the change can be
+undertaken. The general ESL rules for the choice of nicknames apply.
+
+2.8.2            Game Accounts
+Every playing member must have their game accounts entered in their ESL/ESEA member profile. This is
+
+<!-- página 12 -->
+including but not limited to:
+     ● Steam ID for Counter-Strike: Global Offensive
+
+2.8.2.1         Playing with Wrong Game Accounts
+It is not allowed to play with a different game account than the one given in the ESL profile. An incorrect game
+account may lead to a barrage for the player or a rematch being given. If there is sufficient evidence that the
+player in question indeed played the match or if an admin of the Intel Extreme Masters explicitly allowed it
+beforehand, a protest for a barrage or rematch will not be admitted. Penalties may still be given in either case.
+
+2.9 Team Accounts
+2.9.1           Standards
+The Intel Extreme Masters team account must be an ESL team account only used for the Intel Extreme Masters,
+and no other tournament. This team account should have no history before entering the Intel Extreme Masters for
+the first time. If a team is taking part in the Intel Extreme Masters for the second time, the team account that was
+used the first time has to be used again. An Intel Extreme Masters account must have the following information
+entered:
+    ● Team Logo, relevant to the team.
+    ● One Team Captain
+The team name should be written according to rule 2.9.2.
+
+2.9.2           Team Names
+The team name may not have any extensions such as “CS team”. It may only consist
+of the team name and/or a potential name sponsor (see Sponsor Restrictions). To prevent confusion, only names
+that are not already being used by another team in the same discipline are allowed.
+A name sponsor may only be used in the name of one participating team and must be determined prior to the
+roster deadline (see Formal Requirements & Player Addition Deadline). If two teams are name sponsored by the
+same partner, they have to come to an agreement with that partner about which of the teams
+keeps the name sponsoring during the Intel Extreme Masters.
+
+
+2.9.3           Changes on the Team Accounts
+Any changes in the team account should be approved by the Intel Extreme Masters administration before the
+changes are allowed to take place. This includes but is not limited to:
+   ● Adding or removing players
+   ● Changing the team name
+
+2.10 Licenses in the Intel Extreme Masters
+2.10.1          Definition
+Before each tournament, ESL awards the Intel Extreme Masters License to the participating teams, or individuals.
+In most cases, these are participants that:
+    ● have automatically qualified through an ESL National Championship
+    ● have qualified through Intel Extreme Masters national qualifiers
+    ● have qualified through Intel Extreme Masters regional qualifiers
+    ● have been invited to a specific event by the tournament organization.
+    ● won participation through other tournaments or events.
+
+2.10.2          Duration
+Intel Extreme Masters licenses are valid for one Intel Extreme Masters event, only.
+
+2.10.3          1on1 License
+The license in a 1on1 competition always lies with the player themselves.
+
+2.10.4          Team License
+The license in team competitions will be awarded to a legal entity (registered association/organization, Ltd
+company, and so on). Any legal entity is only allowed to hold one license in the same competition. No other legal
+entity controlled by the same person/people is allowed to hold another license.
+If there is no such entity existent for the team in question or the existing entity has never been reported to and
+accepted by the Intel Extreme Masters administration, a restricted license may be awarded to the actual team,
+where the team leader or organizer will be designated contact person for this team. This person will be
+responsible for keeping the team in order, and holding the Intel Extreme Masters team account on ESL, but in
+such a case the right to the license can only be sustained if the majority of the players that actively played in the
+last stage(s) of the Intel Extreme Masters or its qualifiers stay together as a team.
+
+<!-- página 13 -->
+The license holder or representative is responsible for all actions and commitments of the team. Any changes in
+the team license must be reported to and accepted by the Intel Extreme Masters administration before it can be
+followed through. Failure to report any changes in the license or omitting any needed information about the team
+may be punished with penalty points or other sanctions.
+The License holder is the entity that decides about the recipient of the prize money won under its license.
+
+2.10.4.1        Multiple Squads
+According to 2.10.4, each organisation and its legal entity can only acquire one license per tournament (including
+its qualifiers) Therefore it is not allowed for a squad to participate in an ESL tournament or qualifier if…
+     a) Another squad of the same organization has been invited or qualified to the main event.
+     b) Another squad of the same organization has been invited or qualified to the closed qualifier.
+     c) Another squad of the same organization has signed up for the same qualifier.
+
+A special exception to this can only be made if the organization in question provides (at least 48 hours before the
+first match of the second squad) a written confirmation that at least four weeks ahead of the part of the
+competition including the first squad, one of the two squads will no longer be part of that organisation and its
+players will no longer be under contract with that organisation.
+This separation from one of the squads has to be permanent and is independent from the results of the squads in
+the qualifiers. Any violation will result in severe punishment for the organisation.
+
+
+2.10.5          Changing the Team License Holder
+A license-holder can request a transfer of the Intel Extreme Masters license to another entity, if there is an
+adequate reason for doing so. It is at the Intel Extreme Masters administrators’ discretion whether or not the
+reason is deemed adequate.
+
+2.10.6          Withdrawal of License
+ESL reserves the right to withdraw an Intel Extreme Masters license from any participant(s), if the Intel Extreme
+Masters feels that the participant(s) in question have not behaved within the guidelines set out by the Intel
+Extreme Masters, and its governing organization.
+
+2.10.7          Review of License
+If a license holder loses over 67% of their starting line-up, ESL can review the license and possibly withdraw it, if
+the license-holder cannot convince ESL about their ability to continue in Intel Extreme Masters on a similar level
+of play.
+
+2.11 Sponsor Restrictions
+2.11.1          Mature Content
+Sponsors or partners that are solely or widely known for pornographic, drug use or other adult/mature themes
+and products are not allowed in connection to Intel Extreme Masters.
+
+2.12 Player Changes
+If a team for any reason does not have the sufficient number of players to participate in an Intel Extreme Masters
+match, the team will be removed, and its license expires. Therefore, it is suggested that every Intel Extreme
+Masters team has substitutes added in the roster to compensate for any player losses during an event.
+
+2.12.1          Adding a New Player
+
+2.12.1.1        Restrictions for Adding New Players
+Every player addition is counted as a “new player”. This includes new players in other ESL Pro Gaming
+competitions (including but not limited to Intel Extreme Masters, ESL One, ESL Pro League and ESL National
+Championships, including their qualifiers). The maximum number of new players any team can add within any
+120 days is the number of players in the default line-up (e.g. 5on5 = 5).
+A player can only join an Intel Extreme Masters participant if he has not been playing for more than one team in
+ESL Pro Gaming competitions (including their qualifiers) during the last 120 days. A special exception from this
+rule can be made if the player or his team can clearly prove that this change is permanent (i.e. by presenting a
+valid contract). This exception can never be made when the third team is the same as the first one he played for.
+
+Over the course of a single event and its qualifiers, the following restrictions apply:
+   i) A player that played in and qualified from an open qualifier is never allowed to participate in another open
+        qualifier for the same event. The player is also not allowed to play in any closed qualifier for the same
+
+<!-- página 14 -->
+         event with another team.
+    ii)  A player that played in and qualified from a closed qualifier is never allowed to participate in another
+         qualifier for the same event. The player is also not allowed to play the main event with another team.
+    iii) A player that played in the open qualifier but didn't qualify into closed is allowed to change teams for the
+         main event in any case. He can even change teams for the closed qualifier, but only if the new team can
+         prove that the change is permanent.
+    iv) A player that played in the closed qualifier but didn't qualify into the main event can change teams for the
+         main event, but only if the new team can prove that the change is permanent.
+    v) None of these changes are allowed if the new team is the same that the player has already played for in
+         the last 120 days.
+
+2.12.1.2         Formal Requirements
+Before a player can be officially added to the roster, the administrators of Intel Extreme Masters must be formally
+informed in writing. This information should contain:
+     ● Nick
+     ● Link to the player
+     ● Full Name
+     ● Previous team history of the last 120 days
+Failure to notify the Intel Extreme Masters Administration with the necessary information before adding the player
+may be penalized with up to two (2) minor penalty points.
+After a player is added to the team, the team management also needs to update and resubmit the Intel Extreme
+Masters Team sheet (if one was required) that holds all the vital information about the players. The old Intel
+Extreme Masters Team sheet will be deemed invalid when any member changes have been made.
+
+2.12.1.3         Player Addition Deadline
+For the Regional Major Ranking competition of Intel Extreme Masters New York, the above-mentioned roster
+deadline on 8th September 2020 applies. Teams that are invited and qualify through the qualifiers must remain
+the same throughout the whole event. You are unable to add any further players after the roster deadline.
+
+2.12.2           Multiple Contracts
+For a player in the Intel Extreme Masters to have a contract or agreement with 2 or more Intel Extreme Masters
+teams is strictly forbidden, may it be written or oral. If such a contract or agreement is found to be in existence,
+ESL reserves the right to bar the player from playing any more matches until the situation has been resolved. If
+the situation cannot be resolved, Intel Extreme Masters has the right to remove the player or team(s) in question.
+The only exception from this rule is the case of a loan. In that case, the player is only allowed to play competitions
+for the team he is loaned out to, not for the team that he is originally contracted with. Other than the fact that the
+player still has a running contract with his old team, this is in every way considered the same as a transfer, i.e.
+limitations from 2.12.1.1 apply.
+
+2.12.3           Line-up Restriction during an Event
+Once a team plays for the first time in a qualifier, the line-up of the team has to remain the same until the end of
+the main event, throughout all qualifiers and stages of the event. This also implies that an organization that tried
+and failed to qualify with one team is not allowed to sign a new team to still take part in the event.
+Teams that were invited to the event must submit their roster for the tournament by the 8th September as stated
+above.
+
+2.12.4           Line-up Changes during an Event
+The line-up has to consist of players from the team roster (see Player Addition Deadline).
+During ESL One Road to Rio, a team can swap a coach for a player. Each time a coach is swapped in or out, the
+team suffers a compounding 20% penalty to points remaining at the event. E.g., A team that fields a coach will
+receive 80% of the points earned at the event. If the original player returns to the lineup, they will incur another
+penalty and receive 80% of the remaining earned points (64%).
+
+
+2.12.5           Emergency Transfers
+In case of a serious and short notice emergency (e.g. unforeseeable cancellation of all flights or a severe illness
+or injury of a player) that leaves a team without a full line-up to play with, the tournament direction can decide to
+allow an emergency transfer in disregard of most of the rules in 2.12.
+Rule 2.12.1.1 remains in place even for emergency transfers.
+
+2.13 Prize Money
+All prize money should ideally be paid out 90 days after the Intel Extreme Masters event in question has been
+
+<!-- página 15 -->
+completed, but it may take as long as 180 days for the payment to be completed.
+If a team or player is missing the proper payment information in their Intel Extreme Masters license sheet and
+hasn't provided it by other means to the head administration either, the prize money will not be paid out until a
+reasonable time after this has been rectified.
+
+2.13.1          Prize Deductions Due to Penalty Points
+Every penalty point that a participant acquires during an event or its qualifiers is penalized with a prize money
+deduction. The deductions are as follows:
+   ● For every minor penalty point a 1% overall prize money deduction will occur.
+   ● For every major penalty point a 10% overall prize money deduction will occur.
+
+The deduction is calculated out of the grand total of prize money awarded to the participant at the end of the last
+part of the competition in question, including both online and offline won prizes, but excluding the part that is
+meant to compensate for travel expenses (if any). The deducted prize money will be proportionally added upon
+the other teams; thus, no prize money gets lost through penalty points.
+
+It should be noted that a team that received extremely high prize money deduction in total over several of the
+tournament stages may be disqualified.
+
+2.13.2          Prize Deductions Due to Monetary Fines
+Monetary fines are not redistributed to the other participants but just removed from the winnings of the team in
+question.
+
+2.13.3          Withdrawal of Prize Money
+As long as the prize money for the Intel Extreme Masters has not been paid out, ESL reserves the right to cancel
+any pending payment if any evidence of fraud or foul play has been discovered.
+
+2.13.4          Transfer of Prize Money
+The prize money will be sent as a bank transfer or over PayPal as specified by the License holder. Failure to
+provide sufficient information for the payments to be complete will result in payments not being made. If a
+participant has not collected their winnings or redeemed the cheque within one year of the initial payment date
+the prizes are forfeited.
+
+2.14 Penalties and consequences for leaving the Intel Extreme Masters
+2.14.1          Leaving During an Event
+If a participant leaves the Intel Extreme Masters during an ongoing event (i.e. between qualifier/wildcard-invite
+and event or between two stages of qualification or even between accepting the invitation to a qualifier and the
+qualifier), the participant forfeits all prize money accumulated for the event that stage belongs to and all its
+members get banned until the end of main event.
+The next time that participant plays (or the organization of this team fields a team from the same country) in an
+event within the next 365 days, the player/organization will be penalized with between five (5) minor penalty
+points and one (1) major penalty point for that event, depending on the reasons and timing of the cancellation.
+Also, cancelling an offline stage is considered a more severe offense than cancelling an online stage.
+Higher penalties, not being invited, barrages, suspensions or similar sanctions may also come into effect,
+especially on very late cancellations, according to what the tournament administration sees fit.
+
+2.14.2          Deletion of Matches
+All matches involving teams or solo players that have left a stage of the Intel Extreme Masters before it ended will
+be reset and deleted. In playoff brackets, the most recent or the next upcoming match (depending on the
+situation) of the participant will be considered a default win for his opponent.
+
+2.15 Match Start
+2.15.1          Punctuality
+All matches in the Intel Extreme Masters should start as stated on the website, any changes in the time must be
+accepted by the opposing party and administrators (if rescheduling is generally possible). All participants in a
+match should be on the server and ready to go at the latest 10 minutes before the match is to start.
+
+2.15.2          Not being Punctual for an online Match
+Two (2) minor penalty points can be awarded if a participant is not ready to play at the latest 10 minutes before
+the announced starting times. This penalty gets increased by one (1) additional minor penalty point every 5
+minutes until 15 minutes after the scheduled start of the match. At that point, the match will be postponed and
+instead of the delay penalties, a no-show (see 2.15.3) will be awarded. If the match is broadcast by ESL TV or in
+any other way a live match, three (3) additional minor penalty points will be awarded for any delay in the match
+
+<!-- página 16 -->
+start caused by a team.
+
+2.15.3           Participants Not Showing
+If a participant is not ready to play until 15 minutes after the scheduled start of the match, he is considered a
+no-show. In that case, the participant will be penalized, and the match will have to be rescheduled, if the schedule
+allows it. Otherwise, the opponent will receive a default win from the administration.
+
+2.16 Match Procedures
+2.16.1           Line-up
+Teams have to submit their line-up for offline and online events before the deadline given by tournament
+administration.
+
+2.16.2           Determining the „better seed“
+Coin tosses are the last resort, so whenever a clear seeding is given, we will avoid them and declare one
+participant the “better seed”. This participant then has the choice about who starts in the ban/pick process of the
+first map or the map-veto/pick process.
+      ● In online cups/qualifiers, the cup seeding (see round one of the upper bracket) determines who has the
+         better seed.
+      ● If a clear seeding was implemented for the first stage of an event (e.g. in the group distribution process),
+         it will remain valid.
+      ● In playoffs that are following upon a previous round that gave a clear ranking, whenever one participant
+         has his first match in the playoffs (round 1 or round 2 after a free round in round 1 for group winners), the
+         participant that had the higher group ranking is considered the “better seed”.
+      ● In all other cases (e.g. later playoffs rounds), we will stick to coin tosses.
+If a case is not covered here or still unclear for any reasons, contact an admin.
+
+2.16.3           Match Result
+The result must be immediately added and confirmed by both parties, even if more match records are missing
+and in need of uploads. A protest may still be made even after a match result has been confirmed and accepted
+on the ESL website. Please refer to the game specific rules for what match records and media need to be
+uploaded.
+
+2.16.4           Storage and keeping of Match Media
+All match media (screenshots / demos / replays / etc.) must be stored by the participants for a minimum of 2
+weeks after the match has ended. If there is a protest on the match, the records need to be stored by the
+participants for a minimum of 2 weeks after the protest has been closed and resolved.
+
+2.17 Match Protests
+2.17.1           Definition
+A protest is for problems that affect the match outcome; a protest may even be filed during a match for things like
+incorrect server settings and other related issues. A protest is the official communication between the parties and
+an admin.
+
+2.17.2           Match Protest Rules
+
+2.17.2.1         Deadline for Match Protests
+The latest time that participants are allowed to issue a match protest is the earliest of the three following:
+             ● 72 hours after the scheduled starting time of the match
+             ● The beginning of the next match for either of the two participants (a minimum of 10 minutes has
+                 to be kept between two matches by all participants)
+             ● Only at offline events: The end of the event day (departure of the admins)
+
+2.17.2.2         Contents of a Match Protest
+The protest must contain detailed info about why the protest was filed, how the discrepancy came to be and when
+the discrepancy occurred. A protest may be declined if proper documentation is not presented. A simple „they are
+cheaters“ will not do.
+
+2.17.2.3         People in a Match Protest
+In team matches, only one representative per team is supposed to be writing in the protest, violations can be
+punished with one (1) minor penalty point.
+
+<!-- página 17 -->
+2.17.2.4         Behaviour in Match Protests
+Insults and flaming are strictly prohibited in a protest and may result in penalty points or the protest being ruled
+against the insulting party.
+
+2.18 Results in Rematch
+If the rules stipulate that a rematch is to be played, the victim of the incident is to decide whether or not this
+rematch is actually to be played. If the victim of the offence decides that a rematch is to be played, then the old
+result is null and void, and only the new result will count in the rankings.
+
+2.19 Interviews
+For every game that is broadcast on an ESL-arranged stream, one player from each team must be available for
+an interview (remotely for online matches). The team has to provide contact information for an interview in that
+case. The player should also be available for a comment after the match. Solo players should always be available
+for pre- and post-match interviews.
+
+2.20 Video Presentation
+In videos (e.g. interviews, feature videos or similar) that happen from an environment not controlled by ESL, the
+visible surroundings/background should be kept neutral, clean and presentable. If a team plans to showcase any
+sponsors, logos or advertisements (e.g. in a background banner or placed items), the planned settings need to be
+revised and approved by the league administration beforehand. In any case, obvious promotion of sponsor
+products (including consumption) is not allowed. Brand logos may never appear bigger than the players' faces on
+screen.
+
+2.21 Voice Communication & Recording Team
+Communication during matches is limited to the five players and one coach. Teams need to provide details of
+their TeamSpeak server as well as full access to ESL. Other Communication tools are only allowed if they are
+tested and cleared by ESL. ESL reserves the right to record all communication during League matches.
+
+2.22 Camera obligations
+Each player in an online event must be able to provide a clean camera feed for broadcast. Not fulfilling the media
+obligations will result in monetary fines. Their range depends on the details. The following fines are standard
+punishments for the most common cases:
+
+Team:
+1-30% of the line-up no camera: $50 + 0.25% of the prize money winnings
+31-50% of the line-up no camera: $100 + 0.5% of the prize money winnings
+51-70% of the line-up no camera: $150 +0.75% of the prize money winnings
+71-99% of the line-up no camera: $200 + 1% of the prize money winnings
+100% of the line-up no camera: $250 + 1.25% of the prize money winnings
+Coach missing: additional $50 + 0.25% of prize money winnings
+
+1v1:
+$75 + 1.25% of the prize money winnings
+
+<!-- página 18 -->
+3 Qualification
+
+3.1 Qualification for Intel Extreme Masters Events
+There are usually one or two ways to qualify for an Intel Extreme Masters event:
+   ● Through online qualification
+   ● Through invitation
+
+These are usually pre-distributed regional slots. Each region gets a certain number of slots for an Intel Extreme
+Masters event, the home region (or country) is usually given at least one additional slot.
+
+3.1.1            Counter-Strike: Global Offensive
+Selection of the CS:GO participants will mostly be based on invitation of teams depending on World Ranking
+Standings. Online qualifiers will always be divided by region due to connection issues. Special local rules slots
+will be filled by the discretion of the tournament administration.
+
+3.2 Replacements
+If a participant is for any reason unable to compete any more in the Intel Extreme Masters, a replacement will be
+called up. If this happens before the replacement deadline, the replacement will inherit any financial benefits like
+paid flights and hotels from the dropped participant.
+Usually tournament groups or brackets will not be reseeded if they were already publicly announced before the
+drop-out happened. In special cases, when the fairness of the competition is in jeopardy, the administration can
+still change or even re-draw the tournament.
+Replacement participants will be considered and contacted to ask whether or not they want to participate.
+
+3.2.1            Replacement Tiebreaker
+If participants have an identical score/position on/in the relevant invite list or qualifier, the one that has had the
+smallest change in line-up since then will be preferred.
+If that leaves several options, the tournament administration will make a choice based on other results or/and
+random draw.
+
+3.2.2            Replacement Deadline
+A replacement deadline will be set by the tournament administration. Its passing does not mean that there will be
+no further replacement, but the rules for replacing are different from that point on, see 3.2.3. If no replacement
+can be found, the stage may start with one less participant instead.
+If no earlier deadline has been set, the public announcement of the tournament drawing is usually the
+replacement deadline.
+
+3.2.3            Qualified or Invited Event Group Stage or Playoff Participant
+a) Before the replacement deadline
+The next in line will replace from the same qualifier, invite list or poll. If no one from the final stage of the same
+qualifier is available, the qualifiers of the other regions will be considered, starting with the home region.
+
+b) After the replacement deadline
+The administration will try to find any replacement by all available means.
+
+<!-- página 19 -->
+4 Event Rules
+
+4.1 Tournament Stages
+4.1.1            Group Stage
+When tournaments at Intel Extreme Masters offline events are played in group stage mode, normally the top 50%
+of the group will be proceeding into the playoffs. Team games group stages are often played in best-of-one
+mode, 1on1 games usually in best-of-three. Groups of four are always played as double-elimination groups. In
+case of a draw, the winner will be determined according to game specific rules.
+
+4.1.2            Playoffs
+The playoffs are played in single elimination, the best-of-mode is usually increased by 2 (1on1 = bo5, team =
+bo3) compared to the group stage. The final match will usually have its best-of-mode increased by another 2
+(1on1 = bo7, team = bo5) compared to all other rounds of playoffs.
+
+4.1.2.1          Playoffs after Groups of Four
+In the case of groups of four participants, the group winners will face the second ranked participant of another
+group. Two participants from the same group will never be seeded into the same half of the playoff grid.
+
+4.1.2.2          Playoffs after Groups of Six
+In the case of groups of six participants, the group winners will have a free win in the first round. Every second
+ranked participant will face a third ranked participant from another group in the first round. Winner and second
+from the same group will never be seeded into the same half of the playoff grid. Group third will never be seeded
+into the same quarter of the grid as someone else from his group.
+
+4.1.2.3          Playoffs after Swiss System of Eight
+In the case of a Swiss system of eight participants, participants with 3 wins (4/8) are qualified and participants
+with 3 losses (4/8) are eliminated. Participants will be seeded into the bracket of four according to their win/loss
+record, tied participants will be randomly sorted.
+
+4.1.2.4          Playoffs after Swiss System of 16
+In the case of a Swiss system of 16 participants, participants with 3 wins (8/16) are qualified and participants with
+3 losses (8/16) are eliminated. Participants will be seeded into the bracket of eight according to their win/loss
+record, tied participants will be randomly sorted.
+
+4.2 Punctuality
+We expect every player to be at the tournament area as stated in the tournament directions info mails to setup,
+prepare and solve any technical problems that might occur. If you notice at any point you will be late on one of
+the days, please inform a tournament official as soon as possible! Mitigating circumstances and attempts to
+inform ESL about the lateness and minimize the impact will be benevolently considered.
+The following penalties apply in the first case (repeat offences will be more severely punished):
+     ● arriving between the requested time and 30 minutes before match start – warning
+     ● for every 5 minutes later arrival (29-25 / 24-20 / 19-15 / etc.) – one Minor Penalty
+If a participant is not ready to play at the latest 15 minutes after the scheduled time, the tournament
+administration can decide to award (partial) default losses or disqualify the participant.
+
+4.3 Causing Delay
+If the match gets delayed due to late arrival (e.g. because of technical problems that could have been discovered
+beforehand without the lateness) or because of general misbehaviour (e.g. as listed in 4.13.1):
+     ● for every (partial) 5 minutes delay in the match start caused by this (1-5 / 6-10 / 11-15 / etc) – three Minor
+        Penalties
+
+4.4 Equipment
+ESL always provides monitors and computers. Depending on the discipline and the stage of the tournament,
+noise-cancelling headphones may be provided as well. Participants have to bring their own equipment (in
+particular: Keyboard, Mouse, Mousepad, In-Ear headphones with long enough cables, PS2->USB adapters if
+needed). Our machines do not support PS2-keyboards!
+
+<!-- página 20 -->
+All player equipment is subject to the approval of ESL administration. ESL reserves the right to deny the use of
+any equipment and/or device providing an unfair competitive advantage. Players might be asked to hand in their
+equipment for additional checks.
+
+4.5 Config and Drivers
+All participants have to send in their configs and drivers until a specific deadline set by the tournament direction
+before the event. If any player or team doesn’t send in their configs and drivers, they have to manually setup their
+config on site and play with default drivers.
+
+4.6 Clothing
+The players and teams need to ensure that they are all in equal coloured team attire, orderly long trousers and
+closed shoes (i.e. shorts or flip-flops are not allowed). Any kind of headwear is forbidden. Penalties will be
+awarded for minor violations of this rule, but in major cases (for example but not limited to offensive content, other
+team clothing etc.), players will not be allowed to start their matches before the problematic piece of clothing has
+been replaced. If possible and deemed appropriate by the administration, ESL will provide suitable clothing for
+the participants that are not dressed according to the rule. The cost of provided clothing will then be subtracted
+from the prize money paid out to the participants.
+Any delay caused by change of clothing will be considered the players fault and penalised according to the rules
+of punctuality.
+
+4.7 Administrators
+The instructions of administrators should always be obeyed and followed. Failure to do so may result in penalty
+points being awarded.
+
+4.8 Player Brief
+The player brief is a document that will be sent to the participants by mail before the tournament. It is meant as
+an extension to the rulebook for a specific offline event and equally binding.
+
+4.9 Technical Checklist
+After completing their setup process the player will sign off on the ESL admins technical checklist. This process
+exists to ensure the integrity of the system used to compete before the match starts. Technical pauses caused by
+problems that would have been noticed if the checklist had been properly followed will be punished with one (1)
+minor penalty.
+
+4.10 Team Communication Tool
+ESL will provide local TeamSpeak servers for all participants in team games to use as the main voice
+communication system. The communication on the voice server will be monitored by the tournament referees.
+ESL reserves the right to record all TeamSpeak communication during the event.
+No other communication tools are allowed.
+
+4.11 Media Obligations
+If the league decides that one or more players need to be part of interviews (short pre-/post-match interviews
+and/or longer interview-sessions), a press conference or an autograph-, photograph- or video-session, then the
+players cannot deny this and must attend. Most events will have a mandatory media day, where participants will
+be photographed, filmed and interviewed by the ESL crew for the event presentation.
+The participants will receive a media schedule beforehand to be informed about nature, duration and schedule of
+any activities of this kind that take more than 5 minutes.
+
+4.11.1          Missing Media Obligations
+Not fulfilling the media obligations will result in monetary fines. Their range depends on the details. The following
+fines are standard punishments for the most common cases:
+    ● Not showing up complete and on time for the media day: $4000 + 5% of the prize money winnings
+    ● Appearing incomplete or too late for a signing session:
+               ○ 1-30% of the line-up missing: $600 + 0.75% of the prize money winnings
+               ○ 31-50% of the line-up missing: $800 + 1% of the prize money winnings
+               ○ 51-70% of the line-up missing: $1000 +1.25% of the prize money winnings
+               ○ 71-99% of the line-up missing: $1200 + 1.5% of the prize money winnings
+               ○ 100% of the line-up missing: $2000 + 2.5% of the prize money winnings
+
+<!-- página 21 -->
+    ●    Appearing incomplete or too late for a press conference:
+             ○ 1-30% of the line-up missing: $360 + 0.45% of the prize money winnings
+             ○ 31-50% of the line-up missing: $480 + 0.6% of the prize money winnings
+             ○ 51-70% of the line-up missing: $600 +0.75% of the prize money winnings
+             ○ 71-99% of the line-up missing: $720 + 0.9% of the prize money winnings
+             ○ 100% of the line-up missing: $1200 + 1.5% of the prize money winnings
+Similar punishments will be applied if other, comparable media obligations are missed.
+The fines can be reduced if the participant shows up with delay but still early enough to create the required
+content/have a reasonable session. The fines can be also/further reduced if the participant delivers proof of
+mitigating circumstances. The decision about that will be made by the administration alone.
+
+4.12 Stage Matches
+Each participant is required to play their stage matches, if they reach them. This part is an integral component of
+the tournament and exceptions will not be allowed.
+
+4.13 Gaming Areas
+4.13.1          Food, Drinks, Smoking and Behaviour
+If nothing else has been announced, it is forbidden to bring or eat any food in the tournament areas. Smoking or
+vaping is also strictly prohibited. Players are allowed to have beverages, but only in cups or bottles that have
+been provided by ESL, and only below the table unless told otherwise. Exaggerated loud noise and offensive
+language are forbidden.
+Participants have to follow the hotel or venue rules in the practice areas.
+Any violations can be punished with penalty points.
+
+4.13.2          Removable Media
+It is strictly forbidden to connect or use any removable media on the tournament computers without prior
+examination and approval from the tournament administrators.
+
+4.13.3          Mobile phones, tablets, cameras or similar devices
+Participants are not allowed to bring any electronic devices, cameras or similar devices into the gaming area
+unless prior permitted by the head admin. Such devices have to be handed to tournament officials before starting
+to setup before the first match.
+Participants are not allowed to take photos and/or make any recordings on stage and during the opening
+ceremonies.
+Paper versions of documents for tactical purposes are allowed in reasonable sizes and numbers (e.g. a
+notebook).
+
+4.13.4          Unused items
+Items that are not immediately necessary (e.g. clothing that is not being worn, bags etc) have to be stored out of
+sight as indicated by ESL.
+
+4.13.5          Internet access
+Internet access on tournament computers is disabled for all participants.
+
+4.14 Warm-up Period
+A warm-up period of 30 minutes is normally provided before an ESL Live match, although this period may not be
+guaranteed.
+
+4.15 Demos and Replays
+All demos or replays must be made available if requested by the administrators.
+
+4.16 Demo and Replay Rights
+ESL reserves the right to play, and/or upload to the ESL websites, all demos that are recorded in an ESL
+arrangement.
+
+4.17 Photo and Other Media Rights
+By participating, all players and other team members grant ESL the right to use any photographic, audio or video
+material on their website or for any other promotional purpose.
+Additionally, each player has to sign two copies of a release form that they will receive beforehand for reading
+
+<!-- página 22 -->
+and have to sign before they start their first match.
+
+4.18 Winners Ceremony
+Participants have to stay in the tournament area for the winners ceremony after the Grand Final.
+
+4.19 ESL-provided Areas
+Only marketing activities that have been authorized by ESL are allowed in any ESL-provided areas (e.g.
+tournament areas, practice rooms, hotel rooms etc.).
+
+<!-- página 23 -->
+5 Rule Violations, Punishments and ESIC
+ESL and its tournaments are part of ESIC, the Esports Integrity Commission. That means that all rules and
+regulations of ESIC apply to all ESL tournaments, including Intel Extreme Masters. You can look them up on their
+website at https://esic.gg/.
+The following sub-paragraphs are meant to give you an impression about what things are forbidden. For more
+detailed information, please also visit the ESIC website.
+
+5.1 Code of Conduct
+All Intel Extreme Masters participants agree to behave in an appropriate and respectful manner towards other
+participants, spectators, the press, ESL TV, and Intel Extreme Masters administration. Being role models is the
+occupational hazard of being an Intel Extreme Masters player or organizer and we should behave accordingly.
+Any sort of harassment should be reported to the above listed administrators immediately. Harassment includes
+but is not limited to offensive statements or actions related to gender, gender identity and expression, age, sexual
+orientation, disability, physical appearance, body size, race, religion.
+Also considered harassment are things like sexual images in public spaces, deliberate intimidation, stalking,
+following, harassing photography or recording, sustained disruption of talks or other events, inappropriate
+physical contact and unwelcome sexual attention.
+Similar restrictions apply not only to the participants, but every single person involved with or present at a stage
+of the Intel Extreme Masters. Anyone breaking this code of conduct may be punished, including expulsion and
+possibly criminal prosecution.
+
+5.2 First-time and repeat offences
+All punishments listed below are meant for first-time offences. Repeat offenders (both the specific player and - in
+team competitions - his team) will be punished proportionally harder.
+
+5.3 Cheating
+5.3.1           Cheat Software
+The use of the following programs is considered cheating: Multihacks, Wallhack, Aimbot, Coloured Models,
+No-Recoil, No-Flash and Sound changes.
+These are only examples, other programs or methods may be considered cheats as well.
+
+5.3.2           Information Abuse
+Communication during the match with people not involved in the match is strictly forbidden, the same is true for
+using information about your game from other external sources (e.g. streams).
+
+5.3.3           Punishments for Cheating
+When cheating is uncovered in the Intel Extreme Masters, the result(s) of the match(es) in question will be
+voided. The player will be disqualified, forfeit his prize money, receive twelve (12) (ESL-) penalty points and be
+banned from all competitions in ESL for a duration of normally 5 years. This duration can be lower, if significant
+mitigating factors are in play, but also higher, if there are aggravating circumstances.
+In team competitions, the team will be disqualified from the Intel Extreme Masters event where the cheating
+occurred.
+
+5.3.4           Methods to Detect Cheating
+ESL reserves the right to use different methods to inspect participants and their equipment, with or without prior
+information. One of these is the use of metal detectors on participants entering the stage. Participants are not
+allowed to refuse these inspections.
+
+5.4 Doping
+5.4.1           Refusing to be tested
+Refusing to be tested is considered doping. Punishments will be the same as for severe cases of substance
+abuse.
+
+5.4.2           List of Prohibited Substances and Methods
+The List of Prohibited Substances and Methods created by the Esports Integrity Commission (ESIC) is valid for
+the Intel Extreme Masters tournaments. The Iist can be found here:
+https://esic.gg/codes/esic-prohibited-list/
+Any unsanctioned use of these substances is considered doping.
+
+<!-- página 24 -->
+5.4.3            Prescribed medication
+If players have an active prescription for a substance on the WADA list, they have to send proof to the
+tournament administration before the first day of the tournament (deadline in local time). They may still be subject
+to a doping test, but a positive result for the prescribed substance will be disregarded.
+
+5.4.4            Punishments for Doping
+Mild cases of doping will be punished with a warning and possibly minor penalty points for the participant.
+Severe cases (i.e. use of drugs containing performance enhancing substances, like Adderall) will be punished
+with nullification of the results achieved under the influence of the substance, a ban of one to two (1-2) years,
+forfeiture of the prize money won, as well as disqualification of the participant.
+If a player is found guilty of a severe case of doping only after the last match of the tournament has already been
+over for at least 24 hours, the player will still get a ban, but the tournament result will remain in place and there
+are no consequences for the team. Mild cases will not be punished at all, after that time.
+
+5.5 Using Alcohol or Other Psychoactive Drugs
+To play a match, be it online or offline, under the influence of alcohol or other psychoactive drugs, even if not
+among the punishable substances linked under 5.4.2, is strictly prohibited, and may lead to severe punishment.
+Moderate consumption of alcohol outside the active tournament hours for a participant is permitted if not in
+conflict with local/national law.
+
+5.6 Betting
+No players, team managers, staff or management of attending organizations may be involved in betting or
+gambling, associate with betters or gamblers, or provide anyone any information that may assist betting or
+gambling, either directly or indirectly, for any of the ESL matches or the tournament in general. Any betting or
+gambling against your own organizations' matches will lead to an immediate disqualification of the organization
+and a minimal ban of 1 year from all ESL competitions for all persons involved. Any other violation will be
+penalized at the sole discretion of the tournament direction.
+
+5.7 Competition Manipulation
+Offering money/benefits, making threats or exerting pressure towards anyone involved with Intel Extreme
+Masters with the goal of influencing a result of a match is considered competition manipulation. The most
+common example is offering your opponent money to let you win.
+
+5.7.1            Punishments for Competition Manipulation
+When attempted competition manipulation is uncovered in the Intel Extreme Masters, the result(s) of the
+match(es) in question will be voided. The player will be disqualified, forfeit his prize money and be banned from
+all competitions in ESL for a duration of between one and two (1-2) years. A monetary fine is possible.
+In team competitions, the team will be disqualified from the Intel Extreme Masters event where the attempt
+occurred.
+
+5.8 Match Fixing
+Using any means to manipulate the outcome of a match for purposes that are not sportive success in the
+tournament in question is considered match fixing. The most common example is intentionally losing a match to
+manipulate a bet on the match.
+
+5.8.1            Punishments for Match Fixing
+When match fixing is uncovered in the Intel Extreme Masters, the result(s) of the match(es) in question will be
+voided. The player will be disqualified, forfeit his prize money and be banned from all competitions in ESL for a
+duration of normally 5 years. This duration can be lower, if significant mitigating factors are in play, but also
+higher, if there are aggravating circumstances. A monetary fine is possible.
+
+5.9 Limitations for issuing punishments
+Punishments can be issued for a limited amount of time after the incident that is being punished. In case of
+cheating and match-fixing, this duration is set to 10 years. For infractions like ringing, faking, lying about legally
+relevant personal information (name, age, nationality, residency, …), the duration is set to 5 years. Smaller
+infractions may expire earlier.
+
+5.10 Publisher or ESIC Bans
+ESL reserves the right to refuse players who have standing bans from the game publisher to take part in Intel
+
+<!-- página 25 -->
+Extreme Masters tournaments.
+Also, ESIC bans will be honoured and translated into ESL bans.
+CSGO VAC bans are specifically honoured, but only until 2 years after they have been issued.
+
+5.11 Breach of Netiquette
+For an orderly and pleasant game, it is essential that all players have a sportive and fair attitude. Breaches of this
+rule will be punished with one (1) to six (6) minor penalty points. The most important and most common offenses
+are listed below. However, the administration may assign penalties for not explicitly listed types of breach of
+netiquette (e.g. harassment).
+
+5.11.1           Public Behaviour
+All participants shall abstain, at all times, from poor, undesirable, or negative behaviour towards anybody involved
+with the tournament in any way.
+All participants shall abstain, at all times, from any action or inaction that brings anybody involved with the
+tournament in any way into public disrepute, contempt, scandal or ridicule or reduces the public
+relations or commercial value of any involved party. This includes derogatory comments aimed at ESL, its
+partners or products in interviews, statements and/or social media channels.
+
+5.11.2           Insults
+All insults occurring in connection with the Intel Extreme Masters will be punished. This primarily applies to insults
+during a match but also on the ESL website (forums, match comments, player guestbooks, support and protest
+tickets, etc.). Insults on IRC, IM programs, E-mail or other means of communication will be punished if they can
+be linked to the Intel Extreme Masters and the evidence is clear.
+Particularly severe abuse cases with radical statements or the threat of physical violence can result in
+significantly heavier penalties including the exclusion or to the disqualification of the player.
+Depending on the nature and severity of the insult the penalty will be assigned to the player or to the team in
+team leagues. In team competitions players may also be barred from playing for one or more match weeks.
+
+5.11.3           Spamming
+The excessive posting of senseless, harassing or offensive messages is regarded as spamming in the Intel
+Extreme Masters.
+Spamming on the website (forums, match comments, player guestbooks, support and protest tickets, etc.) will be
+punished depending on the nature and severity of the offense.
+
+5.11.4           Spamming In-game
+Three (3) minor penalty points will be awarded if the chat function in-game is abused towards the goal of
+annoying the opponent, or generally stir the flow of the play. The all chat functions are there to communicate
+efficiently with the opponent and the match admins.
+
+5.11.5           Damaging or Soiling
+Participants taking action that could or does result in damage or soiling of rooms, furniture, equipment or similar
+items will be fined. The fine will be based on the cost to restore the original state, handling efforts to fix the issue
+and damaged reputation with third parties or the public.
+
+5.12 Unsportsmanlike Behaviour
+For an orderly and pleasant game, it is essential that all players have sportsmanlike behaviour. The most
+important and most common offences are listed below. However, the administration may assign penalties for not
+explicitly listed types of unsportsmanlike behaviour.
+
+5.12.1           Faking Match results
+If a team is caught entering false match results into the match page, or in other ways trying to falsify the match
+result, the team will be awarded up to four (4) minor penalty points.
+
+5.12.2           Faking Match media
+Match media are all uploads, including but not limited to: Screenshots, ESL Wire Anti-Cheat files, demos, models,
+and so on.
+Faking match media may result in one (1) to four (4) minor penalty points.
+
+5.12.2.1         Cheat Suspicion
+When cheating is suspected, and the match media in question has been faked, then six (6) minor penalty points
+will be awarded.
+
+<!-- página 26 -->
+5.12.3          Ringer/Faker
+Any players involved in faking or ringing a player will be barred for 2 matches, also, one (1) major penalty point
+will be awarded per incident.
+This rule often happens in connection with rule 5.12.4, in that case the punishments are cumulated.
+
+5.12.4          Playing with Disallowed Player
+Using a disallowed player results in one (1) major penalty point, and also the player will be barred for 2 matches
+before he is eligible to compete. Also, the opponent will be offered a rematch. If the administration decides there
+is not enough time for a rematch (this will always be the case in matches in continuous order, like all except the
+last round of a cup, but can happen in other cases as well), a default win will be given to the opponent.
+
+5.12.5          Misleading admins or players
+Any attempts to deceive opposing players, admins, or anyone else related to the Intel Extreme Masters may be
+penalized with one (1) to four (4) minor penalty points.
+
+<!-- página 27 -->
+6 Game Specific Rules Counter-Strike: Global Offensive
+
+6.1 Game version
+The tournament will use the latest available version of the game client. If the latest available version is considered
+unplayable due to bugs or extreme balance changes within close proximity by the tournament administration, an
+older version might be used if it's available for rollback. Any update during the event will result in a rollback to the
+original version (if possible).
+
+6.2 Anti-Cheat
+The ESEA Client is mandatory for all players to use for the full duration of all matches played online and offline. If
+a player cannot use ESEA Client, then they are not allowed to take part in a match. Players are responsible for
+having their login credentials available to them at the time of the competition and for having their 2-factor
+authentication setup correctly.
+
+6.3 Map selection procedures
+6.3.1            Map pool
+Tournament will be played on the current competitive map pool (Valve Active Duty Map Group) which consists of
+the following maps:
+    ● Dust2 (de_dust2)
+    ● Inferno (de_inferno)
+    ● Mirage (de_mirage)
+    ● Nuke (de_nuke)
+    ● Overpass (de_overpass)
+    ● Train (de_train)
+    ● Vertigo (de_vertigo)
+
+6.3.2            Online Open Qualifiers
+For Bo1 matches, the map selection process will take place on the CSGO server provided by ESL. In order to
+remove a map, teams have to type “.ban map” in game chat (e.g. “.ban de_cbble”), The server will automatically
+change the map as soon as the last map gets removed. For Bo3 matches, the map selection process will be
+completed with the assistance of the tournament referee on the Discord server provided by ESL.
+
+6.3.3            Online Closed Qualifiers
+Teams will start the map selection process 30 minutes before the scheduled match start. The map selection
+process will be completed with the assistance of the tournament referee on the Discord server provided by ESL.
+
+6.3.4            Offline Stage
+Only two selected people from each team can participate in the map selection process. During the map selection
+process, the first statement coming from the team towards the tournament referee will count as ban or pick and it
+cannot be reverted. Each team has a total of 150 seconds to make all of their picks and bans, which can be split
+up on the single steps as teams prefer. When the time expires, the remaining picks and/or bans will be
+randomised by the tournament referee.
+
+For Bo1 matches, the map selection process has to be done 20 minutes before the scheduled match start. For
+Bo3 matches, the map selection process has to be done 30 minutes before the scheduled match start. If there is
+a match being played immediately before the match in question, the latest time at which the map selection
+process has to be started is during the halftime of the potentially final map of the previous match. The time at
+which the map selection process is being done does not warrant the exact start time of the match.
+Map selection process can be done (potentially significantly) earlier if ordered so by the tournament
+administration.
+
+The map vetoes must not be made public before ESL has done so.
+
+6.3.5            Best-of-One (Bo1) Matches
+The better seeded team decides if they are either Team A or Team B. Team A starts the process and the order of
+the ban / pick is as follows:
+    1. Team A removes one map.
+    2. Team B removes two maps.
+    3. Team A removes two maps.
+    4. Team B removes one map.
+    5. The remaining map will be played.
+
+<!-- página 28 -->
+The sides on the map are determined by a knife round.
+
+6.3.6            Best-of-Three (Bo3) Matches
+The better seeded team decides if they are either Team A or Team B. Team A starts the process and the order of
+the ban / pick is as follows:
+    1. Team A removes one map.
+    2. Team B removes one map.
+    3. Team A picks one map.
+    4. Team B picks one map.
+    5. Team A removes one map.
+    6. Team B removes one map.
+    7. The remaining map is played as a decider, if required.
+Every team decides sides on the map choice of their opponent. The sides on the last map are determined by a
+knife round.
+
+6.3.7            Best-of-Five (Bo5) Matches
+The better seeded team decides if they are either Team A or Team B. Team A starts the process and the order of
+the ban / pick is as follows:
+    1. Team A removes one map.
+    2. Team B removes one map.
+    3. Team A picks one map.
+    4. Team B picks one map.
+    5. Team A picks one map.
+    6. Team B picks one map.
+    7. The remaining map is played as a decider, if required.
+Every team decides sides on the map choice of their opponent. The sides on the last map are determined by a
+knife round.
+
+6.4 Match settings
+The following match settings need to be used during the ESL CSGO competition:
+   ● Rounds: Best out of 30 (mp_maxrounds 30)
+   ● Round time: 1 minute 55 seconds (mp_roundtime 1.92)
+   ● Start money: $800 (mp_startmoney 800)
+   ● Freeze time: 20 seconds (mp_freezetime 20)
+   ● Buy time: 20 seconds (mp_buytime 20)
+   ● Bomb timer: 40 seconds (mp_c4timer 40)
+   ● Overtime rounds: Best out of 6 (mp_overtime_maxrounds 6)
+   ● Overtime start money: $10,000 (mp_overtime_startmoney 10000)
+   ● Round restart delay: 5 seconds (mp_round_restart_delay 5)
+   ● Break during half time: 2 minutes 30 seconds (mp_halftime_duration 150)
+   ● Break during half time in overtimes: disabled.
+
+6.4.1            Overtimes
+In case of a draw after all 30 rounds have been played, an overtime will be played in best out of 6 mode
+(mp_maxrounds 6) and with $10,000 start money (mp_startmoney 10000). For the start of the overtime teams will
+stay on the side which they played the previous half on, during half-time sides will be swapped. Teams will
+continue to play overtimes until a winner has been found.
+
+6.5 Match server
+Matches are played on the servers provided by ESL. Teams are required to check all the necessary game
+aspects (including skins, bugs on load etc.) and network components (latency and server variance) before
+starting the match. Failure to do so, and to let the match start, will mean that both teams have accepted the state
+the map is in, and the match might be continued under these conditions.
+
+6.6 In-Game chat
+It is not allowed to write about things that are not directly related to the match in the in-game chat. This is
+including but not limited to discussion of the technical issues and any sort of advertisement.
+
+6.7 Coaching
+6.7.1            Online Competition
+Teams are allowed to have one coach connected to the game server. After joining the server, the coaches need
+
+<!-- página 29 -->
+to type in the game console “coach t” or “coach ct” to move to the coaching position.
+
+6.7.2           Offline Competition
+Teams are allowed to have one coach behind the team during the official matches. During the match, the coach
+will be connected to the voice communication system and will only be allowed to talk to the players during the
+tactical pauses and half times. Coach is not allowed to communicate in any other way (e.g. shouting) with players
+outside of the specified time windows.
+Any coach found to be in breach of the communications restrictions outlined in this section will usually just
+receive one (1) warning from the referees. This warning stays in place for the duration of the event. If the violation
+is repeated, the coach will be ousted from the game. The coach forfeits his or her right to coach for the remainder
+of the match.
+Teams may be given a preemptive warning in case they have been known to abuse the warnings. In case of a
+preemptive warning, the first incident will be punished immediately.
+Warnings are logged by the tournament administrators and may be reviewed for sanctioning purposes.
+If the first incident has clearly and relevantly impacted the game, the consequences for the coach and/or the team
+will be accordingly more severe.
+
+6.8 Usage of pause function
+The pause function can be used at any time, but it will only come into effect during freeze time (immediately if
+used during freeze time, else at the beginning of the next freeze time).
+
+6.8.1           Online Qualifiers
+Teams are limited to two pauses (whether technical or tactical) per each half and one pause per each overtime. A
+pause can last no longer than five minutes. To call a pause, teams have to type “.pause” on the server and then
+announce the reason for a pause immediately after they paused the match.
+
+6.8.2           Offline Stage
+
+6.8.2.1         Technical Pause
+If a player has a problem that prevents him from playing on, he is allowed to use the pause function. The
+technical pause function can be called by typing “.tech” or “.technical”. The player has to announce the reason
+before or immediately after he paused the match. During a technical pause, headsets have to stay on. Unless the
+referee instructs the match participant otherwise any form of communication including but not limited to text and
+voice communication between players and coaches is forbidden during a technical pause.
+
+6.8.2.2         Timeout
+Each team is allowed to invoke a timeout (tactical pause) of 30 seconds up to four times per map. Timeouts can
+be called via the in-game vote system (ESC → Call Vote → Call Tactical Timeout). Teams are allowed to take all
+four timeouts at once by calling them all individually once the previous timeout expires. Teams will not be given
+additional timeouts in the overtimes, but the unused timeouts can still be used in overtime.
+
+6.8.3           Admin Pause
+The admin can pause the game from his station or from a player station, when it is required. If for some reason
+the player pausing does not work, they have to request the admin to do it.
+
+6.9 Player Settings
+6.9.1           Configuration Files
+All configuration changes are allowed as long as they do not give an unfair edge or advantage comparable to
+cheating. A player may be penalized for wrong settings in any config file, regardless if it is in use, or even stored
+in the game folder in question. The following commands are forbidden:
+     ● cl_showpos 1 – the value needs to be set to 0.
+Teams are required to contact the tournament administration if they are unsure on the validity of a command and
+its value. A team may be penalized for having forbidden commands in their configuration file, regardless if it was
+in use.
+
+6.9.2           Scripts
+All scripts are illegal except for buy, toggle, demo and jumpthrow scripts. A team may be penalized for having
+forbidden scripts in their configuration file, regardless if it was in use.
+
+6.9.3           Graphics drivers
+Any modification or changing of the game using external graphics solutions or other 3rd party programs are
+
+<!-- página 30 -->
+strictly prohibited and may be punished under the cheating paragraph.
+
+6.9.4           Overlays
+All kinds of overlays which will show the usage rate of the system in any way in-game (e.g. Nvidia SLI display,
+Rivatuner Overlay) is forbidden. Overlays which will show only the frames per second (FPS) are not forbidden
+and can be used.
+
+6.9.5           Custom Data
+Players are not allowed to use any form of custom game files during the official matches. Only CSGO skins are
+allowed to be changed. Any other changes, including but not limited to modification of sprites, HUDs and
+scoreboards are strictly disallowed.
+
+6.9.6           Device Drivers
+Using device drivers to pre-install / pre-script illegal macros on the player's devices (keyboard, mice, sound
+cards) is forbidden and may be punished under the cheating paragraph. Tournament officials reserve the right to
+request any piece of gear used by the players for inspection.
+
+6.9.7           In-Game nickname
+Players are only allowed to use their own official nicknames - without any additions - during ESL matches. Every
+player that has officially registered his nickname with Valve for sponsored events is required to use the same
+nickname for all ESL matches.
+
+6.9.8           In-Game item’s nametag
+Players are not allowed to use nametags on in-game items which violate the code of conduct.
+
+6.10 Match Procedures
+6.10.1          Match Breaks
+Teams will have at least 10 minutes of a break between matches and 8 minutes between maps in best-of-three
+and best-of-five matches. In best-of-five matches, teams will also get an extended break (at least 15 minutes)
+between map 3 and 4. The exact times will be communicated by the tournament administration. There are no
+breaks at half times.
+
+6.10.2          Number of Players
+All matches have to be started with five players per team (5vs5), other constellations are not allowed. If a team
+fails to show up with enough players, the match will count as no-show.
+If a player drops during an ongoing match, the ongoing round will be finished. After that, the game should be
+paused until the player can return or be replaced by a substitute as described in 6.10.3. If the original player is
+unable to return and no replacement can be brought in, the team has the choice to forfeit the series or to continue
+it with four players.
+If a team would have to play on with less than four players, the opposing team will receive a default win.
+
+6.10.3          Change of Players
+Only players that are part of the team can be substituted in. The opposing team and tournament administration
+have to be informed beforehand.
+
+6.10.3.1        Changes in online competition
+During online competition, line-up changes can be made at any point of the match if there is a proper reason (i.e.
+connection problems). If necessary, the game can be paused for the change. The delay caused must not exceed
+5 minutes and excessive changes/abuse of this rule are forbidden.
+
+6.10.3.2        Changes in offline competition
+During offline competition, line-up changes are only allowed in between maps. The player will not receive
+additional time to set up compared to the time it would have taken with the original player.
+
+6.10.4          Match Interruptions
+If a match is interrupted for reasons beyond the control of the participants (e.g. server or player crash), the
+tournament administration will restore the round using the CSGO's backup & restore feature, but in some
+scenarios may decide to replay the round or even a whole match.
+     ● If the issue takes place during the first minute of the round, before any damage has occurred and the
+         opponent or referee has been immediately notified, the round will be restored.
+     ● If the issue takes place during a round and after the damage has been made and the outcome of the
+         round can still be determined (e.g. a single player has dropped but others remain), then the round will not
+
+<!-- página 31 -->
+         be replayed or restored. The round will continue to be played and will count. Special exceptions can be
+         made if the damage dealt was ruled insignificant e.g. accidental teammate damage dealt at the start of
+         the round or damage dealt to the opposing side by the team that was affected by the crash.
+    ● If the issue takes place during the round, after damage has occurred and the outcome of the round
+         cannot be determined (e.g. due to server crash), the match will be restored to the beginning of the round.
+    ● If the issue takes place during the round, after damage has occurred and the outcome of the round is
+         obvious (e.g. one team is saving with 10 seconds remaining), but it cannot be continued due to for
+         example a server crash, then the round can be awarded.
+The matches will not be stopped and/or rounds will not be restored or replayed in cases where it is clearly a
+participant's fault (e.g. mis-buying a weapon).
+
+6.10.5           Use of Bugs and Glitches
+The intentional use of any bugs, glitches, or errors in the game is forbidden. It is up to the admin’s discretion
+whether or not the use of said bugs had an effect on the match, and whether or not he will award rounds, or the
+match to the opposing team, or to force a rematch. The usage of the following bugs is strictly forbidden, if any
+bug is used which is not listed here it is up to the admin’s discretion whether or not a punishment is necessary.
+      ● Moving through clipped areas where the movement is not intended by the design of the map is strictly
+          forbidden (any walls, ceilings, floors etc).
+      ● The bomb may not be planted in a location where it cannot be defused. Planting the bomb in such a way
+          that no one can hear the beeping sound, or the planting sound is also forbidden.
+      ● Standing on top of teammates is generally allowed, it is only forbidden, when such actions allow the
+          player to peek over, under and/or through a solid object (e.g. wall, box, ceiling) that should not be allowed
+          according to map design.
+      ● Pixel walking is forbidden. A player will be considered to be pixel walking if they sit or stand on invisible
+          pixels on the map, where there is no visible edge.
+It is recommended to check with tournament administration whether or not a certain bug or glitch is considered
+illegal.
+
+The following bugs are explicitly allowed:
+   ● Defusing the bomb through walls and items etc.
+   ● So called “surfing” on tubes
+The tournament directors reserve the right, also retroactively, to add more bugs to the list of explicitly allowed
+bugs.
+
+6.10.5.1         New Positions
+If any player or team wants to use a new position which is not commonly known, it’s strongly recommended to
+contact tournament officials to check if that position is allowed before using it in any official match. Players and
+teams have to consider that it takes time to check new positions and therefore they have to contact tournament
+officials in a reasonable time frame before an official match.
+
+6.10.6           Joining the wrong team
+Joining the wrong team on the server is forbidden and may be penalized with one (1) minor penalty point.
+
+<!-- página 32 -->
+7 Appendix
+
+7.1 List of countries/territories and their assigned Intel Extreme Masters regions
+If your country is not listed below or you are uncertain about which country is yours, see 2.7.3 or ask an admin.
+
+Ascension Island                                           Europe & Africa
+Andorra                                                    Europe & Africa
+United Arab Emirates                                       Asia & Australia
+Afghanistan                                                Asia & Australia
+Antigua and Barbuda                                        Americas
+Anguilla                                                   Americas
+Albania                                                    Europe & Africa
+Armenia                                                    Europe & Africa
+Netherlands Antilles                                       Americas
+Angola                                                     Europe & Africa
+Antarctica                                                 Americas
+Argentina                                                  Americas
+American Samoa                                             Asia & Australia
+Austria                                                    Europe & Africa
+Australia                                                  Asia & Australia
+Aruba                                                      Americas
+Åland                                                      Europe & Africa
+Azerbaijan                                                 Europe & Africa
+Bosnia and Herzegovina                                     Europe & Africa
+Barbados                                                   Americas
+Bangladesh                                                 Asia & Australia
+Belgium                                                    Europe & Africa
+Burkina Faso                                               Europe & Africa
+Bulgaria                                                   Europe & Africa
+Bahrain                                                    Asia & Australia
+Burundi                                                    Europe & Africa
+Benin                                                      Europe & Africa
+Bermuda                                                    Americas
+Brunei                                                     Asia & Australia
+Bolivia                                                    Americas
+Brazil                                                     Americas
+Bahamas                                                    Americas
+Bhutan                                                     Asia & Australia
+Bouvet Island                                              Americas
+Botswana                                                   Europe & Africa
+Belarus                                                    Europe & Africa
+Belize                                                     Americas
+
+<!-- página 33 -->
+Canada                             Americas
+Cocos (Keeling) Islands            Asia & Australia
+Democratic Republic of the Congo   Europe & Africa
+Central African Republic           Europe & Africa
+Republic of the Congo              Europe & Africa
+Switzerland                        Europe & Africa
+Côte d'Ivoire                      Europe & Africa
+Cook Islands                       Asia & Australia
+Chile                              Americas
+Cameroon                           Europe & Africa
+People's Republic of China         Asia & Australia
+Colombia                           Americas
+Costa Rica                         Americas
+Cuba                               Americas
+Cape Verde                         Europe & Africa
+Christmas Island                   Asia & Australia
+Cyprus                             Europe & Africa
+Czech Republic                     Europe & Africa
+Germany                            Europe & Africa
+Djibouti                           Europe & Africa
+Denmark                            Europe & Africa
+Dominica                           Americas
+Dominican Republic                 Americas
+Algeria                            Europe & Africa
+Ecuador                            Americas
+Estonia                            Europe & Africa
+Egypt                              Europe & Africa
+Western Sahara                     Europe & Africa
+Eritrea                            Europe & Africa
+Spain                              Europe & Africa
+Ethiopia                           Europe & Africa
+European Union                     Europe & Africa
+Finland                            Europe & Africa
+Fiji                               Asia & Australia
+Falkland Islands                   Americas
+Federated States of Micronesia     Asia & Australia
+Faroe Islands                      Europe & Africa
+France                             Europe & Africa
+Gabon                              Europe & Africa
+United Kingdom                     Europe & Africa
+Grenada                            Americas
+
+<!-- página 34 -->
+Georgia                                        Europe & Africa
+French Guiana                                  Europe & Africa
+Guernsey                                       Europe & Africa
+Ghana                                          Europe & Africa
+Gibraltar                                      Europe & Africa
+Greenland                                      Europe & Africa
+The Gambia                                     Europe & Africa
+Guinea                                         Europe & Africa
+Guadeloupe                                     Americas
+Equatorial Guinea                              Europe & Africa
+Greece                                         Europe & Africa
+South Georgia and the South Sandwich Islands   Americas
+Guatemala                                      Americas
+Guam                                           Asia & Australia
+Guinea-Bissau                                  Europe & Africa
+Guyana                                         Americas
+Hong Kong                                      Asia & Australia
+Heard Island and McDonald Islands              Americas
+Honduras                                       Americas
+Croatia                                        Europe & Africa
+Haiti                                          Americas
+Hungary                                        Europe & Africa
+Indonesia                                      Asia & Australia
+Republic of Ireland / NorthernIreland          Europe & Africa
+Israel                                         Europe & Africa
+Isle of Man                                    Europe & Africa
+India                                          Asia & Australia
+British Indian Ocean Territory                 Asia & Australia
+Iraq                                           Asia & Australia
+Iran                                           Asia & Australia
+Iceland                                        Europe & Africa
+Italy                                          Europe & Africa
+Jersey                                         Europe & Africa
+Jamaica                                        Americas
+Jordan                                         Asia & Australia
+Japan                                          Asia & Australia
+Kenya                                          Europe & Africa
+Kyrgyzstan                                     Asia & Australia
+Cambodia                                       Asia & Australia
+Kiribati                                       Asia & Australia
+Comoros                                        Europe & Africa
+
+<!-- página 35 -->
+Saint Kitts and Nevis                   Americas
+Democratic People's Republic of Korea   Asia & Australia
+Republic of Korea                       Asia & Australia
+Kuwait                                  Asia & Australia
+Cayman Islands                          Americas
+Kazakhstan                              Europe & Africa
+Laos                                    Asia & Australia
+Lebanon                                 Asia & Australia
+Saint Lucia                             Americas
+Liechtenstein                           Europe & Africa
+Sri Lanka                               Asia & Australia
+Liberia                                 Europe & Africa
+Lesotho                                 Europe & Africa
+Lithuania                               Europe & Africa
+Luxembourg                              Europe & Africa
+Latvia                                  Europe & Africa
+Libya                                   Europe & Africa
+Morocco                                 Europe & Africa
+Monaco                                  Europe & Africa
+Moldova                                 Europe & Africa
+Montenegro                              Europe & Africa
+Madagascar                              Europe & Africa
+Marshall Islands                        Asia & Australia
+Macedonia                               Europe & Africa
+Mali                                    Europe & Africa
+Myanmar                                 Asia & Australia
+Mongolia                                Asia & Australia
+Macau                                   Asia & Australia
+Northern Mariana Islands                Asia & Australia
+Martinique                              Americas
+Mauritania                              Europe & Africa
+Montserrat                              Americas
+Malta                                   Europe & Africa
+Mauritius                               Europe & Africa
+Maldives                                Asia & Australia
+Malawi                                  Europe & Africa
+Mexico                                  Americas
+Malaysia                                Asia & Australia
+Mozambique                              Europe & Africa
+Namibia                                 Europe & Africa
+New Caledonia                           Asia & Australia
+
+<!-- página 36 -->
+Niger                          Europe & Africa
+Norfolk Island                 Asia & Australia
+Nigeria                        Europe & Africa
+Nicaragua                      Americas
+Netherlands                    Europe & Africa
+Norway                         Europe & Africa
+Nepal                          Asia & Australia
+Nauru                          Asia & Australia
+Niue                           Asia & Australia
+New Zealand                    Asia & Australia
+Oman                           Asia & Australia
+Panama                         Americas
+Peru                           Americas
+French Polynesia               Asia & Australia
+Papua New Guinea               Asia & Australia
+Philippines                    Asia & Australia
+Pakistan                       Asia & Australia
+Poland                         Europe & Africa
+Saint-Pierre and Miquelon      Americas
+Pitcairn Islands               Asia & Australia
+Puerto Rico                    Americas
+Palestinian territories        Asia & Australia
+Portugal                       Europe & Africa
+Palau                          Asia & Australia
+Paraguay                       Americas
+Qatar                          Asia & Australia
+Réunion                        Europe & Africa
+Romania                        Europe & Africa
+Serbia                         Europe & Africa
+Russia                         Europe & Africa
+Rwanda                         Europe & Africa
+Saudi Arabia                   Asia & Australia
+Solomon Islands                Asia & Australia
+Seychelles                     Europe & Africa
+Sudan                          Europe & Africa
+Sweden                         Europe & Africa
+Singapore                      Asia & Australia
+Saint Helena                   Europe & Africa
+Slovenia                       Europe & Africa
+Svalbard and JanMayenIslands   Europe & Africa
+Slovakia                       Europe & Africa
+
+<!-- página 37 -->
+Sierra Leone                          Europe & Africa
+San Marino                            Europe & Africa
+Senegal                               Europe & Africa
+Somalia                               Europe & Africa
+Suriname                              Europe & Africa
+South Sudan                           Europe & Africa
+São Tomé and Príncipe                 Europe & Africa
+El Salvador                           Americas
+Sint Maarten                          Americas
+Syria                                 Asia & Australia
+Swaziland                             Europe & Africa
+Turks and Caicos Islands              Americas
+Chad                                  Europe & Africa
+French Southern and Antarctic Lands   Americas
+Togo                                  Europe & Africa
+Thailand                              Asia & Australia
+Tajikistan                            Asia & Australia
+Tokelau                               Asia & Australia
+East Timor                            Asia & Australia
+Turkmenistan                          Asia & Australia
+Tunisia                               Europe & Africa
+Tonga                                 Asia & Australia
+East Timor                            Asia & Australia
+Turkey                                Europe & Africa
+Trinidad and Tobago                   Americas
+Tuvalu                                Asia & Australia
+Taiwan                                Asia & Australia
+Tanzania                              Europe & Africa
+Ukraine                               Europe & Africa
+Uganda                                Europe & Africa
+United Kingdom                        Europe & Africa
+United States of America              Americas
+Uruguay                               Americas
+Uzbekistan                            Asia & Australia
+Vatican City                          Europe & Africa
+Saint Vincent and the Grenadines      Americas
+Venezuela                             Americas
+British Virgin Islands                Americas
+United States Virgin Islands          Americas
+Vietnam                               Asia & Australia
+Vanuatu                               Asia & Australia
+
+<!-- página 38 -->
+Wallis and Futuna   Asia & Australia
+Samoa               Asia & Australia
+Yemen               Asia & Australia
+Mayotte             Europe & Africa
+South Africa        Europe & Africa
+Zambia              Europe & Africa
+Zimbabwe            Europe & Africa
+
+<!-- página 39 -->
+8 Copyright Notice
+
+All content appearing in this document is the property of ESL Gaming GmbH or is being used with the owner's
+permission. Unauthorized distribution, duplication, alteration or other use of the material contained in this
+document, including without limitation any trademark image, drawing, text, likeness or photograph, may constitute
+a violation of the laws of copyright and trademark and may be prosecuted under criminal and/or civil law.
+
+No part of the content of this document may be reproduced in any form or by any means or stored in a database
+or retrieval system, except for personal use, without the written permissions of ESL Gaming GmbH.
+
+All content in this document is accurate to the best of our knowledge. ESL Gaming GmbH assumes no liability for
+any error or omission. We reserve the right to change content and files on our website (including but not limited to
+eslgaming.com, intelextrememasters.com, esl-one.com and all subdomains) at any time without prior notice or
+notification.
+
+## Links presentes no documento
+
+- https://www.intelextrememasters.com/
+- https://www.eslgaming.com/
+- https://esic.gg/
+- https://esic.gg/codes/esic-prohibited-list/

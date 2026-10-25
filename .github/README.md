@@ -11,6 +11,7 @@ sincronizados toda semana. Por cima deles, este fork acrescenta:
 | `dados/valve_excecoes.csv` | Base pronta das exceções concedidas pela Valve: uma linha por exceção, com ano, evento, organizador inferido, categoria, seção provável da regra, data e commit de inclusão e se ainda consta na versão atual. |
 | `dados/vrs_indice.csv` | Índice das classificações publicadas no [Valve Regional Standings](https://github.com/ValveSoftware/counter-strike_regional_standings) (convite e ao vivo, por região e data), com link de leitura. |
 | `catalogo/fontes.csv` | Curadoria dos demais documentos: organizadores (ESL Pro Tour, BLAST, PGL, StarLadder, EWC etc.), integridade (ESIC), eras anteriores (CS 1.6, Source, CS:GO), com **procedência** e **acesso**. |
+| `catalogo/excluidos.csv` | Documentos que entraram na busca por regulamentos de CS mas, na leitura, eram de outro jogo (VALORANT, Dota 2, FIFA), com o motivo da exclusão. |
 | `textos/<id>.md` | Texto integral extraído de cada documento, com marcas `<!-- página N -->`. |
 | `manifest.csv`, `secoes.csv` | Situação da coleta e índice de seções com página. |
 | `comparativo/temas.csv` | Livro de códigos (33 temas, en/pt/es/id) para comparar com os corpora da [Riot](https://github.com/vitoriaveig/riot-esports-regras) e do [Free Fire](https://github.com/vitoriaveig/freefire-esports-regras). |
@@ -36,6 +37,15 @@ Acompanha a skill `cs2-regras-torneios` (cópia em [`skill/SKILL.md`](../skill/S
 | Cópia fornecida pela pesquisadora | PDF sem link público; o texto é versionado, o PDF não. |
 
 Atenção: o rulebook da ESL Pro Tour fica num único arquivo do Google Drive que a ESL atualiza desde 2023 (mesmo link). As versões anteriores não estão disponíveis publicamente; o histórico passa a existir a partir das coletas semanais deste repositório (veja o `sha256` no `manifest.csv` e o histórico do Git).
+
+## Situação do corpus (25/10/2026)
+
+- 89 documentos catalogados: 88 com texto integral e 1 restrito (BLAST Premier 2024, só no Scribd).
+- Eras: CS:GO (57), CS2 (18), transição CS:GO/CS2 (7), CS 1.6 (6), CS:Source (1).
+- Regiões: eventos globais (53), Brasil (14) e ligas regionais (Benelux, DACH, Balcãs, Europa Central e Oriental, Rússia, França, Argentina, América do Norte e outras).
+- Idiomas: inglês (69), português (16), francês, espanhol, alemão e russo (1 cada).
+- 7 documentos da Liquipedia que não eram de Counter-Strike foram retirados (veja `catalogo/excluidos.csv`).
+- Os regulamentos da ESL Pro Tour (rulebook e regras específicas do jogo) e o da EWC 2026 apontam para a **mesma planilha** da ESL de posições permitidas e proibidas por mapa ("pixel walks"). Ela aparece três vezes em `dados/` (uma por documento, para manter a procedência), com o mesmo conteúdo.
 
 ## Atualização automática
 

@@ -1,0 +1,12 @@
+Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+Position,Allowed/disallowed,Example,Comment
+Roof,Disallowed,Example 1,Any attempts to exit the map/the playable area are forbidden.
+A site - CT Vent,Disallowed,"Example 1, Example 2",
+A site - T Vent (Squeeky Side),Disallowed,"Example 1, Example 2",
+A site - Hut Door,Disallowed,"Example 1, Example 2",
+A site - Above Squeeky,Disallowed,"Example 1, Example 2",
+Ramp - Headshot Box,Disallowed,"Example 1, Example 2",
+Outside - Secret Door,Disallowed,"Example 1, Example 2",
+Lobby - Ceiling,Disallowed,Example 1,
+A site - T Vent (Main Side),Disallowed,"Example 1, Example 2",
+A site - Above Squeeky #2,Disallowed,"Example 1, Example 2",

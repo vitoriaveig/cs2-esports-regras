@@ -1,0 +1,395 @@
+texto_id,secao,titulo_secao,pagina
+esl-pro-tour-game-specific-rules,1.1,Range of validity,5
+esl-pro-tour-game-specific-rules,1,The EFG CS2 Competition Terms and Conditions; then,5
+esl-pro-tour-game-specific-rules,2,The Ecosystem Agreement (where applicable); then,5
+esl-pro-tour-game-specific-rules,3,The TPA; then,5
+esl-pro-tour-game-specific-rules,4,The EPT Counter-Strike General Rules; then,5
+esl-pro-tour-game-specific-rules,5,This EPT Counter-Strike Game Specific Rules; then,5
+esl-pro-tour-game-specific-rules,6,The EPT Counter-Strike Roster Restrictions,5
+esl-pro-tour-game-specific-rules,1.2,Rule changes,6
+esl-pro-tour-game-specific-rules,1.3,Validity of the rules,6
+esl-pro-tour-game-specific-rules,1.4,Additional agreements,6
+esl-pro-tour-game-specific-rules,2.1,Game version,7
+esl-pro-tour-game-specific-rules,2.2,Anti-cheat,7
+esl-pro-tour-game-specific-rules,2.3,Map selection procedures,7
+esl-pro-tour-game-specific-rules,2.3.3,Offline tournaments,8
+esl-pro-tour-game-specific-rules,2.3.4,Best-of-one (Bo1) matches,8
+esl-pro-tour-game-specific-rules,1,Team A removes one map,8
+esl-pro-tour-game-specific-rules,2,Team B removes two maps,8
+esl-pro-tour-game-specific-rules,3,Team A removes two maps,8
+esl-pro-tour-game-specific-rules,4,Team B removes one map,8
+esl-pro-tour-game-specific-rules,5,The remaining map will be played,9
+esl-pro-tour-game-specific-rules,2.3.5,Best-of-three (Bo3) matches,9
+esl-pro-tour-game-specific-rules,1,Team A removes one map,9
+esl-pro-tour-game-specific-rules,2,Team B removes one map,9
+esl-pro-tour-game-specific-rules,3,Team A picks one map,9
+esl-pro-tour-game-specific-rules,4,Team B picks one map,9
+esl-pro-tour-game-specific-rules,5,Team A removes one map,9
+esl-pro-tour-game-specific-rules,6,Team B removes one map,9
+esl-pro-tour-game-specific-rules,7,"The remaining map is played as a decider, if required",9
+esl-pro-tour-game-specific-rules,2.3.6,Best-of-five (Bo5) matches,9
+esl-pro-tour-game-specific-rules,1,Team A removes one map,9
+esl-pro-tour-game-specific-rules,2,Team B removes one map,9
+esl-pro-tour-game-specific-rules,3,Team A picks one map,9
+esl-pro-tour-game-specific-rules,4,Team B picks one map,9
+esl-pro-tour-game-specific-rules,5,Team A picks one map,9
+esl-pro-tour-game-specific-rules,6,Team B picks one map,9
+esl-pro-tour-game-specific-rules,7,"The remaining map is played as a decider, if required",9
+esl-pro-tour-game-specific-rules,2.3.7,Best-of-five (Bo5) matches with advantage,9
+esl-pro-tour-game-specific-rules,1,Team A removes one map,9
+esl-pro-tour-game-specific-rules,2,Team B removes one map,9
+esl-pro-tour-game-specific-rules,3,Team A picks one map,9
+esl-pro-tour-game-specific-rules,4,Team B picks one map,9
+esl-pro-tour-game-specific-rules,5,Team A picks one map,9
+esl-pro-tour-game-specific-rules,6,Team B picks one map,9
+esl-pro-tour-game-specific-rules,7,The remaining map is won by default by the team with advantage,9
+esl-pro-tour-game-specific-rules,1,The map played in the first series is automatically banned,10
+esl-pro-tour-game-specific-rules,2,Team B removes two maps,10
+esl-pro-tour-game-specific-rules,3,Team A removes two maps,10
+esl-pro-tour-game-specific-rules,4,Team B removes one map,10
+esl-pro-tour-game-specific-rules,5,The remaining map will be played,10
+esl-pro-tour-game-specific-rules,2.4,Match settings,10
+esl-pro-tour-game-specific-rules,2.5,Match server,10
+esl-pro-tour-game-specific-rules,2.5.1,Match server location,11
+esl-pro-tour-game-specific-rules,2.6,In-game chat,11
+esl-pro-tour-game-specific-rules,2.7,Coaching,11
+esl-pro-tour-game-specific-rules,2.7.1,Online tournaments,11
+esl-pro-tour-game-specific-rules,2.7.2,Offline tournaments,12
+esl-pro-tour-game-specific-rules,2.7.3,Banned coaches,12
+esl-pro-tour-game-specific-rules,2.8,Usage of pause function,13
+esl-pro-tour-game-specific-rules,2.8.1,Online tournaments,13
+esl-pro-tour-game-specific-rules,2.8.2,Offline tournaments,13
+esl-pro-tour-game-specific-rules,2.8.3,Tournament administration pause,14
+esl-pro-tour-game-specific-rules,2.9,Player settings,14
+esl-pro-tour-game-specific-rules,2.9.1,Configuration files,14
+esl-pro-tour-game-specific-rules,2.9.2,Warmup maps,14
+esl-pro-tour-game-specific-rules,2.9.3,Scripts,14
+esl-pro-tour-game-specific-rules,2.9.4,Graphics drivers,14
+esl-pro-tour-game-specific-rules,2.9.5,Overlays,14
+esl-pro-tour-game-specific-rules,2.9.6,Custom data,14
+esl-pro-tour-game-specific-rules,2.10,Match procedures,15
+esl-pro-tour-game-specific-rules,2.10.1,Match breaks,15
+esl-pro-tour-game-specific-rules,2.10.2,Number of players,15
+esl-pro-tour-game-specific-rules,2.10.3,Match interruptions,15
+esl-pro-tour-game-specific-rules,2.10.4,Use of bugs and glitches,16
+esl-pro-tour-game-specific-rules,2.10.5,Reconnecting,17
+esl-pro-tour-game-specific-rules,2.10.6,Recording POV demos in online matches,17
+esl-pro-tour-game-specific-rules,2.10.7,Tiebreakers in Round Robin,17
+esl-pro-tour-game-specific-rules,2,Map difference between the tied participants (3:2 maps > 3:3 maps),17
+esl-pro-tour-game-specific-rules,3,Number of map wins between the tied participants (3:3 maps > 2:2 maps),17
+esl-pro-tour-game-specific-rules,4,Overall map difference,18
+esl-pro-tour-game-specific-rules,5,Overall number of map wins,18
+esl-pro-tour-game-specific-rules,6,Round score difference between the tied participants (23:21 > 23:22),18
+esl-pro-tour-game-specific-rules,7,Number of round wins between the tied participants (24:22 > 23:21),18
+esl-pro-tour-game-specific-rules,8,Overall round score difference (39:31 > 40:33),18
+esl-pro-tour-game-specific-rules,9,Overall number of round wins (40:32 > 39:31),18
+esl-pro-tour-roster-restrictions,1.1,Range of validity,4
+esl-pro-tour-roster-restrictions,1,The EFG CS2 Competition Terms and Conditions; then,4
+esl-pro-tour-roster-restrictions,2,The Ecosystem Agreement (where applicable); then,4
+esl-pro-tour-roster-restrictions,3,The TPA; then,4
+esl-pro-tour-roster-restrictions,4,The EPT Counter-Strike General Rules; then,4
+esl-pro-tour-roster-restrictions,5,The EPT Counter-Strike Game Specific Rules; then,4
+esl-pro-tour-roster-restrictions,6,This EPT Counter-Strike Roster Restrictions,4
+esl-pro-tour-roster-restrictions,1.2,Rule changes,5
+esl-pro-tour-roster-restrictions,1.3,Validity of the rules,5
+esl-pro-tour-roster-restrictions,1.4,Additional agreements,5
+esl-pro-tour-roster-restrictions,2.1,Lineup,6
+esl-pro-tour-roster-restrictions,2.2,Adding a new player,6
+esl-pro-tour-roster-restrictions,2.2.2,Emergency additions,7
+esl-pro-tour-roster-restrictions,2.3,Substitutions,8
+esl-pro-tour-roster-restrictions,2.4,Lineup restrictions during an event,8
+esl-pro-tour-roster-restrictions,2.5,Lineup restrictions during a match,9
+esl-pro-tour-rulebook,1.4.3,League bans and penalty points outside of the ESL Pro Tour Counter-Strike 11,3
+esl-pro-tour-rulebook,1.1,Range of validity,9
+esl-pro-tour-rulebook,1,Competition T+Cs; then,9
+esl-pro-tour-rulebook,2,The Ecosystem Agreement (where applicable); then,9
+esl-pro-tour-rulebook,3,The TPA; then,9
+esl-pro-tour-rulebook,4,This EPT Counter-Strike Rulebook,9
+esl-pro-tour-rulebook,1.2,Participants,9
+esl-pro-tour-rulebook,1.3,Region,10
+esl-pro-tour-rulebook,1.4,Punishments,10
+esl-pro-tour-rulebook,1.4.1,Definitions and scope of punishments,10
+esl-pro-tour-rulebook,1.4.2,Punishments for repeat offences,11
+esl-pro-tour-rulebook,1.4.3,League bans and penalty points outside of the ESL Pro,11
+esl-pro-tour-rulebook,1.5,Tournament organisation,11
+esl-pro-tour-rulebook,2.1,Rule changes,13
+esl-pro-tour-rulebook,2.2,Validity of the rules,13
+esl-pro-tour-rulebook,2.3,Confidentiality,13
+esl-pro-tour-rulebook,2.4,Additional agreements,13
+esl-pro-tour-rulebook,2.5,Match broadcasting,13
+esl-pro-tour-rulebook,2.5.3,Participant responsibility,14
+esl-pro-tour-rulebook,2.6,Communication,14
+esl-pro-tour-rulebook,2.7,Conditions of participation,14
+esl-pro-tour-rulebook,2.7.1,Age restriction,14
+esl-pro-tour-rulebook,2.7.2,Regional limitations for participants,14
+esl-pro-tour-rulebook,2.7.3,Home country/region,14
+esl-pro-tour-rulebook,2.7.4,Country/region of online competition,15
+esl-pro-tour-rulebook,2.7.5,Physical location during online matches,15
+esl-pro-tour-rulebook,2.8,Sponsor restrictions,16
+esl-pro-tour-rulebook,2.9,Player details,16
+esl-pro-tour-rulebook,2.10,Roster submissions,16
+esl-pro-tour-rulebook,2.10.2,Team names,17
+esl-pro-tour-rulebook,2.10.3,Team logos,17
+esl-pro-tour-rulebook,2.11,Event licences,18
+esl-pro-tour-rulebook,2.11.4,Changing the licence holder,20
+esl-pro-tour-rulebook,2.11.5,Withdrawal of licence,20
+esl-pro-tour-rulebook,2.12,Conflict of interest,20
+esl-pro-tour-rulebook,2.12.1,Conflict of interest for participants,20
+esl-pro-tour-rulebook,2.12.2,Conflict of interest for team staff,21
+esl-pro-tour-rulebook,2.13,Total winnings,21
+esl-pro-tour-rulebook,2.13.1,Prize money deductions due to penalty points,21
+esl-pro-tour-rulebook,2.13.2,Total winnings deductions due to fines,21
+esl-pro-tour-rulebook,2.13.3,Withdrawal of total winnings,21
+esl-pro-tour-rulebook,2.13.4,Transfer of total winnings,21
+esl-pro-tour-rulebook,2.14,Penalties and consequences of leaving the event,22
+esl-pro-tour-rulebook,2.14.1,Withdrawing from the event,22
+esl-pro-tour-rulebook,2.14.2,Deletion of matches,23
+esl-pro-tour-rulebook,2.15,Match start,23
+esl-pro-tour-rulebook,2.15.1,Punctuality in online matches,23
+esl-pro-tour-rulebook,2.15.2,Not being punctual for an online match,23
+esl-pro-tour-rulebook,2.15.3,Punctuality in offline matches,23
+esl-pro-tour-rulebook,2.15.4,Not being punctual for an offline match,24
+esl-pro-tour-rulebook,2.15.5,Repeated lateness,24
+esl-pro-tour-rulebook,2.15.6,Participants not showing,24
+esl-pro-tour-rulebook,2.16,Tournament Seeding,25
+esl-pro-tour-rulebook,2.16.1,Determining the “better seed”,25
+esl-pro-tour-rulebook,2.16.2,Seeding based on Valve Regional Standings,25
+esl-pro-tour-rulebook,2.16.3,Team Selected Seeding,25
+esl-pro-tour-rulebook,2.16.4,Live Ratings system,26
+esl-pro-tour-rulebook,2.17,Match protests,26
+esl-pro-tour-rulebook,2.17.1,Definition,26
+esl-pro-tour-rulebook,2.17.2,Match protest rules,26
+esl-pro-tour-rulebook,2.18,Video presentation,27
+esl-pro-tour-rulebook,2.19,Voice communication & recording,27
+esl-pro-tour-rulebook,2.20,Production camera obligations,27
+esl-pro-tour-rulebook,2.21,Integrity camera obligations,28
+esl-pro-tour-rulebook,2.22,Play area,28
+esl-pro-tour-rulebook,2.23,Valve Regional Standings invitation slot priority,28
+esl-pro-tour-rulebook,2.24,Roster retention,29
+esl-pro-tour-rulebook,2.25,Deadlines,29
+esl-pro-tour-rulebook,2.26,Valve’s Tournament Operating Requirements,29
+esl-pro-tour-rulebook,2.27,Valve Regional Standings invites,29
+esl-pro-tour-rulebook,2.28,ESL Challenger League Regional Final rules,30
+esl-pro-tour-rulebook,2.29,FACEIT Verified,30
+esl-pro-tour-rulebook,2.30,Internal team communications during a live match,30
+esl-pro-tour-rulebook,2.31,Absences from playing area,30
+esl-pro-tour-rulebook,3.1,Replacements,31
+esl-pro-tour-rulebook,3.2,Offline events replacement rules,31
+esl-pro-tour-rulebook,3.2.2,Events with multiple VRS invitation criteria,32
+esl-pro-tour-rulebook,3.2.3,Global Valve Regional Standings slots,32
+esl-pro-tour-rulebook,3.2.4,Sub-list Valve Regional Standings slots,32
+esl-pro-tour-rulebook,3.2.5,Qualifier slots,32
+esl-pro-tour-rulebook,3.3,Online events replacement rules,33
+esl-pro-tour-rulebook,3.3.4,ESL Challenger League qualifying slot,34
+esl-pro-tour-rulebook,3.3.5,ESL Challenger League registration slots,34
+esl-pro-tour-rulebook,4.1,Equipment,35
+esl-pro-tour-rulebook,4.1.1,SOCD features,35
+esl-pro-tour-rulebook,4.2,Configs and drivers,35
+esl-pro-tour-rulebook,4.3,Clothing,36
+esl-pro-tour-rulebook,4.4,Obeying instructions,36
+esl-pro-tour-rulebook,4.5,Player and tournament brief,36
+esl-pro-tour-rulebook,4.6,Technical checklist,36
+esl-pro-tour-rulebook,4.7,Arrival day,36
+esl-pro-tour-rulebook,4.8,Media obligations,37
+esl-pro-tour-rulebook,4.9,Stage matches,38
+esl-pro-tour-rulebook,4.10,Tournament areas,38
+esl-pro-tour-rulebook,4.10.1,"Food, drinks, smoking and behaviour",38
+esl-pro-tour-rulebook,4.10.2,Electronic devices,38
+esl-pro-tour-rulebook,4.10.3,Unnecessary items,38
+esl-pro-tour-rulebook,4.10.4,Internet access,39
+esl-pro-tour-rulebook,4.11,Setup period,39
+esl-pro-tour-rulebook,4.12,Photo and other media rights,39
+esl-pro-tour-rulebook,4.13,Winners ceremony,39
+esl-pro-tour-rulebook,4.14,ESL provided areas,39
+esl-pro-tour-rulebook,4.15,Event credentials,40
+esl-pro-tour-rulebook,4.16,Additional team personnel,40
+esl-pro-tour-rulebook,4.17,Offline match scheduling,40
+esl-pro-tour-rulebook,4.18,Seating order,40
+esl-pro-tour-rulebook,5.1,Code of conduct,42
+esl-pro-tour-rulebook,5.2,Cheating,43
+esl-pro-tour-rulebook,5.2.1,Cheat software,43
+esl-pro-tour-rulebook,5.2.2,Information abuse,43
+esl-pro-tour-rulebook,5.2.3,Punishments for cheating,43
+esl-pro-tour-rulebook,5.2.4,Methods to detect cheating,43
+esl-pro-tour-rulebook,5.3,Doping,43
+esl-pro-tour-rulebook,5.3.1,Refusing to be tested,43
+esl-pro-tour-rulebook,5.3.2,List of prohibited substances and methods,43
+esl-pro-tour-rulebook,5.3.3,Prescribed medication,43
+esl-pro-tour-rulebook,5.3.4,Punishments for doping,44
+esl-pro-tour-rulebook,5.4,Using alcohol or other psychoactive drugs,44
+esl-pro-tour-rulebook,5.5,Betting,44
+esl-pro-tour-rulebook,5.6,Competition manipulation,44
+esl-pro-tour-rulebook,5.6.1,Punishments for competition manipulation,44
+esl-pro-tour-rulebook,5.7,Match fixing,44
+esl-pro-tour-rulebook,5.8,Limitations for issuing punishments,45
+esl-pro-tour-rulebook,5.9,Publisher or ESIC bans,45
+esl-pro-tour-rulebook,5.10,Breach of netiquette,45
+esl-pro-tour-rulebook,5.10.1,Public behaviour,45
+esl-pro-tour-rulebook,5.10.2,Insults,45
+esl-pro-tour-rulebook,5.10.3,Spamming,46
+esl-pro-tour-rulebook,5.10.4,Damaging or soiling,46
+esl-pro-tour-rulebook,5.11,Unsportsmanlike behaviour,46
+esl-pro-tour-rulebook,5.11.1,Ringer/faker,46
+esl-pro-tour-rulebook,5.11.2,Playing with a disallowed player,46
+esl-pro-tour-rulebook,5.11.3,Misleading tournament administration or players,46
+esl-pro-tour-rulebook,6.1,Lineup,47
+esl-pro-tour-rulebook,6.2,Adding a new player,47
+esl-pro-tour-rulebook,6.2.2,Emergency additions,48
+esl-pro-tour-rulebook,6.3,Substitutions,49
+esl-pro-tour-rulebook,6.4,Lineup restrictions during an event,49
+esl-pro-tour-rulebook,6.5,Lineup restrictions during a match,50
+esl-pro-tour-rulebook,7.1,Game version,51
+esl-pro-tour-rulebook,7.2,Anti-cheat,51
+esl-pro-tour-rulebook,7.3,Map selection procedures,51
+esl-pro-tour-rulebook,7.3.3,Offline tournaments,52
+esl-pro-tour-rulebook,7.3.4,Best-of-one (Bo1) matches,52
+esl-pro-tour-rulebook,1,Team A removes one map,53
+esl-pro-tour-rulebook,2,Team B removes two maps,53
+esl-pro-tour-rulebook,3,Team A removes two maps,53
+esl-pro-tour-rulebook,4,Team B removes one map,53
+esl-pro-tour-rulebook,5,The remaining map will be played,53
+esl-pro-tour-rulebook,7.3.5,Best-of-three (Bo3) matches,53
+esl-pro-tour-rulebook,1,Team A removes one map,53
+esl-pro-tour-rulebook,2,Team B removes one map,53
+esl-pro-tour-rulebook,3,Team A picks one map,53
+esl-pro-tour-rulebook,4,Team B picks one map,53
+esl-pro-tour-rulebook,5,Team A removes one map,53
+esl-pro-tour-rulebook,6,Team B removes one map,53
+esl-pro-tour-rulebook,7,"The remaining map is played as a decider, if required",53
+esl-pro-tour-rulebook,7.3.6,Best-of-five (Bo5) matches,53
+esl-pro-tour-rulebook,1,Team A removes one map,53
+esl-pro-tour-rulebook,2,Team B removes one map,53
+esl-pro-tour-rulebook,3,Team A picks one map,53
+esl-pro-tour-rulebook,4,Team B picks one map,53
+esl-pro-tour-rulebook,5,Team A picks one map,53
+esl-pro-tour-rulebook,6,Team B picks one map,53
+esl-pro-tour-rulebook,7,"The remaining map is played as a decider, if required",53
+esl-pro-tour-rulebook,7.3.7,Best-of-five (Bo5) matches with advantage,53
+esl-pro-tour-rulebook,1,Team A removes one map,53
+esl-pro-tour-rulebook,2,Team B removes one map,53
+esl-pro-tour-rulebook,3,Team A picks one map,54
+esl-pro-tour-rulebook,4,Team B picks one map,54
+esl-pro-tour-rulebook,5,Team A picks one map,54
+esl-pro-tour-rulebook,6,Team B picks one map,54
+esl-pro-tour-rulebook,7,The remaining map is won by default by the team with advantage,54
+esl-pro-tour-rulebook,1,The map played in the first series is automatically banned,54
+esl-pro-tour-rulebook,2,Team B removes two maps,54
+esl-pro-tour-rulebook,3,Team A removes two maps,54
+esl-pro-tour-rulebook,4,Team B removes one map,54
+esl-pro-tour-rulebook,5,The remaining map will be played,54
+esl-pro-tour-rulebook,7.4,Match settings,54
+esl-pro-tour-rulebook,7.5,Match server,55
+esl-pro-tour-rulebook,7.5.1,Match server location,55
+esl-pro-tour-rulebook,7.6,In-game chat,55
+esl-pro-tour-rulebook,7.7,Coaching,55
+esl-pro-tour-rulebook,7.7.1,Online tournaments,55
+esl-pro-tour-rulebook,7.7.2,Offline tournaments,56
+esl-pro-tour-rulebook,7.7.3,Banned coaches,56
+esl-pro-tour-rulebook,7.8,Usage of pause function,57
+esl-pro-tour-rulebook,7.8.1,Online tournaments,57
+esl-pro-tour-rulebook,7.8.2,Offline tournaments,57
+esl-pro-tour-rulebook,7.9,Player settings,58
+esl-pro-tour-rulebook,7.10,Match procedures,59
+esl-pro-tour-rulebook,7.10.1,Match breaks,59
+esl-pro-tour-rulebook,7.10.2,Number of players,59
+esl-pro-tour-rulebook,7.10.3,Match interruptions,59
+esl-pro-tour-rulebook,7.10.4,Use of bugs and glitches,60
+esl-pro-tour-rulebook,7.10.5,Reconnecting,61
+esl-pro-tour-rulebook,7.10.6,Recording POV demos in online matches,61
+esl-pro-tour-rulebook,7.10.7,Tiebreakers in Round Robin,61
+esl-pro-tour-rulebook,2,Map difference between the tied participants (3:2 maps > 3:3 maps),62
+esl-pro-tour-rulebook,3,Number of map wins between the tied participants (3:3 maps > 2:2 maps),62
+esl-pro-tour-rulebook,4,Overall map difference,62
+esl-pro-tour-rulebook,5,Overall number of map wins,62
+esl-pro-tour-rulebook,6,Round score difference between the tied participants (23:21 > 23:22),62
+esl-pro-tour-rulebook,7,Number of round wins between the tied participants (24:22 > 23:21),62
+esl-pro-tour-rulebook,8,Overall round score difference (39:31 > 40:33),62
+esl-pro-tour-rulebook,9,Overall number of round wins (40:32 > 39:31),62
+esl-pro-tour-rulebook,8.1,List of countries/territories and their assigned ESL regions,64
+ewc-2026-cs2-rulebook,1.1,EWC Global Rulebook,6
+ewc-2026-cs2-rulebook,1.2,Participants,6
+ewc-2026-cs2-rulebook,1.3,Tournament administration,6
+ewc-2026-cs2-rulebook,2.1,Communication,7
+ewc-2026-cs2-rulebook,2.2,Conditions of participation,7
+ewc-2026-cs2-rulebook,2.3,Sponsor restrictions,8
+ewc-2026-cs2-rulebook,2.4,Player details,8
+ewc-2026-cs2-rulebook,2.5,Roster submissions,8
+ewc-2026-cs2-rulebook,2.5.2,Team names,9
+ewc-2026-cs2-rulebook,2.5.3,Changes to the team or roster,9
+ewc-2026-cs2-rulebook,2.6,Event licences,9
+ewc-2026-cs2-rulebook,2.6.1,Team licence,9
+ewc-2026-cs2-rulebook,2.7,Penalties and consequences of leaving the event,10
+ewc-2026-cs2-rulebook,2.8,Match start,11
+ewc-2026-cs2-rulebook,2.9,Tournament Seeding,12
+ewc-2026-cs2-rulebook,2.10,Video presentation,13
+ewc-2026-cs2-rulebook,2.11,Voice communication & recording,13
+ewc-2026-cs2-rulebook,2.12,Valve Regional Standings invitation slot priority,13
+ewc-2026-cs2-rulebook,2.13,EWC Counter-Strike wildcard slot transfer protocol,13
+ewc-2026-cs2-rulebook,2.14,Roster retention,14
+ewc-2026-cs2-rulebook,2.15,Valve’s Tournament Operating Requirements,14
+ewc-2026-cs2-rulebook,2.16,Valve Regional Standings invites,14
+ewc-2026-cs2-rulebook,2.17,Travel & Accommodation Coverage,14
+ewc-2026-cs2-rulebook,2.18,Internal team communications during a live match,15
+ewc-2026-cs2-rulebook,2.19,Absences from playing area,15
+ewc-2026-cs2-rulebook,3.1,Replacements,16
+ewc-2026-cs2-rulebook,3.2,Offline events replacement rules,16
+ewc-2026-cs2-rulebook,3.2.2,Events with multiple VRS invitation criteria,17
+ewc-2026-cs2-rulebook,3.2.3,Global Valve Regional Standings slots,17
+ewc-2026-cs2-rulebook,3.2.4,Sub-list Valve Regional Standings slots,17
+ewc-2026-cs2-rulebook,3.2.5,Qualifier slots,17
+ewc-2026-cs2-rulebook,3.2.6,Last minute replacements,18
+ewc-2026-cs2-rulebook,4.1,Equipment,19
+ewc-2026-cs2-rulebook,4.1.1,SOCD features,19
+ewc-2026-cs2-rulebook,4.2,Configs and drivers,19
+ewc-2026-cs2-rulebook,4.3,Player and tournament brief,20
+ewc-2026-cs2-rulebook,4.4,Technical checklist,20
+ewc-2026-cs2-rulebook,4.5,Arrival day,20
+ewc-2026-cs2-rulebook,4.6,Setup period,20
+ewc-2026-cs2-rulebook,4.7,Event credentials,21
+ewc-2026-cs2-rulebook,4.8,Publisher bans,21
+ewc-2026-cs2-rulebook,4.9,Additional team personnel,21
+ewc-2026-cs2-rulebook,4.10,Seating order,21
+ewc-2026-cs2-rulebook,5.1,Lineup,22
+ewc-2026-cs2-rulebook,5.2,Substitutions,22
+ewc-2026-cs2-rulebook,5.3,Lineup restrictions during an event,23
+ewc-2026-cs2-rulebook,5.4,Lineup restrictions during a match,23
+ewc-2026-cs2-rulebook,6.1,Game version,24
+ewc-2026-cs2-rulebook,6.2,Anti-cheat,24
+ewc-2026-cs2-rulebook,6.3,Map selection procedures,24
+ewc-2026-cs2-rulebook,6.3.3,Best-of-one (Bo1) matches,25
+ewc-2026-cs2-rulebook,1,Team A removes one map,25
+ewc-2026-cs2-rulebook,2,Team B removes two maps,25
+ewc-2026-cs2-rulebook,3,Team A removes two maps,25
+ewc-2026-cs2-rulebook,4,Team B removes one map,25
+ewc-2026-cs2-rulebook,5,The remaining map will be played,25
+ewc-2026-cs2-rulebook,6.3.4,Best-of-three (Bo3) matches,25
+ewc-2026-cs2-rulebook,1,Team A removes one map,25
+ewc-2026-cs2-rulebook,2,Team B removes one map,25
+ewc-2026-cs2-rulebook,3,Team A picks one map,25
+ewc-2026-cs2-rulebook,4,Team B picks one map,25
+ewc-2026-cs2-rulebook,5,Team A removes one map,25
+ewc-2026-cs2-rulebook,6,Team B removes one map,25
+ewc-2026-cs2-rulebook,7,"The remaining map is played as a decider, if required",25
+ewc-2026-cs2-rulebook,6.3.5,Best-of-five (Bo5) matches,25
+ewc-2026-cs2-rulebook,1,Team A removes one map,26
+ewc-2026-cs2-rulebook,2,Team B removes one map,26
+ewc-2026-cs2-rulebook,3,Team A picks one map,26
+ewc-2026-cs2-rulebook,4,Team B picks one map,26
+ewc-2026-cs2-rulebook,5,Team A picks one map,26
+ewc-2026-cs2-rulebook,6,Team B picks one map,26
+ewc-2026-cs2-rulebook,7,"The remaining map is played as a decider, if required",26
+ewc-2026-cs2-rulebook,6.4,Match settings,26
+ewc-2026-cs2-rulebook,6.5,Match server,26
+ewc-2026-cs2-rulebook,6.6,In-game chat,26
+ewc-2026-cs2-rulebook,6.7,Coaching,27
+ewc-2026-cs2-rulebook,6.8,Usage of pause function,28
+ewc-2026-cs2-rulebook,6.8.2,Tournament administration pause,28
+ewc-2026-cs2-rulebook,6.9,Player settings,28
+ewc-2026-cs2-rulebook,6.9.1,Configuration files,28
+ewc-2026-cs2-rulebook,6.9.2,Warmup maps,28
+ewc-2026-cs2-rulebook,6.10,Match procedures,29
+ewc-2026-cs2-rulebook,6.10.1,Match breaks,29
+ewc-2026-cs2-rulebook,6.10.2,Number of players,29
+ewc-2026-cs2-rulebook,6.10.3,Match interruptions,30
+ewc-2026-cs2-rulebook,6.10.4,Use of bugs and glitches,30
+ewc-2026-cs2-rulebook,6.10.5,Reconnecting,31

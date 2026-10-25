@@ -1,0 +1,12 @@
+Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+Position,Allowed/disallowed,Example,Comment
+A site - Above sandbags,Disallowed,"Example 1, Example 2",
+"A site - Yellow, ramp side",Disallowed,"Example 1, Example 2",
+A site - Above scaffold,Allowed,"Example 1, Example 2",
+B site - Near generator,Disallowed,Example 1,
+B site - Above wood,Disallowed,Example 1,
+B site - Above Catwalk 1,Disallowed,"Example 1, Example 2",
+B site - Above Catwalk 2,Disallowed,"Example 1, Example 2",
+CT Spawn - Crane,Disallowed,"Example 1, Example 2",
+Elevators - Above A Entrance,Disallowed,"Example 1, Example 2",
+A Site - Railing near sandbags,Allowed,"Example 1, Example 2",

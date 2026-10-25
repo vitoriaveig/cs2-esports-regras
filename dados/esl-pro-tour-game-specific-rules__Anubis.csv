@@ -1,0 +1,22 @@
+Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+Position,Allowed/disallowed,Example,Comment
+A Site - Plateau Entrance Pillar,Disallowed,"Example 1, Example 2",
+A Site - Fountain,Disallowed,"Example 1, Example 2",
+CT Mid - Pillar Right,Disallowed,"Example 1, Example 2",
+CT Mid - Pillar Left,Disallowed,Example 1,
+CT Mid - Ledge,Disallowed,"Example 1, Example 2",
+A Site - Plateu Stairs Pillar,Disallowed,Example 1,
+A Site - Entrance Pillar,Disallowed,Example 1,
+B Site - Alley Pillar 1,Disallowed,Example 1,
+B Site - Alley Pillar 2,Disallowed,Example 1,
+B Site - Alley Pillar 3,Disallowed,Example 1,
+B Site - Alley Pillar 4,Disallowed,Example 1,
+B Site - Alley Pillar 5,Disallowed,Example 1,
+B Site - Dark Pillar Right,Disallowed,Example 1,
+B Site - Dark Pillar Left (Front),Disallowed,Example 1,
+B Site - Dark Pillar Left (Back),Disallowed,Example 1,
+T Spawn - Pillars,Disallowed,Example 1,
+Out of bounds,Disallowed,Example 1,Any attempts to exit the map/the playable area are forbidden.
+T Spawn - Porch,Allowed,Example 1,
+B Site - Heaven,Disallowed,"Example 1, Example 2",
+CT Spawn - Cave,Disallowed,"Example 1, Example 2",

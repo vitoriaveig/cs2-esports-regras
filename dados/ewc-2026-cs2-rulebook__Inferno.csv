@@ -1,0 +1,7 @@
+Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+Position,Allowed/disallowed,Example,Comment
+Pharmacy,Disallowed,"Example 1, Example 2",
+Pit Wall,Disallowed,"Example 1, Example 2",
+CT Speedwalk,Allowed,"Example 1, Example 2, Example 3",
+A Site - Back Site,Allowed,"Example 1, Example 2, Example 3",
+Bedroom Balcony,Allowed,"Example 1, Example 2, Example 3",

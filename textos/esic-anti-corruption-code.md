@@ -15,7 +15,7 @@ fonte_original: ""
 sha256: "c2bef1bc1672a911ea31c45b08064da43076edc09f358df54c7f4a0afb124fb1"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-25T15:52:00Z"
+baixado_em: "2026-10-25T16:00:24Z"
 acervo: "cs2-esports-regras (https://github.com/vitoriaveig/cs2-esports-regras)"
 ---
 Anti-Corruption Code

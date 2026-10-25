@@ -15,7 +15,7 @@ fonte_original: ""
 sha256: "76b0232c6330f0ca82a7c3c194e07e62e4133c16d7991c2a1d552e1250d86d19"
 paginas: ""
 idioma: ""
-baixado_em: "2026-10-25T15:52:06Z"
+baixado_em: "2026-10-25T16:00:29Z"
 acervo: "cs2-esports-regras (https://github.com/vitoriaveig/cs2-esports-regras)"
 ---
 ESIC Prohibited Substance List

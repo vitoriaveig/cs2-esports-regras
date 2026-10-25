@@ -42,9 +42,25 @@ Se o fork estiver indisponível, leia as regras direto da Valve (https://raw.git
 
 **Versão aplicável (Valve).** Vale para um torneio a versão dos requisitos em vigor no prazo de *Additional Information* daquele torneio (preâmbulo do documento). Use `historico/valve/versoes.csv` para achar a versão vigente numa data e cite o commit. Uma regra de hoje pode não valer para um evento passado.
 
+Torneios podem ser Ranked (Tier 1, Tier 2, Wildcard) ou Unranked. Unranked podem convidar livremente, mas têm teto de premiação.
+
 **Exceções.** A Valve diz que a lista pode estar incompleta. Se um evento não aparece, diga "não há exceção registrada", nunca "o evento segue a regra". `dados/valve_excecoes.csv` já traz cada exceção separada, com categoria, seção provável, data e commit de inclusão e se continua na versão atual. Categoria, seção e organizador são inferidos por regras: confira e diga que é interpretação quando a ligação com a regra não for óbvia.
 
-Mapa de tipos de exceção para a seção provável (confira os números na versão vigente): convites diretos ou extras → 3.2, 3.6; filtros regionais (ex.: NA e SA separados) → 3.3, 3.7.1, 3.8.3; qualificatórias regionais no lugar de convites VRS ou menos convites (16 em vez de 20) → 3.7.2; prazos menores de anúncio/operação → 4.1, 4.3.1; mudanças após o prazo de Additional Information (formato, datas, online/LAN, regras de desclassificação) → 4.3.2, 5.4; premiação (disputa de 3º lugar, prêmio por desempenho, redução da premiação) → 3.2.8, 4.3.2; eventos Wildcard → 3.9; operar sob versão anterior dos requisitos → preâmbulo; região de um roster → 3.3.3 e regras do VRS.
+Mapa de tipos de exceção para a seção da regra que elas flexibilizam (confira os números das seções na versão vigente, pois podem mudar):
+
+| Tipo de exceção | Seção provável |
+|---|---|
+| Convite direto por desempenho prévio, convites extras ou a times específicos | 3.2 (Invites), 3.6 (Wildcard Invite) |
+| Filtros regionais (ex.: NA e SA separados) | 3.3 (VRS Subdivision), 3.7.1, 3.8.3 |
+| Qualificatórias regionais no lugar de convites VRS; menos convites VRS (ex.: 16 em vez de 20) | 3.7.2 |
+| Prazos de anúncio/operação menores | 4.1, 4.3.1 |
+| Mudanças após o prazo de Additional Information (formato, datas, online/LAN, regras de desqualificação) | 4.3.2, 5.4 |
+| Premiação: disputa de 3º lugar, divisão com prêmio por desempenho, redução da premiação anunciada | 3.2.8, 4.3.2 |
+| Eventos Wildcard (ex.: após dois torneios em vez de três; qualificatória tratada como Tier 2) | 3.9 |
+| Operar sob versão anterior dos requisitos | preâmbulo (versão aplicável) |
+| Atribuição de região a um roster específico | 3.3.3 e regras do VRS |
+
+Quando a relação entre a exceção e a regra não for óbvia (ex.: disputa de 3º lugar provavelmente esbarra na exigência de premiação igual para colocações iguais, 3.2.8 b), diga que é uma interpretação.
 
 **Organizadores.** O rulebook da ESL Pro Tour é um arquivo único no Google Drive que a ESL sobrescreve desde 2023 (mesmo link); versões antigas não estão disponíveis publicamente, e o histórico só existe a partir das coletas do repositório. Desde a Update #2 de 2026 (07/07/2026) ele reúne General Rules, Game Specific Rules e Roster Restrictions. Muitos regulamentos de outras épocas são cópias comunitárias da Liquipedia: cite com a ressalva de procedência e confira versão e data no texto. Documentos marcados com jogo "a verificar" podem não ser de Counter-Strike: confirme no texto antes de usar.
 
@@ -65,6 +81,7 @@ Mapa de tipos de exceção para a seção provável (confira os números na vers
 ### 4.1 Bases prontas
 
 - **Exceções da Valve** (`dados/valve_excecoes.csv`): contagens por categoria, ano, organizador e tier; tempo entre inclusão da exceção e o evento; exceções removidas ou alteradas (`presente_na_versao_atual` = não); exceções que viraram regra depois (compare o texto da exceção com versões posteriores dos requisitos em `historico/valve/`; exemplo a checar: a separação NA/SA, concedida como exceção em 2025 e hoje prevista como possibilidade na seção 3.3.1).
+- **Se a base pronta não estiver disponível**, monte-a: clone o repositório da Valve (com histórico) e, em Python, transforme as tabelas do arquivo de exceções em uma linha por exceção individual (separe por `<br>` e por itens `<li>`, mantendo subitens ligados à exceção-mãe), com `ano`, `evento`, `organizador` (só quando seguro: ESL, IEM, ESEA → ESL FACEIT Group; BLAST → BLAST; PGL → PGL; nos demais, "a verificar"; não invente), `texto_original`, `categoria`, `secao_regra`, `tier` (se inferível), `data_inclusao` e `commit_inclusao` (via `git log --follow -p` ou `git log -S"<evento>"`). O script `scripts/historico_valve.py` do fork faz exatamente isso.
 - **Histórico das regras** (`historico/valve/versoes.csv` + versões): evolução dos requisitos e do regulamento dos Majors; use `comparar_versoes.py` ou `diff` entre duas versões e cite datas e commits.
 - **Organizadores**: compare regulamentos de um mesmo organizador no tempo (ex.: ESL One 2018 → 2019 → 2020; ESL Pro League 2020 em três versões; IEM XIII → XV; BLAST Premier 2020 → 2021) e organizadores entre si (Majors de ESL, PGL, StarLadder, ELEAGUE, BLAST).
 - **Integridade**: códigos da ESIC e a decisão sobre o bug do técnico (2020) como dado de sanções.

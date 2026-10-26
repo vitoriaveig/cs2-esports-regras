@@ -12,10 +12,10 @@ procedencia: "Oficial (site da ESIC)"
 acesso: "coletável"
 url: "https://esic.gg/codes/esic-prohibited-list/"
 fonte_original: ""
-sha256: "1a33e79d5d287785ec4bf330c4931cb408d0a7bd9f4a3856b9066c7135ce1bf7"
+sha256: "767a123ffef4b280c049135c57181d6f30ba56c07c303bd135e8429dcc589e25"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-25T16:04:10Z"
+baixado_em: "2026-10-26T16:18:42Z"
 acervo: "cs2-esports-regras (https://github.com/vitoriaveig/cs2-esports-regras)"
 ---
 

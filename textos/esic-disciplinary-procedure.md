@@ -12,10 +12,10 @@ procedencia: "Oficial (site da ESIC)"
 acesso: "coletável"
 url: "https://esic.gg/codes/disciplinary-procedure/"
 fonte_original: ""
-sha256: "9a98fd0e73c646cc3c37f3c78dde01121f7aa65bad4e40a72503c9ca00875e83"
+sha256: "b48bda7c7bd7f34807b695d62379e81b45107b5e4ce16e9ade74c13b1311386a"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-25T16:04:08Z"
+baixado_em: "2026-10-26T16:18:40Z"
 acervo: "cs2-esports-regras (https://github.com/vitoriaveig/cs2-esports-regras)"
 ---
 

@@ -12,10 +12,10 @@ procedencia: "Oficial (site da ESIC)"
 acesso: "coletável"
 url: "https://esic.gg/codes/anti-corruption-code/"
 fonte_original: ""
-sha256: "c758a2285a8c636602ab8e7ff2e11264a210b08d9c11d46178ddbd405c0793c3"
+sha256: "cb6dd4f3cd5d17c197a9e3a2fb55e00f4790156f75df51daed509ffd50390918"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-10-25T16:04:05Z"
+baixado_em: "2026-10-26T16:18:37Z"
 acervo: "cs2-esports-regras (https://github.com/vitoriaveig/cs2-esports-regras)"
 ---
 

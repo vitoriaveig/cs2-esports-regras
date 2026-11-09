@@ -12,10 +12,10 @@ procedencia: "Oficial (site da ESIC)"
 acesso: "coletável"
 url: "https://esic.gg/codes/anti-doping-code/"
 fonte_original: ""
-sha256: "d446a68b2948009887e1695a31febe10dbcd5fe77f027afef535d7c3b5cbb6e5"
+sha256: "45b5064fa6cda78188ca1e5b5bea306764c4629486c4353d0687e4d80ed19a5c"
 paginas: ""
 idioma: "en"
-baixado_em: "2026-11-02T19:47:05Z"
+baixado_em: "2026-11-09T05:01:14Z"
 acervo: "cs2-esports-regras (https://github.com/vitoriaveig/cs2-esports-regras)"
 ---
 Anti-Doping Code

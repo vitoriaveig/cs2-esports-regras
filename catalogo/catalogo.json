@@ -1,7 +1,7 @@
 {
  "descricao": "Corpus de regulamentos de Counter-Strike: regras da Valve (fork sincronizado) + organizadores, integridade e histórico",
- "catalogo_gerado_em": "2026-11-02",
- "n_documentos": 89,
+ "catalogo_gerado_em": "2026-11-09",
+ "n_documentos": 90,
  "n_coletaveis": 88,
  "documentos": [
   {
@@ -2228,6 +2228,31 @@
    "mesmo_arquivo_que": "",
    "texto": "textos/blesti-2-0-rulebook.md",
    "status_biblioteca": "coletável"
+  },
+  {
+   "id": "esl-challenger-league-broadcast-guidelines-2026",
+   "titulo": "ESL Challenger League Broadcast Guidelines (2026, Season 52)",
+   "jogo": "Counter-Strike 2",
+   "era": "CS2",
+   "camada": "Organizador terceiro",
+   "competicao": "ESL Challenger League",
+   "organizador": "ESL FACEIT Group",
+   "tipo_organizador": "Organizador terceiro",
+   "nivel": "Tier 2",
+   "regiao": "Global",
+   "temporada": "2026",
+   "versao": "Last update: July 8, 2026 (Season 52)",
+   "tipo_documento": "Diretrizes",
+   "idioma": "en",
+   "procedencia": "Cópia fornecida pela pesquisadora",
+   "acesso": "fornecido pela pesquisadora (texto extraído do PDF)",
+   "url": "arquivo-fornecido:ESL_Challenger_League_Broadcast_Guidelines.pdf",
+   "fonte_original": "",
+   "nota": "Diretrizes de transmissão da ESL Challenger League, parte do contrato de licença entre a EFG e os transmissores aprovados; exigem atraso de 240 segundos no POV streaming (para impedir stream sniping) e informam que CSTVs e clean feed já saem com 240 segundos de atraso",
+   "chave_arquivo": "10f9fd66f02a",
+   "mesmo_arquivo_que": "",
+   "texto": "textos/esl-challenger-league-broadcast-guidelines-2026.md",
+   "status_biblioteca": "fornecido pela pesquisadora (texto extraído do PDF)"
   }
  ]
 }
